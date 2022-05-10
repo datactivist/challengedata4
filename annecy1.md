@@ -1,7 +1,7 @@
 # Carnet de bord de l'ouverture des données d'Annecy (groupe 1)
 
 par 
-![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/Annecy1.jpg)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/Annecy1.jpg?token=GHSAT0AAAAAABUMCRKOKE3RBRIAIHPPPO3IYT2QLEA)
 
 ## JOUR 1 – DIAGNOSTIC
 
