@@ -1,130 +1,52 @@
 # Carnet de bord de l'ouverture des données d'Annecy (groupe 1)
 
 par 
-![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/Annecy1.jpg?token=GHSAT0AAAAAABUMCRKP2C4BLX3NJ3DZRDQEYT2PYTQ)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/Annecy1.jpg)
 
-    **JOUR 1 – DIAGNOSTIC**
+## JOUR 1 – DIAGNOSTIC
 
+Présentation de la collectivité : 
 
-    _Dans cette partie, vous aurez à présenter la collectivité que vous accompagnez, faire le bilan du diagnostic et résumer les choix et les objectifs de la commune ainsi que ses motivations à ouvrir ses données._
-
-
-    _Pièce à joindre : wishlist_
+Annecy est une commune française située en région Auvergne-Rhône-Alpes, chef-lieu et préfecture de Haute-Savoie. Située dans les Alpes françaises, Annecy fait partie de l’axe des agglomérations du sillon alpin. Avec ses 128 199 habitants en 2018, Annecy est à la 29e place des villes françaises. La ville peut s’enorgueillir d’une longue histoire, marquée par la présence des comtes de Genève puis des comtes de Savoie, puis l’annexion du territoire savoyard à la France en 1860 avec le Traité de Turin, sous Napoléon III. Annecy a connu une forte industrialisation au XIXe siècle, et reste encore aujourd’hui un bassin d’emploi important sur le territoire. Annecy est donc une ville dynamique confrontée à de nombreux enjeux, communs à toutes les villes comme par exemple liés au transport ou à la mobilité, ou à des enjeux plus spécifiques, par exemple liés à des enjeux touristiques ou d’aménagement du territoire. 
 
 
-**Résumé : **
+Diagnostic : 
 
 
-<table>
-  <tr>
-   <td>Réussite ou casse-tête ?
-   </td>
-   <td>Explication / Citation
-   </td>
-  </tr>
-  <tr>
-   <td>Casse-tête
-   </td>
-   <td>Prendre en main les nombreuses ressources différentes mises à notre disposition
-   </td>
-  </tr>
-  <tr>
-   <td>Casse-tête 
-   </td>
-   <td>Travailler, préparer et débriefer un entretien avec une double-équipe de 12 personnes 
-   </td>
-  </tr>
-  <tr>
-   <td>Réussite 
-   </td>
-   <td>Avoir réussi à créer une wishlist à l’issue de l’entretien en regroupant les différents thèmes en deux grandes thématiques 
-   </td>
-  </tr>
-  <tr>
-   <td>Réussite 
-   </td>
-   <td>Travailler de manière efficace au sein d’un groupe de 6 personnes 
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
+L’objectif de cette première journée de Data Challenge, après la réunion introductive qui a lancé la semaine, était notamment la prise en main des outils. A notre disposition était mise la plateforme Gather, un espace de rassemblement en ligne, interface de contact entre le ou les interlocuteurs des collectivités territoriales et les groupes d’étudiants. De plus, de nombreuses ressources étaient accessibles en ligne pour nous aider et nous guider notamment sur les questions de méthodologie. Nous avons ainsi été invités à naviguer sur Gather et entre les différentes ressources pour mieux appréhender le déroulement de la semaine. 
+
+Nous avons également pris contact avec notre interlocuteur, Léonard Gay, chargé de mission en transition numérique au sein de la mairie d’Annecy pour échanger sur les besoins de la collectivité et les sujets sur lesquels la ville pourrait avoir besoin de notre intervention. Ainsi, Datactivist, pour faciliter cette première prise de contact, a mis à notre disposition un questionnaire visant à évaluer le niveau de maturité de la collectivité territoriale. Ce questionnaire nous permet de faire un état des lieux sur les datas déjà récoltées et utilisées par la collectivité. Nous avons ainsi pu constater que la commune récolte et gère des données depuis longtemps, comme le montre la présence d’un système de SIG à Annecy depuis près de 25 ans. 
 
 
-
-        Annecy est une commune française située en région Auvergne-Rhône-Alpes, chef-lieu et préfecture de Haute-Savoie. Située dans les Alpes françaises, Annecy fait partie de l’axe des agglomérations du sillon alpin. Avec ses 128 199 habitants en 2018, Annecy est à la 29e place des villes françaises. La ville peut s’enorgueillir d’une longue histoire, marquée par la présence des comtes de Genève puis des comtes de Savoie, puis l’annexion du territoire savoyard à la France en 1860 avec le Traité de Turin, sous Napoléon III. Annecy a connu une forte industrialisation au XIXe siècle, et reste encore aujourd’hui un bassin d’emploi important sur le territoire. Annecy est donc une ville dynamique confrontée à de nombreux enjeux, communs à toutes les villes comme par exemple liés au transport ou à la mobilité, ou à des enjeux plus spécifiques, par exemple liés à des enjeux touristiques ou d’aménagement du territoire. 
-
-
-        **Diagnostic** : 
+Ce premier entretien a donc pour objectif de soulever les thématiques sur lesquelles nous allons travailler au cours de la semaine, à partir des jeux de données que la collectivité souhaite ouvrir. D’ailleurs, à l’issue de cet entretien, notre groupe a pu créer une wishlist en lien avec la collectivité territoriale. Ainsi, les deux groupes travaillant sur la collectivité territoriale d’Annecy se sont mis d’accord sur un porte-parole par groupe pour échanger directement avec l’interlocuteur. 
 
 
-        	L’objectif de cette première journée de Data Challenge, après la réunion introductive qui a lancé la semaine, était notamment la prise en main des outils. A notre disposition était mise la plateforme Gather, un espace de rassemblement en ligne, interface de contact entre le ou les interlocuteurs des collectivités territoriales et les groupes d’étudiants. De plus, de nombreuses ressources étaient accessibles en ligne pour nous aider et nous guider notamment sur les questions de méthodologie. Nous avons ainsi été invités à naviguer sur Gather et entre les différentes ressources pour mieux appréhender le déroulement de la semaine. 
+Nous avons retrouvé notre interlocuteur Léonard Gay sur Microsoft Teams à 14h, accompagné de deux de ses collègues qui travaillent sur le Système d’Information Géographique. Nous avons choisi d’introduire l’entretien en détaillant notre démarche et nos méthodes de travail, remplir ensuite le questionnaire avec nos interlocuteurs, puis de soulever plusieurs thématiques pour constituer une wish list. Nous avons également essayé de faire émerger deux grands axes thématiques pour que chacun des deux groupes puisse travailler sur un thème différent de l’autre groupe. D’entrée de jeu, ils nous ont expliqué pourquoi ils avaient choisi de participer au challenge data. En effet, depuis de nombreuses années, la ville d’Annecy est marquée par un attrait pour la récolte de données, d’ailleurs, la ville d’Annecy va sous peu accueillir un agent spécialement chargé de l’Open Data, avec une importance croissante du traitement de données. Ces données ont déjà une place importante au sein de la mairie, de nombreux agents sont d’ailleurs encouragés à mettre à jour régulièrement les données relatives aux thématiques dont ils sont en charge. La commune a donc l’ambition de développer l’Open Data mais n’a pas encore pu se lancer, et voit le challenge data comme un moyen de préparer le terrain politique pour faciliter l’ouverture des jeux de datas. En effet, Annecy a accumulé près de 500 ou 600 couches de données qu’il convient de traiter et d’ouvrir au public. Notre interlocuteur et ses collègues voient donc le challenge data comme une expérimentation sur le sujet du traitement des données au sein de la mairie, en lien avec des interlocuteurs externes. La commune d’Annecy n’a donc pas d’objectifs précis, pas de jeux de données spécifiques sur lesquels ils tiennent à nous faire travailler. 
 
 
-        Nous avons également pris contact avec notre interlocuteur, Léonard Gay, chargé de mission en transition numérique au sein de la mairie d’Annecy pour échanger sur les besoins de la collectivité et les sujets sur lesquels la ville pourrait avoir besoin de notre intervention. Ainsi, Datactivist, pour faciliter cette première prise de contact, a mis à notre disposition un questionnaire visant à évaluer le niveau de maturité de la collectivité territoriale. Ce questionnaire nous permet de faire un état des lieux sur les datas déjà récoltées et utilisées par la collectivité. Nous avons ainsi pu constater que la commune récolte et gère des données depuis longtemps, comme le montre la présence d’un système de SIG à Annecy depuis près de 25 ans. 
+Nous avons finalement réussi à trouver 10 thèmes sur lesquels Annecy dispose de données et sur lesquels nos interlocuteurs ont donné leur accord. Nous avons regroupé ces jeux de données en deux grandes catégories : 
+
+**Tourisme et attractivité du territoire (Groupe 1)** : 
+* Résultat des élections et liste des élus
+* Chemins de randonnée pédestre
+* Monuments historiques
+* Défibrillateurs
+* Inclusion numérique du territoire
+
+**Mobilité et aménagement du territoire (Groupe 2)** : 
+
+* Signalisation tricolore 
+* Parking vélo
+* Recharge e-borne
+* Permis de construire
+* Noms des nouveaux nés
 
 
-        Ce premier entretien a donc pour objectif de soulever les thématiques sur lesquelles nous allons travailler au cours de la semaine, à partir des jeux de données que la collectivité souhaite ouvrir. D’ailleurs, à l’issue de cet entretien, notre groupe a pu créer une wishlist en lien avec la collectivité territoriale. Ainsi, les deux groupes travaillant sur la collectivité territoriale d’Annecy se sont mis d’accord sur un porte-parole par groupe pour échanger directement avec l’interlocuteur. 
+Notre interlocuteur a également évoqué deux projets annexes qu’il nous propose de réaliser : une interview de l’adjoint au maire chargé du numérique, ainsi que la rédaction d’un projet-cadre sur l’Open Data pour la ville d’Annecy. Nous verrons dans les prochains jours si ces projets sont réalisables. 
 
 
-        Nous avons retrouvé notre interlocuteur Léonard Gay sur Microsoft Teams à 14h, accompagné de deux de ses collègues qui travaillent sur le Système d’Information Géographique. Nous avons choisi d’introduire l’entretien en détaillant notre démarche et nos méthodes de travail, remplir ensuite le questionnaire avec nos interlocuteurs, puis de soulever plusieurs thématiques pour constituer une wish list. Nous avons également essayé de faire émerger deux grands axes thématiques pour que chacun des deux groupes puisse travailler sur un thème différent de l’autre groupe. D’entrée de jeu, ils nous ont expliqué pourquoi ils avaient choisi de participer au challenge data. En effet, depuis de nombreuses années, la ville d’Annecy est marquée par un attrait pour la récolte de données, d’ailleurs, la ville d’Annecy va sous peu accueillir un agent spécialement chargé de l’Open Data, avec une importance croissante du traitement de données. Ces données ont déjà une place importante au sein de la mairie, de nombreux agents sont d’ailleurs encouragés à mettre à jour régulièrement les données relatives aux thématiques dont ils sont en charge. La commune a donc l’ambition de développer l’Open Data mais n’a pas encore pu se lancer, et voit le challenge data comme un moyen de préparer le terrain politique pour faciliter l’ouverture des jeux de datas. En effet, Annecy a accumulé près de 500 ou 600 couches de données qu’il convient de traiter et d’ouvrir au public. Notre interlocuteur et ses collègues voient donc le challenge data comme une expérimentation sur le sujet du traitement des données au sein de la mairie, en lien avec des interlocuteurs externes. La commune d’Annecy n’a donc pas d’objectifs précis, pas de jeux de données spécifiques sur lesquels ils tiennent à nous faire travailler. 
-
-
-        Nous avons finalement réussi à trouver 10 thèmes sur lesquels Annecy dispose de données et sur lesquels nos interlocuteurs ont donné leur accord. Nous avons regroupé ces jeux de données en deux grandes catégories : 
-
-
-        Tourisme et attractivité du territoire (Groupe 1)
-
-
-        Résultat des élections et liste des élus
-
-
-        Chemins de randonnée pédestre
-
-
-        Monuments historiques
-
-
-        Défibrillateurs
-
-
-        Inclusion numérique du territoire
-
-
-        Mobilité et aménagement du territoire (Groupe 2)
-
-
-        Signalisation tricolore 
-
-
-        Parking vélo
-
-
-        Recharge e-borne
-
-
-        Permis de construire
-
-
-        Noms des nouveaux nés
-
-
-        Notre interlocuteur a également évoqué deux projets annexes qu’il nous propose de réaliser : une interview de l’adjoint au maire chargé du numérique, ainsi que la rédaction d’un projet-cadre sur l’Open Data pour la ville d’Annecy. Nous verrons dans les prochains jours si ces projets sont réalisables. 
-
-
-        Nous avons donc terminé le jour 1 en envoyant un bilan de la journée et les différentes thématiques dégagées à notre interlocuteur de la ville d’Annecy, que nous revoyons demain à 13h30.
-
-
-    
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.jpg "image_tooltip")
+Nous avons donc terminé le jour 1 en envoyant un bilan de la journée et les différentes thématiques dégagées à notre interlocuteur de la ville d’Annecy, que nous revoyons demain à 13h30.
+ 
 
 
 
