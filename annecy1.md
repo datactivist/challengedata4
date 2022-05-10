@@ -48,7 +48,7 @@ Notre interlocuteur a également évoqué deux projets annexes qu’il nous prop
 Nous avons donc terminé le jour 1 en envoyant un bilan de la journée et les différentes thématiques dégagées à notre interlocuteur de la ville d’Annecy, que nous revoyons demain à 13h30.
  
 
-
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Screenshot%202022-05-10%20at%2017.21.59.png?token=GHSAT0AAAAAABUMCRKPBNZL4TCDZR3SCPBEYT2QPGQ)
 
     **JOUR 2 – IDENTIFICATION**
 
