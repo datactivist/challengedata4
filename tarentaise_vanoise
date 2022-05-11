@@ -1,0 +1,637 @@
+<!-- Output copied to clipboard! -->
+
+<!-----
+
+You have some errors, warnings, or alerts. If you are using reckless mode, turn it off to see inline alerts.
+* ERRORs: 0
+* WARNINGs: 0
+* ALERTS: 6
+
+Conversion time: 3.956 seconds.
+
+
+Using this Markdown file:
+
+1. Paste this output into your source file.
+2. See the notes and action items below regarding this conversion run.
+3. Check the rendered output (headings, lists, code blocks, tables) for proper
+   formatting and use a linkchecker before you publish this page.
+
+Conversion notes:
+
+* Docs to Markdown version 1.0β33
+* Wed May 11 2022 08:42:44 GMT-0700 (PDT)
+* Source doc: TarentaiseVanoise_Carnetdebord
+* Tables are currently converted to HTML tables.
+* This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server. NOTE: Images in exported zip file from Google Docs may not appear in  the same order as they do in your doc. Please check the images!
+
+----->
+
+
+<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 6.</p>
+<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
+
+<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
+<a href="#gdcalert2">alert2</a>
+<a href="#gdcalert3">alert3</a>
+<a href="#gdcalert4">alert4</a>
+<a href="#gdcalert5">alert5</a>
+<a href="#gdcalert6">alert6</a>
+
+<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
+
+
+
+    _Ce carnet de bord est destiné à écrire le récit de vos aventures ! Il doit être complété tout au long des étapes de ce patchwork._
+
+
+<table>
+  <tr>
+   <td><strong>PARTIE</strong>
+   </td>
+   <td><strong>Rédacteur/rédactrice</strong>
+   </td>
+   <td><strong>Note</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>1. Diagnostic
+   </td>
+   <td>Éléonore MORIN-MÉRILLON
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>2. Identification
+   </td>
+   <td>Emma BAGUR
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>3. Mise en qualité
+   </td>
+   <td>Maxence LINIÈRE 
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>4. Publication
+   </td>
+   <td>Margo LEROY
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>5. Valorisation
+   </td>
+   <td>Nicolas BASSO
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>Conclusion
+   </td>
+   <td>Mathilde SERVAES
+   </td>
+   <td>
+   </td>
+  </tr>
+</table>
+
+
+
+        **Consignes pour la rédaction des CDB**
+
+
+    Vous avez toutes et tous choisi une manière (ou pas) d’**anonymiser** vos noms et prénoms dans les carnets de bord, n’oubliez pas de respecter les choix d’anonymisation des membres de votre équipe au moment de la rédaction ;
+
+
+    N’oubliez pas aussi d’anonymiser les noms et prénoms des interlocuteurs et des agents ;
+
+
+    N’oubliez pas d’**inclure les pièces-jointes et documents** demandés chaque jour :
+
+
+
+* Wishlist 
+* Organigramme 
+* Communication éventuelle 
+* Dataviz
+
+    
+
+
+    **JOUR 1 – DIAGNOSTIC**
+
+
+    _Dans cette partie, vous aurez à présenter la collectivité que vous accompagnez, faire le bilan du diagnostic et résumer les choix et les objectifs de la commune ainsi que ses motivations à ouvrir ses données._
+
+
+    _Pièce à joindre : wishlist_
+
+
+**Présentation **
+
+
+        L’Assemblée du Pays Tarentaise Vanoise (APTV) est un Syndicat Mixte regroupant 5 communautés de communes de Tarentaise et le Département de la Savoie. Il couvre un territoire de 50 000 habitants. Le Syndicat se compose de 13/14 personnes (nombre fluctuant) mais 5/6 agents travaillent de manière détachée. Par conséquent, ce sont essentiellement 7/8 personnes qui travaillent dans le Syndicat. L’activité touristique du territoire est très importante (nombreuses grandes stations de ski : Courchevel, Val d’Isère, Méribel, Tignes…). L’APTV prend en charge différentes missions : le Schéma de Cohérence Territorial, le Service Application Droit des Sols, l’Agriculture, la Santé, la Transition énergétique et mobilité, Eau et rivières ainsi que le Tourisme estival. Dans ce cadre, nous avons échangé avec un agent de l’APTV concernant l’exploitation de leurs données touristiques. 
+
+**Diagnostic **
+
+
+        A l’issue de l’entretien nous en concluons que la difficulté principalement rencontrée est l’absence quasiment totale de données par l’APTV : pas de partage de données par les collectivités, pas de personne en charge de la donnée dans le Syndicat. Le score détenu par la collectivité à l’issue du questionnaire posé indique une maturité de la collectivité de niveau de Pallier 2.  
+
+**Choix et objectifs **
+
+
+        Les données à exploiter recherchées par l’APTV sont des données liées au secteur touristique. Le Syndicat Mixte souhaite en priorité obtenir des données concernant : 
+
+
+
+* La fréquentation touristique : données pouvant être obtenues par les offices de tourisme qui travaillent essentiellement avec G2A (concernant les hébergeurs : nombre nuitées/hébergement ; nombre nuitées/origine du touriste, âge, CSP) mais aussi par Orange (excursionnistes, saisonniers qui ne dorment pas sur place, les résidents) ; 
+* Les aménagements cyclables : données pouvant être obtenues par les communes ;
+* Les chemins de randonnée : données pouvant être obtenues par les communes.
+
+**Motivations** 
+
+
+        Le choix de ces données est motivé par une volonté politique. En effet, la stratégie du Syndicat Mixte dépend fortement des politiques des élus. Les données vont permettre à l’APTV de voir où ils doivent mettre les moyens et comment les orienter après avoir cerné par des chiffres le déséquilibre été/hiver (fréquentation qui semble respectivement être de 20%/80%). L’objectif est également de permettre la mutualisation des données entre les collectivités, pour qu’au-delà de la concurrence entre les communes exposée dans le tableau suivant, se développe une réelle coopération afin que l’APTV mette en place des politiques intégrées. 
+
+**Résumé : **
+
+
+<table>
+  <tr>
+   <td>Réussite ou casse-tête ?
+   </td>
+   <td>Explication / Citation
+   </td>
+  </tr>
+  <tr>
+   <td>Difficulté à comprendre la notion de Syndicat Mixte par rapport à une collectivité territoriale
+   </td>
+   <td>La réponse apportée à notre interrogation est que le Syndicat Mixte est une structure de coopération intercommunale permettant à des collectivités de s’associer entre elles ou avec des établissements publics (communautés de communes). Le syndicat mixte est plus petit qu’un département mais plus grand qu’une communauté de communes. Rôle du Syndicat de Pays de la Tarentaise Vanoise est plutôt ciblé dans l'ingénierie, conseil/accompagnement. La collaboration se réalise sur différents sujets que les collectivités territoriales choisissent (tourisme, mobilité, eau…). 
+   </td>
+  </tr>
+  <tr>
+   <td>Difficulté à obtenir des data par manque de volonté 
+   </td>
+   <td>La Tarentaise Vanoise détient peu de données (seulement itinéraires, randonnées) et n’a pas accès aux données détenues par les collectivités. L’obtention des données se fera en contactant les différentes collectivités membres. Pour autant, il existe une forte compétition entre les communes du territoire car celles-ci ont des grandes stations de ski concurrentielles et souhaitent conserver leurs données. Il y a donc un risque de rétention des informations. En plus de cela, la stratégie du Syndicat Mixte est orientée vers le tourisme estival. Pour autant, les collectivités souhaitent mettre en avant leur tourisme hivernal ce qui empêche le développement du tourisme estival. 
+   </td>
+  </tr>
+  <tr>
+   <td>Difficulté à obtenir de la data par contrainte techniques   
+   </td>
+   <td>L’obtention des données auprès des communes sera peut-être compliquée concernant notamment les chemins de randonnées et les aménagements cyclables car sur les 33 communes, il y a plusieurs petites communes qui n’ont pas les moyens humains pour structurer les données qu’elles détiennent et nous les communiquer. 
+   </td>
+  </tr>
+  <tr>
+   <td>Difficulté à venir dans la publication de certaines données 
+   </td>
+   <td>Il est possible que certaines collectivités territoriales ne communiquent pas d’informations sur les données hivernales car elles craignent que la concurrence soit faussée alors notre interlocutrice nous a expliqué qu’on ne publierait que les données estivales 
+   </td>
+  </tr>
+  <tr>
+   <td>Réussite dans l’identification des données à exploiter
+   </td>
+   <td>Nous sommes parvenues à définir trois types de données qui intéressent l’APTV : la fréquentation touristique, les chemins de randonnée, les aménagements cyclables. Nous avons également identifié les personnes à contacter pour obtenir ces informations. 
+   </td>
+  </tr>
+</table>
+
+
+**Wishlist **
+
+
+    
+
+
+    **JOUR 2 – IDENTIFICATION**
+
+
+    _Dans cette partie, vous aurez à raconter le déroulé de la dataexploration et à en faire le bilan._
+
+
+    _Pièces à joindre : organigramme des données, évaluation des données et wanted data list_
+
+
+    **Recueil des données** : Notre référente, nous a fourni une liste de contacts susceptibles d’avoir des jeux de données sur les fréquentations touristiques qui sont les données qui intéressent le plus notre syndicat mixte. Nous avons envoyé une trentaine de mails aux différents interlocuteurs dont des offices de tourisme, des mairies et EPCI. Certains interlocuteurs étaient réticents quant à l’ouverture des données. Cela s’inscrit dans la dynamique concurrentielle  entre les collectivités dont notre référente nous avait parlé concernant les saisons touristiques. S’ajoute à cela l’hypothèse de notre référent Datactivist, selon lequel les motivations du syndicat mixte à la participation au challenge serait une ouverture des données dans le but de de financer plus amplement les collectivités qui ont les chiffres de fréquentation les plus importants. Les seuls interlocuteurs qui nous ont répondu nous ont fourni des données inexploitables, pré-exploitées par la société G2A. Cela veut dire que les offices de tourisme n’ont pas forcément les données brutes sous format excel. 
+
+
+    **Organigramme des données** : en attendant les données des offices de tourisme, nous avons réalisé l’organigramme des données en remplissant pour chaque interlocuteur nos contacts. Nous n’avons pas ajouté de jeux de données à l’organigramme car nous n’avons pas reçu de jeux de données exploitables. 
+
+
+    **Évaluation des données** : Nos données ne sont pas sous la forme souhaitée c’est-à-dire Excel ou CSV. Les données sont déjà sous forme de data visualisation, ce qui n’était pas la forme souhaitée. Au lieu d’utiliser les templates de nos datactivists, nous allons reprendre les données des fichiers valorisés que nous avons et faire nos propres valorisations. En ce sens, le bilan que nous pouvons faire sur les données que nous avons récoltées est qu’il s'agit d’un travail d’ouverture difficile car les données se présentent sous la forme de graphiques et autres datavisualisations dans des fichiers pdf (voir wanted data list). 
+
+**Résumé : **
+
+
+<table>
+  <tr>
+   <td>Réussite ou casse-tête ? 
+   </td>
+   <td>Explication / Citation
+   </td>
+  </tr>
+  <tr>
+   <td>Difficulté à avoir des réponses de la part des personnes contactées par mail 
+   </td>
+   <td>Nous avons établi une liste de contacts par email mais nous n'avons reçu que deux réponses sur une trentaine de personnes contactées. Nous avons alors établi une liste de personnes à contacter par téléphone (classement selon leurs disponibilités et s’ils sont au courant du challenge). 
+   </td>
+  </tr>
+  <tr>
+   <td>Difficulté à ce que la démarche d’ouverture des données soit comprise 
+   </td>
+   <td>Certains interlocuteurs ont évoqué l’idée selon laquelle il s’agit d’un travail colossal qui ne se fait pas en si peu de temps. En tant que simples étudiants, il est parfois difficile d’expliquer notre démarche aux interlocuteurs concernés (ici offices de tourisme). 
+   </td>
+  </tr>
+  <tr>
+   <td>Difficulté de savoir à qui appartiennent les données après refus 
+   </td>
+   <td>Les offices de tourisme à qui nous avons demandé des jeux de données ont soit refusé de nous fournir les données soit nous ont fourni des données déjà exploitées par G2A. Après enquête auprès de notre référente au syndicat mixte, cet intermédiaire traiterait les données de la plupart des offices de tourisme. Notre problème est que cet intermédiaire ne souhaite pas partager ses données brutes avec nous ou ne peut pas le faire en si peu de temps. Nous n’avons malheureusement pas encore de données exploitables et nous retrouvons dans une situation délicate.
+   </td>
+  </tr>
+  <tr>
+   <td>Difficulté à contacter certains interlocuteurs 
+   </td>
+   <td>Certains des contacts qui nous ont été donnés par notre référente au syndicat mixte n’étaient plus en poste. 
+   </td>
+  </tr>
+  <tr>
+   <td>Difficulté de compréhension pour obtenir des jeux de données des acteurs
+   </td>
+   <td>Lorsque nous avons contacté certains acteurs des offices de tourisme, a été évoqué le fait que souvent, ce sont les offices qui sont à la recherche des données et non l’APTV. Habituellement, ce serait plutôt les offices qui demandent des jeux de données à l’APTV. 
+   </td>
+  </tr>
+  <tr>
+   <td>Difficulté à trouver des données 
+   </td>
+   <td>Notre interlocuteur G2A était d’accord pour nous fournir des fichiers excels avec des données brutes mais cela prend plusieurs semaines. Il nous est donc impossible de traiter les données de l’intermédiaire des collectivités territoriales de notre syndicat mixte. 
+   </td>
+  </tr>
+  <tr>
+   <td>Difficulté : compréhension de notre mission par les interlocuteurs 
+   </td>
+   <td>Une des difficultés que nous avons rencontré à l’issue de cette seconde journée est une méconnaissance de ce que sont des jeux de données, ou ce que nous cherchons à faire avec ces données par nos interlocuteurs dans les collectivités. Peut-être est-ce dû à un manque de préparation du terrain par notre référente sur place : les collectivités n’étaient pas ou avaient une vague idée de ce que le challenge data implique. Cela a rendu notre travail difficile car nous n’avons pas pu réaliser les étapes de la seconde journée comme nous l’aurions voulu. 
+   </td>
+  </tr>
+</table>
+
+
+**  **
+
+
+
+<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image1.png "image_tooltip")
+
+
+**Organigramme des données (image) + URL :**
+
+[https://app.mindmup.com/map/_free/2021/11/7abb4a004c7211ec96c30b2ebdaeb084](https://app.mindmup.com/map/_free/2021/11/7abb4a004c7211ec96c30b2ebdaeb084)
+
+**Wanted Data List (lien du document) : **
+
+
+    [https://docs.google.com/spreadsheets/d/1_RSwSX_iHbeV3OVenaIf1lhIZied0LtUx00wMb-LJ8E/edit#gid=942129362](https://docs.google.com/spreadsheets/d/1_RSwSX_iHbeV3OVenaIf1lhIZied0LtUx00wMb-LJ8E/edit#gid=942129362)
+
+
+    **JOUR 3 – MISE EN QUALITÉ**
+
+
+    _Dans cette partie, vous aurez à expliquer les traitements réalisés sur les différents jeux de données à ouvrir : vos procédés et vos objectifs._
+
+
+    _Pièce à joindre : bilans des traitements exportés depuis Workbench_
+
+
+    <span style="text-decoration:underline;">Contexte de mise au travail de l’équipe :</span>
+
+
+    Après la sollicitation, par voie électronique et téléphonique, des collectivités territoriales étant parties prenantes de l’APTV, les retours des services sont épars et peu fournis à ce jour. En effet, à ce stade, nous n’avons reçu que 4 retours, par ailleurs et de prime abord, non exploitables en ce que ces derniers sont extraits du logiciel G2A dont le travail est la finalité à laquelle nous visons. Autrement dit, l’étape de mise en qualité et de valorisation a déjà été effectuée. 
+
+
+    <span style="text-decoration:underline;">Orientations choisies :</span>
+
+
+    Après un entretien avec notre référent de DATACTIVIST, un cap a été fixé. Nous allons en effet procéder à la création d’un jeu de données recoupant plusieurs critères sélectionnés parmi les nombreux retenus dans les différentes études de G2A. C’est le cas, par exemple, du taux de remplissage des logements, toutes catégories confondues, et du nombre de nuitées écoulées dans les 4 stations 
+
+
+    L’objet principal d’une pareille orientation est de participer à la constitution d’une valeur ajoutée aux données de G2A, afin de répondre aux besoins exprimés par l’APTV. Notre objectif commun est ainsi de mobiliser et offrir à notre référente territoriale une dimension comparative. En effet, notre référente à l’APTV nous avait expressément signifié lors de notre entretien liminaire la nécessité de faciliter la coopération entre les collectivités du syndicat dont elle est chargée de mission, ces collectivités ayant jusqu'ici conserver pour elles-mêmes leurs propres données, de façon sectorisée, sans jamais les partager avec leurs homologues ; à ne plus percevoir comme des concurrents, mais bien comme des associés. Cette problématique ayant été exposée supra, vous comprendrez la nécessité d’une telle démarche. 
+
+
+    <span style="text-decoration:underline;">Construction du jeu de données :</span>
+
+
+    Cette étape a probablement été la plus gourmande en temps mais, assurément, la plus riche d’enseignements. Ces derniers savent se décliner en plusieurs points. En premier lieu, il s’agit de ne pas dépasser un certain niveau de détail dans les critères retenus et ce, au risque de rendre la lecture graphique impossible. En second lieu, que, malgré une économie des moyens fournis, le travail d’équipe s’avère absolument nécessaire afin de conduire, à bien, notre démarche de rédaction d’un livrable.
+
+
+    Concrètement, nous avons sélectionné, après lecture de la documentation de G2A, certains critères comme le nombre de nuitées, le taux d’occupation, … Il a donc fallu que chaque binôme puise dans les données que nous avions, les chiffres y étant relatifs en procédant à leur isolement. En effet, nous n’avons pas souhaité intégrer des taux d’évolution dans notre travail. Ainsi, selon nous, nous avons créé des métadonnées dans la mesure où nous avons élaboré un jeu de données complet, _ex nihilo_, permettant d’ajouter « de la donnée sur de la donnée ».
+
+
+    La dernière remarque à apporter serait de préciser que nous avons été confrontés à quelques incohérences informatives présentes dans les documents de G2A. Cela se traduit concrètement par des données différentes d’une année sur l’autre, portant pourtant sur le même critère et sur une période similaire. À titre d’exemple, un taux d’occupation hors saison peut atteindre 3% hors saison une année et, lors d’un rappel, il n’est que de 2% l’année suivante. Certes négligeables d’un point de vue statistique, ces incohérences sont toutefois étonnantes. 
+
+
+    <span style="text-decoration:underline;">Étape de la mise en qualité et validation du jeu de données :</span>
+
+
+    Étape impossible à mener _via _Validata puisque nous avons créé nous-mêmes le jeu de données, après échanges avec notre référent chez DATACTIVIST. Toutefois, tentative de validation par comparaison avec d’autres jeux de données disponibles sur Internet, portant notamment sur la fréquentation des musées en France (document mis à disposition par le Ministère de la Culutre, voir en ce sens l’url suivant : [https://data.culture.gouv.fr/explore/dataset/frequentation-des-musees-de-france/information/?fbclid=IwAR1_ezJ-D4R3N_7cSEebrx7z9B0srF_iQxs_94uDLlvAcBj3CtD7HPndMXc](https://data.culture.gouv.fr/explore/dataset/frequentation-des-musees-de-france/information/?fbclid=IwAR1_ezJ-D4R3N_7cSEebrx7z9B0srF_iQxs_94uDLlvAcBj3CtD7HPndMXc) ).
+
+
+    Vous trouverez, grâce à ce lien url, le **bilan de la mise en qualité** de notre jeu de données : [https://docs.google.com/document/d/1rYtv6t83BhemR23lm7Xw3OyRsDUEGm7z/edit?fbclid=IwAR3R1cQOgJpQktVfWbPM8wTOAqrIkk2yfCwTY3YOMZ7CqSqKEizqMBeppJg](https://docs.google.com/document/d/1rYtv6t83BhemR23lm7Xw3OyRsDUEGm7z/edit?fbclid=IwAR3R1cQOgJpQktVfWbPM8wTOAqrIkk2yfCwTY3YOMZ7CqSqKEizqMBeppJg) 
+
+**Résumé : **
+
+
+<table>
+  <tr>
+   <td>Réussite ou casse-tête ? 
+   </td>
+   <td>Explication / Citation
+   </td>
+  </tr>
+  <tr>
+   <td>Difficulté à établir un tableau clair et lisible.  
+   </td>
+   <td>La difficulté rencontrée réside en ceci que les critères retenus rendent la lecture de notre tableur complexe. En effet, du fait de la temporalité de notre étude courant sur une année entière et elle-même subdivisée de façon semanale, notre groupe se retrouve confronté, à titre d’exemple, à plus de 530 lignes pour une seule collectivité (soit un schéma prévisionnel de plus de 2 000 lignes …). Dès lors, procéder à un arbitrage paraît être la solution : évacuer la dimension hebdomadaire, ou bien procéder à une réduction du nombre de collectivités (4 ; avec un risque de léser la dimension comparative de notre document). À la suite des recommandations de notre référent,  finalement opté pour une réduction drastique des entrées retenues : les critères sont réduits mais plus généraux. Ainsi, ils permettent une collecte plus lisible, à la fois pour le concepteur et le lecteur. 
+   </td>
+  </tr>
+  <tr>
+   <td>Difficulté de synchronisation du travail de chaque membre du groupe
+   </td>
+   <td>L’explication est simple, et malheureusement la même depuis le début de la semaine : le réseau Internet est d’une qualité tout à fait inadaptée aux nécessités qu’appellent un challenge data. Nous ne parvenons pas à travailler au même moment, ensemble, sur des documents communs. Certains se retrouvent, conséquemment, à devoir attendre le rétablissement du réseau et perdent ainsi du temps, qui peut déjà pourtant manquer. 
+   </td>
+  </tr>
+  <tr>
+   <td>Réussite : construction d’un tableau amendé
+   </td>
+   <td>Après une étape, marquée par certaines hésitations, des choix ont été faits et ont mené à une réussite collective. Cette dernière revient à l’ensemble de notre équipe qui a su rationaliser le traitement des données disponibles en procédant à une division technique du travail : fonctionnement par binôme, concentré sur les critères restreints, chacun étant responsable d’une collectivité. 
+   </td>
+  </tr>
+</table>
+
+
+
+    **JOUR 4 – PUBLICATION**
+
+
+    _Dans cette partie, vous aurez à présenter la stratégie open data de la collectivité et les premiers pas réalisés : quelle plateforme de publication est utilisée, comment est/sera géré le compte, quels en sont/seront les contributeurs et s’il y en a, quels sont les projets à venir._
+
+
+    _Pièce à joindre : url des jeux de données publiés_
+
+**	<span style="text-decoration:underline;">Matinée :</span>**
+
+
+    La matinée a commencé par le briefing quotidien suivi d’un debrief avec notre référent de chez DATACTIVIST afin de voir comment nous allions exploiter les données en notre possession. Nous avons appelé notre contact à l’APTV, qui était cependant souffrante. Nous avons donc choisi de ne pas la surcharger en l’incluant dans nos différentes recherches. Nous sommes donc partis sur le l’idée de monter une ébauche de plan de communication possible afin que l’APTV puisse lancer, à son tour, des collectes de données qui nous l’espérons seront plus fructueuses. 
+
+
+    En parallèle, nous avons entrepris la construction d’un argumentaire à destination des collectivités qui ont participé à notre démarche. Ce dernier pourra être réutilisé également pour tenter d’inciter plus de collectivités à fournir des informations pour se rapprocher des objectifs de l’APTV mais aussi des différents services qui peuvent être améliorés ou mis en place sur le territoire de la Tarentaise Vanoise. 
+
+
+    Nous nous sommes donné comme objectif de convier différents acteurs à la réunion de restitution sur _Gather_ qui se déroulera demain en fin de journée. Nous espérons pouvoir y retrouver notre contact (si son état de santé le permet) mais aussi des Offices de Tourismes qui nous ont transmis des données. Ce moment d’échange doit servir de discussion ouverte afin de confronter notre expérience et les ressentis, peurs, ou engagements des collectivités concernées. 
+
+
+    <span style="text-decoration:underline;">Après-midi :</span>
+
+
+    **Objectifs :**
+
+
+    	> Valorisation de données : infographie / graphiques / … (Data Viz). 
+
+
+    	> Reprise de contact avec les offices de tourisme : les convier à la restitution + argumentaire (synthétisé ?).  
+
+
+    	> Tenter de contacter Etalab. → Impossible de collaborer avec Etalab avec le jeu de données que nous avons créé. Mais quand même mentionner notre tentative car ça montrera qu’on est de bonne volonté. 
+
+
+    **Réalisations : **
+
+
+    	Mise en forme de la fiche descriptive des données. Réalisation d’un plan de communication à l’intention de l’APTV et des autres collectivités qui pourraient reprendre les recherches que nous avons initiées. Début de valorisation graphique mais impossibilité de publication en raison de freins internes. Impossibilité de contact avec Etalab. Alerte sur les réseaux sociaux de nouveaux acteurs qui pourraient être intéressés par notre démarche. 
+
+
+    [https://docs.google.com/presentation/d/1RJNQXxKhfGswsskC0E5-O8gv3aM_Bms-/edit#](https://docs.google.com/presentation/d/1RJNQXxKhfGswsskC0E5-O8gv3aM_Bms-/edit#)
+
+
+    	Envoie d’un mail d’information aux collectivités ayant répondu et participé à notre travail de collecte de données pour les informer de la tenue de la réunion de restitution de nos travaux le Vendredi 26 Novembre 2021 à 17h.
+
+**Résumé : **
+
+
+<table>
+  <tr>
+   <td>Réussite ou casse-tête ? 
+   </td>
+   <td>Explication / Citation
+   </td>
+  </tr>
+  <tr>
+   <td>Contact souffrante
+<p>
+(Casse-tête)
+   </td>
+   <td>Malheureusement notre interlocutrice se trouve être souffrante, cela ne nous permet donc pas de pouvoir avoir un contact régulier au fil de la journée avec cette dernière.
+   </td>
+  </tr>
+  <tr>
+   <td>Prise d’initiatives (Réussite)
+   </td>
+   <td>Nous choisissons donc de prendre des initiatives quant à la transmission des informations pour les collectivités concernées. Nous élaborons également un “plan de communication” possiblement réutilisable par l’APTV ainsi que d’autres collectivités pour améliorer leurs recherches de données mais aussi leur collecte.
+   </td>
+  </tr>
+  <tr>
+   <td>Modèle de présentation de données
+<p>
+(Réussite)
+   </td>
+   <td>Le tableur “modèle” que nous avons mis en forme n’est certes pas complet mais il permet aux collectivités de posséder une base sur laquelle se reposer. C'est un point de départ dans le travail de collecte - valorisation de données qui doit leur permettre de mieux cerner les objectifs qu’ils poursuivent, et mieux définir les paramètres qu’ils souhaitent mettre en valeur. 
+   </td>
+  </tr>
+  <tr>
+   <td>Fiche descriptive (Réussite)
+   </td>
+   <td>Mise en forme de la fiche descriptive à destination des collectivités pour leur permettre d’avoir une ligne à suivre quand ce sera leur tour.
+   </td>
+  </tr>
+  <tr>
+   <td>Plan de communication (Réussite)
+   </td>
+   <td>Création d’un plan de communication et d’un argumentaire qui veut mettre en lumière l’importance de la publication des données dans le but d’être utile aux collectivités. Mise en forme d’hypothèses dans le but de démontrer que la publication de plus de données pourrait fournir de plus amples informations. Valorisation de certaines données pour visualisation de ces dernières.
+   </td>
+  </tr>
+</table>
+
+
+**JOUR 5 – VALORISATION**
+
+
+    _Dans cette partie, vous aurez à présenter la réalisation des datavisualisations en pratique : quels ont été vos outils, vos choix de conceptions et les étapes suivies pour aboutir au résultat._
+
+
+
+
+<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image2.png "image_tooltip")
+
+
+
+    Cette visualisation nous permet tout d’abord de comprendre que les différentes stations ne sont pas sur un pied d’égalité concernant le tourisme estival. En effet, nous pouvons remarquer que la Plagne possède un tourisme estival bien plus développé que les stations de Val d’Isère ou de Méribel. 
+
+
+    Le choix d’un graphique en courbe pour représenter ces données nous permet aussi de voir l’évolution du tourisme au sein de chaque station avec une grande tendance commune qui en ressort : le taux de remplissage augmente jusqu’à la semaine 27 et chute ensuite pour les trois stations.
+
+
+
+
+<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image3.png "image_tooltip")
+
+
+
+    Cette visualisation nous permet donc de nous pointer une baisse du taux de conversion malgré un taux de remplissage en augmentation. Cela soulève de nombreuses questions notamment sur le profil des touristes, est-ce une question d’âge ? Est-ce une question de moyens ? 
+
+
+    Le choix d’un graphique en courbe pour représenter ces données nous permet ainsi de visualiser cette anomalie qui aurait pu passer inaperçue sans une valorisation de ces dernières.
+
+
+
+
+<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image4.png "image_tooltip")
+
+
+
+    Cette visualisation nous permet de voir qu’à Sainte-Foy le taux de conversion et le taux de remplissage évoluent en parallèle. Cette représentation  graphique est utile dans la mesure où elle répond à la précédente où une atypie était visible. 
+
+
+    Le choix d’un graphique en courbe pour représenter ces données nous permet donc de voir que les taux évoluent de la même manière sur l’ensemble de la période.
+
+
+
+
+<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image5.png "image_tooltip")
+
+
+
+    Nous avons fait le choix de construire cette visualisation pour mettre en exergue la différence entre la part d’étrangers présents pendant l’été et ceux présents pendant l’hiver au sein des différentes stations (voir graphique suivant). 
+
+
+    Le choix d’un histogramme pour représenter ces données nous permet donc de voir que la part d’étranger est bien plus importante en hiver qu’en été comme vous pourrez le voir ensuite.
+
+
+
+
+<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image6.png "image_tooltip")
+
+
+
+    Cette visualisation nous permet de voir qu’à Méribel la part d’étrangers présents en hiver est beaucoup plus importante qu’en été. Cette construction se lit en complet de la représentation précédente.
+
+**Résumé : **
+
+
+<table>
+  <tr>
+   <td>Réussite ou casse-tête ? 
+   </td>
+   <td>Explication / Citation
+   </td>
+  </tr>
+  <tr>
+   <td>Communication / Publication  des données 
+<p>
+(Casse-tête)
+   </td>
+   <td>Notre interlocutrice nous a informé que la communication et la publication des données recueillies ne se feront qu’en interne, cela ne fait pas partie des prérogatives de l’APTV. Néanmoins nous encouragerons les collectivités à publier pour le public notre travail lors de la restitution.
+   </td>
+  </tr>
+  <tr>
+   <td>Réalisation des graphiques (casse-tête → Réussite )
+   </td>
+   <td>Nous avons rencontré quelques difficultés dans le choix du type de graphique, dans le choix des axes et des données mais nous sommes finalement parvenus à créer des visualisations claires et lisibles qui permettent de dégager des tendances et donc d’aiguiller les collectivités dans leurs choix.
+   </td>
+  </tr>
+  <tr>
+   <td>Valorisation des graphiques ( Réussite ) 
+   </td>
+   <td>La réalisation des fiches concernant la valorisation de nos graphiques a été une étape assez simple mais nous l’espérons utile aux collectivités”.
+   </td>
+  </tr>
+  <tr>
+   <td>Répartition des tâches (réussite) 
+   </td>
+   <td>La répartition a été rapide et nous avons pu mener à bien nos tâches efficacement.  
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+</table>
+
+
+
+    
+
+
+    **CONCLUSION**
+
+
+    _Dans cette partie, vous aurez à faire un double bilan : celui de la commune, celui de votre groupe. Combien de jeux de données ont été ouverts ? Quels ont été les freins et les leviers de cette ouverture de données ? Et à vous en tant qu’étudiants en sciences politiques, que vous a appris cette semaine ? Qu’est-ce qu’elle vous a apporté ?_
+
+
+    _La conclusion devra également présenter votre plus gros casse-tête et votre plus belle réussite dans l’ouverture des données afin de permettre à notre facilitatrice graphique [Anne-Cécile Calléjon](https://annececilecallejon.com/) de dresser le bilan de votre expérience en dessin !_
+
+
+    Cette semaine de challenge n’a clairement pas été évidente pour notre groupe. Nous avions la mission d’ouvrir des jeux de données sur la fréquentation touristique dans les collectivités faisant partie de l’Assemblée du Pays Tarentaise-Vanoise (APTV). L’APTV cherche particulièrement à valoriser le tourisme estival sur le territoire. Cependant, nous avons seulement réussi à ouvrir un jeu de données, qui n’a pas pu être publié. 
+
+
+    En effet, nous avons rencontré de nombreux freins. Tout d’abord, nous avons identifié un problème de légitimité de l’APTV dans sa relation avec les collectivités qui composent ce syndicat de pays. Les collectivités que nous avons contactées ne semblaient pas ouvertes à une coopération avec l’APTV. Elles étaient également réticentes à un partage collaboratif de données. Ceci s'explique par les fortes logiques de concurrence qui existent entre les stations de la Tarentaise-Vanoise. 	Nous avons également relevé un manque de connaissance et de compréhension à propos de l’Open Data et de l’intérêt qu’elle peut représenter pour les collectivités. Enfin, notre difficulté à obtenir des jeux de données sous la forme de tableaux excel s’est aussi expliquée par la présence d’un organisme privé, G2A, qui collecte déjà les données et les valorise sous forme de bilan PDF qu’il envoie ensuite à l’office de tourisme. Ainsi, à la fin de la deuxième journée du challenge, nous n’avions obtenu aucun jeu de données sous forme brute. 
+
+
+    Toutefois, quatre collectivités (Méribel, le Val d’Isère, Sainte-Foy, et la Plagne), que nous remercions pour leur coopération, nous ont transmis des bilans sur leurs données de fréquentation lors des saisons hivernales et estivales. Il s’agissait de documents sous forme de PDF dont les données avaient déjà été valorisées par l’organisme G2A. Par conséquent, nous avons entrepris de produire nous-même un jeu de données en utilisant les données présentes dans ces PDF. Ce jeu de données est une ébauche de base de données qui permet la centralisation de données brutes sur la fréquentation touristique sur le territoire de la Tarentaise Vanoise.  A partir de ce tableau de données que nous avons créé, nous avons ressorti des atypies et des observations que nous avons illustrées sous forme de graphiques. A partir de ces observations, nous avons émis des hypothèses de conclusions qui pourraient être émises à partir de l’analyse de ce type de données. Autour de cela, nous avons rédigé un compte-rendu, construit sous forme d’un argumentaire, visant à expliquer l’intérêt de l’Open Data et à démontrer en quoi il pourrait être utile aux collectivités de la Tarentaise-Vanoise d’ouvrir et de partager leurs données. _(lien disponible ci-dessous) _Nous avons essayé de montrer que, si plus de jeux de données concernant la fréquentation touristique étaient publiés, les collectivités pourraient apprendre des unes et des autres et ainsi améliorer leurs politiques et stratégies touristiques afin de faire rayonner le territoire de la Tarentaise-Vanoise dans sa généralité. 
+
+
+    Le bilan de l’Assemblée de Pays par rapport à cette semaine reste évidemment mitigé. Notre interlocutrice à l’APTV n’avait pas beaucoup d’attendu concernant les résultats de cette semaine puisqu’elle était déjà au fait des réticences et difficultés que l’on allait rencontrer. Elle ne pensait cependant pas que nous obtiendrions aussi peu de jeux de données. Néanmoins, elle semblait intéressée du retour que nous lui avons fait lors de notre restitution. Elle était ouverte à toutes nos hypothèses et à nos propositions. Dans le compte-rendu que nous avons produit, nous avons également ajouté une proposition de plan de communication à l’intention de l’APTV afin qu’elle puisse : communiquer sur cette intention d'ouvrir les données, resserrer ses liens avec les collectivités, mettre en avant sa légitimité, et continuer à se former sur l’Open Data. Nous espérons que l’APTV aura l’occasion de mobiliser notre travail, soit en continuant à remplir notre ébauche de standardisation des données sur la fréquentation touristique en Tarentaise-Vanoise; soit en continuant à inciter l’ouverture et le partage des données au sein du territoire. 
+
+
+    Enfin, nous pouvons conclure ce carnet de bord sur un dernier résumé et sur notre _mood _général. 
+
+
+    Notre plus gros casse-tête a été d’obtenir des jeux de données sous forme excel ou csv, à cause des freins provenant des réticences des collectivités et de la présence de G2A. 
+
+
+    Notre plus grande réussite concerne la journée du vendredi. En effet, en relevant les conclusions que l’on pouvait faire à partir de notre jeu de données et en les illustrant sous forme de graphiques, nous avons enfin pu réaliser en quoi l’interprétation d’un jeu de données était utile. Nous avons réussi à rédiger un argumentaire qui avait du sens pour nous et qui montrait bien en quoi le partage et la publication des données pouvaient représenter un intérêt pour les collectivités. L’analyse des données rendues accessibles peut permettre de comprendre certains phénomènes et d’apporter certaines améliorations à des politiques ou des stratégies à l’échelle du territoire. 
+
+
+    Par conséquent, cette dernière journée a permis de galvaniser à nouveau les troupes et à nous rendre satisfait de notre travail. Le milieu de semaine a en effet été compliqué. Nous étions déçus de ne pas pouvoir répondre correctement à la demande de la chargée de tourisme de l’APTV. Nous espérions aussi pouvoir publier des jeux de données, comme cela était initialement prévu au cours du Challenge Data. Néanmoins, nous avons beaucoup appris sur le fonctionnement d’un syndicat de pays et sur les relations parfois concurrentielles qui peuvent exister entre les collectivités. Ainsi, malgré des difficultés importantes, nous avons réussi à produire un jeu de données et à valoriser ces données, tout en appréhendant l’utilité que pouvait représenter l’ouverture des données dans des objectifs de collaboration et d’intérêts collectifs.
+
+
+    Lien du compte rendu/argumentaire visant à inciter à l’ouverture des données: [https://docs.google.com/document/d/1NrJiypLESE8MI95xG5ZOtDIf0Z4txaMI/edit?usp=sharing&ouid=111602584853208438515&rtpof=true&sd=true](https://docs.google.com/document/d/1NrJiypLESE8MI95xG5ZOtDIf0Z4txaMI/edit?usp=sharing&ouid=111602584853208438515&rtpof=true&sd=true) 
+
+
+    Lien du jeu de données que nous avons produit: [https://docs.google.com/spreadsheets/d/1SkjgP1XFzCE7-TRXfZpew8IkAYv2nnReUGdKKjdsPU8/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1SkjgP1XFzCE7-TRXfZpew8IkAYv2nnReUGdKKjdsPU8/edit?usp=sharing) 
