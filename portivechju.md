@@ -37,14 +37,14 @@ La deuxième partie de la journée a ensuite été consacrée à l’évaluation
 
 Enfin, après avoir analysé les données, nous avons constitué notre wanted data list. Nous avons alors estimé qu’il serait possible de traiter les trois jeux suivants : le budget  primitif, la liste des prénoms et leur fréquence et les statistiques adhérents. Aussi, pour identifier facilement les services nous ayant transmis les données, nous avons créé l’organigramme de la mairie de Portovechju sur Mindmup. Comme nous étions en avance sur notre planning, nous avons décidé de commencer la mise en qualité de certains jeux de données. Pour finir, nous avons envoyé à Monsieur P. la wanted data list et l’organigramme et avons indiqué que nous pouvions travailler sur les trois jeux de données cités précédemment.  
 
-**Wanted data list : **
-
+**Wanted data list :**
 
 <p align="center">
   <img src="https://github.com/datactivist/challengedata4/blob/72120e3480706934688de9af3b36e7b02f4de98f/images_cdb/contenu/PTU2.png" />
 </p>
 
-**Organigramme de la collectivité : **
+**Organigramme de la collectivité :**
+
 En attente
 
 ## JOUR 3 – MISE EN QUALITE
