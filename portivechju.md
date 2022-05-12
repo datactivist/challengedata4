@@ -1,172 +1,33 @@
+# Carnet de bord de l'ouverture des données de Portivechju
+
+par Clementine BERTHET, Victor DISSAUX, Theo GOURLET, Clara LE DIVENACH, Elisa R. et Chiara ZILOCCHI
+
+## JOUR 1 – DIAGNOSTIC
 
 
 
-    _Ce carnet de bord est destiné à écrire le récit de vos aventures ! Il doit être complété tout au long des étapes de ce patchwork._
+
+**Présentation de la collectivité :**
+
+Porto-Vecchio est une ville portuaire corse de 168,6 km2, englobant environ 12 000 habitants. Cette collectivité comporte près de 400 agents. Quant au conseil municipal, il est composé de 33 membres, avec à sa tête en tant que maire du canton, Monsieur Jean-Christophe Angelini (Secrétaire général du Parti de la nation corse).
+
+**Diagnostic :** 
+
+Après la réunion de présentation de la semaine Challenge Data, nous nous sommes répartis les tâches relatives au carnet de bord (diagnostic : Elisa; identification : Théo; Mise en qualité : Clémentine; Publication : Chiara; Valorisation : Victor; Conclusion : Clara).
+
+Puis, nous avons eu un premier contact téléphonique avec G. P., du SI de la ville corse de Porto-Vecchio, à 14h30. Il nous a expliqué les motivations de la collectivité pour l’ouverture des données. Celle-ci souhaite en effet améliorer l’efficacité, les processus, la qualité et la légalité de ses données.
+
+La palier de maturité Open Data de la collectivité est de 1 (plutôt faible) en raison du manque de données standardisées et ouvertes, de l’absence d’un service spécifique dédié aux Open Data. Toutefois, notre référent pour la semaine, Monsieur G.P. a une formation sommaire à propos des Open Data. Nous avons ensuite convenu d’une wishlist pour la semaine concernant : la liste des maires, l’annuaire des services publics communaux géolocalisé, le budget primitif 2021, l’orthophotographie du territoire 2021, la liste des prénoms et de leur fréquence, les statistiques des adhérents du centre culturel. Nous avons convenu d’un appel en fin de journée, vers 17h30, afin de planifier les demandes de contacts et des jeux de données pour le lendemain. 
+
+Cet entretien téléphonique a duré près de 40 minutes. G. P. a tenté de nous expliquer difficilement les données orthophotographiques, les besoins attendus de la part de la collectivité. A ce stade-ci de notre mission, nous hésitons à traiter ou non ce jeu de données qui s’avère être assez complexe.
+
+Afin de terminer cette journée très riche, nous avons transmis la wishlist (ci-dessous) à G. P..
+
+  
+## JOUR 2 – IDENTIFICATION
 
 
-<table>
-  <tr>
-   <td><strong>PARTIE</strong>
-   </td>
-   <td><strong>Rédacteur/rédactrice</strong>
-   </td>
-   <td><strong>Note</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>1. Diagnostic
-   </td>
-   <td>Elisa
-   </td>
-   <td>3/5
-   </td>
-  </tr>
-  <tr>
-   <td>2. Identification
-   </td>
-   <td>Théo
-   </td>
-   <td>3/5
-   </td>
-  </tr>
-  <tr>
-   <td>3. Mise en qualité
-   </td>
-   <td>Clémentine
-   </td>
-   <td>2/5
-   </td>
-  </tr>
-  <tr>
-   <td>4. Publication
-   </td>
-   <td>Chiara
-   </td>
-   <td>2/5
-   </td>
-  </tr>
-  <tr>
-   <td>5. Valorisation
-   </td>
-   <td>Victor
-   </td>
-   <td>2/5
-   </td>
-  </tr>
-  <tr>
-   <td>Conclusion
-   </td>
-   <td>Clara
-   </td>
-   <td>2,5/5
-   </td>
-  </tr>
-</table>
-
-
-
-        **Consignes pour la rédaction des CDB**
-
-
-    Vous avez toutes et tous choisi une manière (ou pas) d’**anonymiser** vos noms et prénoms dans les carnets de bord, n’oubliez pas de respecter les choix d’anonymisation des membres de votre équipe au moment de la rédaction ;
-
-
-    N’oubliez pas aussi d’anonymiser les noms et prénoms des interlocuteurs et des agents ;
-
-
-    N’oubliez pas d’**inclure les pièces-jointes et documents** demandés chaque jour :
-
-
-
-* Wishlist 
-* Organigramme 
-* Communication éventuelle 
-* Dataviz
-
-    
-
-
-    **JOUR 1 – DIAGNOSTIC**
-
-
-**Résumé : **
-
-
-<table>
-  <tr>
-   <td>Réussite ou casse-tête ?
-   </td>
-   <td>Explication / Citation
-   </td>
-  </tr>
-  <tr>
-   <td>Réussite
-   </td>
-   <td>Esprit d’équipe & bonne répartition des tâches dès le début de la journée.
-   </td>
-  </tr>
-  <tr>
-   <td>Casse-tête
-   </td>
-   <td>Joindre Monsieur Paoli, Chef du Service informatique de la ville corse de Porto-Vecchio. 1er contact téléphonique à 14h30.
-   </td>
-  </tr>
-  <tr>
-   <td>Réussite
-   </td>
-   <td>Questionnaire effectué (palier de maturité Open Data faible, 1)
-   </td>
-  </tr>
-  <tr>
-   <td>Réussite
-   </td>
-   <td>Wishlist réalisée
-   </td>
-  </tr>
-  <tr>
-   <td>Casse-tête
-   </td>
-   <td>Comprendre et ouvrir ou non le jeu de données relatif à l’orthophotographie
-   </td>
-  </tr>
-</table>
-
-
-
-    Porto-Vecchio est une ville portuaire corse de 168,6 km2, englobant environ 12 000 habitants. Cette collectivité comporte près de 400 agents. Quant au conseil municipal, il est composé de 33 membres, avec à sa tête en tant que maire du canton, Monsieur Jean-Christophe Angelini (Secrétaire général du Parti de la nation corse).
-
-
-    Après la réunion de présentation de la semaine Challenge Data, nous nous sommes répartis les tâches relatives au carnet de bord (diagnostic : Elisa; identification : Théo; Mise en qualité : Clémentine; Publication : Chiara; Valorisation : Victor; Conclusion : Clara).
-
-
-    Puis, nous avons eu un premier contact téléphonique avec Gilles Paoli, Chef du Service informatique de la ville corse de Porto-Vecchio, à 14h30. Il nous a expliqué les motivations de la collectivité pour l’ouverture des données. Celle-ci souhaite en effet améliorer l’efficacité, les processus, la qualité et la légalité de ses données.
-
-
-    Gilles Paoli a répondu au questionnaire : ([https://airtable.com/shr4hkTi6y6mwMqQ9/tblCK1HM7nfkjbFpi](https://airtable.com/shr4hkTi6y6mwMqQ9/tblCK1HM7nfkjbFpi)).
-
-
-    La palier de maturité Open Data de la collectivité est de 1 (plutôt faible) en raison du manque de données standardisées et ouvertes, de l’absence d’un service spécifique dédié aux Open Data. Toutefois, notre référent pour la semaine, Monsieur Gilles Paoli a une formation sommaire à propos des Open Data.
-
-
-    Nous avons ensuite convenu d’une wishlist pour la semaine concernant : la liste des maires, l’annuaire des services publics communaux géolocalisé, le budget primitif 2021, l’orthophotographie du territoire 2021, la liste des prénoms et de leur fréquence, les statistiques des adhérents du centre culturel. 
-
-
-    Nous avons convenu d’un appel en fin de journée, vers 17h30, afin de planifier les demandes de contacts et des jeux de données pour le lendemain. 
-
-
-    Cet entretien téléphonique a duré près de 40 minutes. Gilles Paoli a tenté de nous expliquer difficilement les données orthophotographiques, les besoins attendus de la part de la collectivité. A ce stade-ci de notre mission, nous hésitons à traiter ou non ce jeu de données qui s’avère être assez complexe.
-
-
-    Afin de terminer cette journée très riche, nous avons transmis la wishlist (ci-dessous) à Monsieur Gilles Paoli.
-
-**JOUR 2 – IDENTIFICATION**
-
-
-    _Dans cette partie, vous aurez à raconter le déroulé de la dataexploration et à en faire le bilan._
-
-
-    _Pièces à joindre : organigramme des données, évaluation des données et wanted data list_
-
+    _
 **Résumé : **
 
 
