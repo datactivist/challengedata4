@@ -46,7 +46,7 @@ Nous avons commencé la journée en demandant aux différents services de Marsei
 * Équipements collectifs publics
 * Actes d'état civil
 * Résultat des élections présidentielles
-* Listes des élus / Sylvie PHILIPPE sylvie.philippe@marseillan.com
+* Listes des élus
 
 **2.2 Appel avec notre référent**
 
