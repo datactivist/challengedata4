@@ -5,8 +5,6 @@ par Clementine BERTHET, Victor DISSAUX, Theo GOURLET, Clara LE DIVENACH, Elisa R
 ## JOUR 1 – DIAGNOSTIC
 
 
-
-
 **Présentation de la collectivité :**
 
 Porto-Vecchio est une ville portuaire corse de 168,6 km2, englobant environ 12 000 habitants. Cette collectivité comporte près de 400 agents. Quant au conseil municipal, il est composé de 33 membres, avec à sa tête en tant que maire du canton, Monsieur Jean-Christophe Angelini (Secrétaire général du Parti de la nation corse).
@@ -23,62 +21,17 @@ Cet entretien téléphonique a duré près de 40 minutes. G. P. a tenté de nous
 
 Afin de terminer cette journée très riche, nous avons transmis la wishlist (ci-dessous) à G. P..
 
+![](https://github.com/datactivist/challengedata4)
+
   
 ## JOUR 2 – IDENTIFICATION
 
 
-    _
-**Résumé : **
+Nous avons commencé cette journée consacrée à l’identification des données par la récolte de ces dernières. Pour cela, nous avons appelé notre interlocuteur à la mairie de Portivechju (Monsieur P.), afin de savoir si les différentes données identifiées la veille étaient prêtes à être récoltées. Nous avons alors obtenu le jeu de données “liste des prénoms et leur fréquence”. Malheureusement, nous nous sommes rendus compte qu’il ne serait pas possible de récolter tous les jeux de données identifiés, certains étant trop complexes (orthophotographie du territoire communal) ou trop lacunaires (annuaire des services publics communaux). Toutefois, après avoir été mis en relation avec le Secrétariat des Assemblées, nous avons pu récolter le jeu de données sur la liste des maires. Plus tard dans la matinée, la Direction des Affaires Culturelles nous a transmis le jeu de données sur les statistiques des adhérents. Pour résumer, cette première partie de matinée nous aura donc permis de récolter quatre jeux de données sur les six identifiés la veille par la mairie. 
 
+La deuxième partie de la journée a ensuite été consacrée à l’évaluation des données. Nous avons décidé de nous répartir les jeux de données pour gagner en efficacité. Il est alors apparu que tous les jeux de données n’avaient pas le même degré de facilité. Certains, comme celui sur le budget primitif, nécessitent des modifications (conversion du fichier sur le site Dataclic). Aussi, le jeu de données sur la liste des maires nous a semblé très incomplet.  
 
-<table>
-  <tr>
-   <td>Réussite ou casse-tête ? 
-   </td>
-   <td>Explication / Citation
-   </td>
-  </tr>
-  <tr>
-   <td>Réussite 
-   </td>
-   <td>Esprit d’équipe et bonne répartition des tâches. 
-   </td>
-  </tr>
-  <tr>
-   <td>Réussite 
-   </td>
-   <td>Nous n’avons pas rencontré beaucoup de difficulté à lire et évaluer les jeux de données, ce qui nous a permis de constituer rapidement la wanted data list. 
-   </td>
-  </tr>
-  <tr>
-   <td>Casse-tête 
-   </td>
-   <td>Obtention de certaines données. Certains services de la mairie n’ayant pas été mis au courant de notre intervention, ils n’ont pas pu nous délivrer à temps certains jeux de données. Aussi, l’attentat de 1995 n’a pas facilité l’extraction, certaines données de la mairie ayant été détruites à cette occasion. 
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
-
-
-
-    Nous avons commencé cette journée consacrée à l’identification des données par la récolte de ces dernières. Pour cela, nous avons appelé notre interlocuteur à la mairie de Portivechju (Monsieur Paoli), afin de savoir si les différentes données identifiées la veille étaient prêtes à être récoltées. Nous avons alors obtenu le jeu de données “liste des prénoms et leur fréquence”. Malheureusement, nous nous sommes rendus compte qu’il ne serait pas possible de récolter tous les jeux de données identifiés, certains étant trop complexes (orthophotographie du territoire communal) ou trop lacunaires (annuaire des services publics communaux). Toutefois, après avoir été mis en relation avec le Secrétariat des Assemblées, nous avons pu récolter le jeu de données sur la liste des maires. Plus tard dans la matinée, la Direction des Affaires Culturelles nous a transmis le jeu de données sur les statistiques des adhérents. Pour résumer, cette première partie de matinée nous aura donc permis de récolter quatre jeux de données sur les six identifiés la veille par la mairie. 
-
-
-    La deuxième partie de la journée a ensuite été consacrée à l’évaluation des données. Nous avons décidé de nous répartir les jeux de données pour gagner en efficacité. Il est alors apparu que tous les jeux de données n’avaient pas le même degré de facilité. Certains, comme celui sur le budget primitif, nécessitent des modifications (conversion du fichier sur le site Dataclic). Aussi, le jeu de données sur la liste des maires nous a semblé très incomplet.  
-
-
-    	Enfin, après avoir analysé les données, nous avons constitué notre wanted data list. Nous avons alors estimé qu’il serait possible de traiter les trois jeux suivants : le budget  primitif, la liste des prénoms et leur fréquence et les statistiques adhérents. Aussi, pour identifier facilement les services nous ayant transmis les données, nous avons créé l’organigramme de la mairie de Portovechju sur Mindmup. Comme nous étions en avance sur notre planning, nous avons décidé de commencer la mise en qualité de certains jeux de données. Pour finir, nous avons envoyé à Monsieur Paoli la wanted data list et l’organigramme et avons indiqué que nous pouvions travailler sur les trois jeux de données cités précédemment.  
+Enfin, après avoir analysé les données, nous avons constitué notre wanted data list. Nous avons alors estimé qu’il serait possible de traiter les trois jeux suivants : le budget  primitif, la liste des prénoms et leur fréquence et les statistiques adhérents. Aussi, pour identifier facilement les services nous ayant transmis les données, nous avons créé l’organigramme de la mairie de Portovechju sur Mindmup. Comme nous étions en avance sur notre planning, nous avons décidé de commencer la mise en qualité de certains jeux de données. Pour finir, nous avons envoyé à Monsieur P. la wanted data list et l’organigramme et avons indiqué que nous pouvions travailler sur les trois jeux de données cités précédemment.  
 
 **Wanted data list : **
 
