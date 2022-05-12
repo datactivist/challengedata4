@@ -21,7 +21,11 @@ Cet entretien téléphonique a duré près de 40 minutes. G. P. a tenté de nous
 
 Afin de terminer cette journée très riche, nous avons transmis la wishlist (ci-dessous) à G. P..
 
-![](https://github.com/datactivist/challengedata4/blob/c0d9baf21d915bb694294d3cd865aa02c5914208/images_cdb/contenu/PTU.png)
+#![](https://github.com/datactivist/challengedata4/blob/c0d9baf21d915bb694294d3cd865aa02c5914208/images_cdb/contenu/PTU.png)
+
+<p align="center">
+  <img src="https://github.com/datactivist/challengedata4/blob/c0d9baf21d915bb694294d3cd865aa02c5914208/images_cdb/contenu/PTU.png" />
+</p>
 
   
 ## JOUR 2 – IDENTIFICATION
