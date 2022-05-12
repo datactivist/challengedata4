@@ -12,7 +12,7 @@
   <tr>
    <td>Disponibilité des agents administratifs. 
    </td>
-   <td>Nous avons pu nous entretenir avec Michael Guyard le 22 novembre 2021 à 14h afin de poser un diagnostic sur l’open data au sein de sa mairie de Marseillan. Ce dernier s’est rendu disponible et nous a envoyé rapidement les contacts pour récupérer les données. 
+   <td>Nous avons pu nous entretenir avec M. G. le 22 novembre 2021 à 14h afin de poser un diagnostic sur l’open data au sein de sa mairie de Marseillan. Ce dernier s’est rendu disponible et nous a envoyé rapidement les contacts pour récupérer les données. 
    </td>
   </tr>
   <tr>
