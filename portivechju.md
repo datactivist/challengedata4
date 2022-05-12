@@ -55,7 +55,7 @@ En fin de matinée, la totalité des jeux de données étaient nettoyés et comp
 
 L'après midi nous a permis de finir définitivement le traitement des jeux de données. Nous avons contacté les services de la mairie pour obtenir les ultimes informations nécessaires au complément des tableaux. Avec notre avancée de la veille et une bonne répartition des tâches, la journée s’est très bien déroulée, et toute la bucket list était complétée durant l'après-midi. 
 
-## JOUR 4 – PUBLICATION**
+## JOUR 4 – PUBLICATION
 
 Dès le matin, nous définissions le programme de la journée : réfléchir aux plans de     communication et de publication des données.
 
