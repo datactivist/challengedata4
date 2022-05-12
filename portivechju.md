@@ -15,7 +15,7 @@ Porto-Vecchio est une ville portuaire corse de 168,6 km2, englobant environ 12 0
 
 Après la réunion de présentation de la semaine Challenge Data, nous nous sommes répartis les tâches relatives au carnet de bord.
 
-Puis, nous avons eu un premier contact téléphonique avec G. P., du SI de la ville corse de Porto-Vecchio, à 14h30. Il nous a expliqué les motivations de la collectivité pour l’ouverture des données. Celle-ci souhaite en effet améliorer l’efficacité, les processus, la qualité et la légalité de ses données.
+Puis, nous avons eu un premier contact téléphonique avec G. P., du Service Informatique de la ville corse de Porto-Vecchio, à 14h30. Il nous a expliqué les motivations de la collectivité pour l’ouverture des données. Celle-ci souhaite en effet améliorer l’efficacité, les processus, la qualité et la légalité de ses données.
 
 La palier de maturité Open Data de la collectivité est de 1 (plutôt faible) en raison du manque de données standardisées et ouvertes, de l’absence d’un service spécifique dédié aux Open Data. Toutefois, notre référent pour la semaine, Monsieur G.P. a une formation sommaire à propos des Open Data. Nous avons ensuite convenu d’une wishlist pour la semaine concernant : la liste des maires, l’annuaire des services publics communaux géolocalisé, le budget primitif 2021, l’orthophotographie du territoire 2021, la liste des prénoms et de leur fréquence, les statistiques des adhérents du centre culturel. Nous avons convenu d’un appel en fin de journée, vers 17h30, afin de planifier les demandes de contacts et des jeux de données pour le lendemain. 
 
