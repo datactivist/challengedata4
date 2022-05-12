@@ -13,7 +13,7 @@ Porto-Vecchio est une ville portuaire corse de 168,6 km2, englobant environ 12 0
 
 **Diagnostic :** 
 
-Après la réunion de présentation de la semaine Challenge Data, nous nous sommes répartis les tâches relatives au carnet de bord (diagnostic : Elisa; identification : Théo; Mise en qualité : Clémentine; Publication : Chiara; Valorisation : Victor; Conclusion : Clara).
+Après la réunion de présentation de la semaine Challenge Data, nous nous sommes répartis les tâches relatives au carnet de bord.
 
 Puis, nous avons eu un premier contact téléphonique avec G. P., du SI de la ville corse de Porto-Vecchio, à 14h30. Il nous a expliqué les motivations de la collectivité pour l’ouverture des données. Celle-ci souhaite en effet améliorer l’efficacité, les processus, la qualité et la légalité de ses données.
 
