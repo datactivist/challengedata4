@@ -134,18 +134,24 @@ La réalisation n’a pas été facile car nous n’avons pas les compétences s
   <img src="https://github.com/datactivist/challengedata4/blob/3c29dc20704641f4f8cf373b2d9db031c6a0d6fd/images_cdb/contenu/Marseillan5.png" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/datactivist/challengedata4/blob/3c29dc20704641f4f8cf373b2d9db031c6a0d6fd/images_cdb/contenu/Marseillan6.png" />
+</p>
+
+
 * Ce graphique met en avant le vote des citoyens de marseillan aux élections présidentielles de 2017 durant le premier tour.  
 
 <p align="center">
-  <img src="https://github.com/datactivist/challengedata4/blob/3c29dc20704641f4f8cf373b2d9db031c6a0d6fd/images_cdb/contenu/Marseillan6.png" />
+  <img src="https://github.com/datactivist/challengedata4/blob/3c29dc20704641f4f8cf373b2d9db031c6a0d6fd/images_cdb/contenu/Marseillan7.png" />
 </p>
 
 * Ce tableau et cet histogramme récapitulent l'ensemble des actes civils produits sur la Commune de Marseillan depuis 2016. Il y a les naissances, les décès, les mariages, les PACS et les transcriptions des actes de décès dans les registres de la Commune. Ces deux éléments peuvent aider à établir des statistiques sur l'accroissement naturel de la commune ; et ainsi aider les collectivités territoriales à adapter leurs actions en faveur des habitants. 
 
 Ce fut une journée productive, bien que challengeante en ce qui concerne la réalisation des graphiques. Le travail a été réalisé dans la bonne humeur. 
 
+
 <p align="center">
-  <img src="https://github.com/datactivist/challengedata4/blob/3c29dc20704641f4f8cf373b2d9db031c6a0d6fd/images_cdb/contenu/Marseillan7.png" />
+  <img src="https://github.com/datactivist/challengedata4/blob/3c29dc20704641f4f8cf373b2d9db031c6a0d6fd/images_cdb/contenu/Marseillan8.png" />
 </p>
 
 
