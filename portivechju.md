@@ -72,9 +72,9 @@ Malgré nos efforts, nous ne parvenons pas à joindre le Chef de Cabinet du mair
 
 
   * Jeux de données publiés : 
-    ** Budget général : [https://drive.google.com/drive/u/4/folders/1uB1t2WtxaUAQnA7vhrzdRfmU4IOy4LNO](https://drive.google.com/drive/u/4/folders/1uB1t2WtxaUAQnA7vhrzdRfmU4IOy4LNO) 
-    ** Fichier Prénoms de l’Etat Civil : [https://docs.google.com/spreadsheets/d/1zd18_FpeM054eaF7xp_4A0nvBcPFIiOR/edit?usp=sharing&ouid=106936827141162389306&rtpof=true&sd=true](https://docs.google.com/spreadsheets/d/1zd18_FpeM054eaF7xp_4A0nvBcPFIiOR/edit?usp=sharing&ouid=106936827141162389306&rtpof=true&sd=true) 
-    ** Statistiques Bibliothèque [https://drive.google.com/drive/u/4/folders/19JuVGGWcE8WLBCu6bSqBTX5Dt8Qm7s25](https://drive.google.com/drive/u/4/folders/19JuVGGWcE8WLBCu6bSqBTX5Dt8Qm7s25) 
+      * Budget général : [https://drive.google.com/drive/u/4/folders/1uB1t2WtxaUAQnA7vhrzdRfmU4IOy4LNO](https://drive.google.com/drive/u/4/folders/1uB1t2WtxaUAQnA7vhrzdRfmU4IOy4LNO) 
+      * Fichier Prénoms de l’Etat Civil : [https://docs.google.com/spreadsheets/d/1zd18_FpeM054eaF7xp_4A0nvBcPFIiOR/edit?usp=sharing&ouid=106936827141162389306&rtpof=true&sd=true](https://docs.google.com/spreadsheets/d/1zd18_FpeM054eaF7xp_4A0nvBcPFIiOR/edit?usp=sharing&ouid=106936827141162389306&rtpof=true&sd=true) 
+      * Statistiques Bibliothèque [https://drive.google.com/drive/u/4/folders/19JuVGGWcE8WLBCu6bSqBTX5Dt8Qm7s25](https://drive.google.com/drive/u/4/folders/19JuVGGWcE8WLBCu6bSqBTX5Dt8Qm7s25) 
 
   * Plan de Communication : [https://docs.google.com/document/d/1KFismr554NWhX29La9P8deU3rEcI6LzX/edit?usp=sharing&ouid=106936827141162389306&rtpof=true&sd=true](https://docs.google.com/document/d/1KFismr554NWhX29La9P8deU3rEcI6LzX/edit?usp=sharing&ouid=106936827141162389306&rtpof=true&sd=true) 
 
