@@ -10,7 +10,7 @@ Présentation de la collectivité :
 Annecy est une commune française située en région Auvergne-Rhône-Alpes, chef-lieu et préfecture de Haute-Savoie. Située dans les Alpes françaises, Annecy fait partie de l’axe des agglomérations du sillon alpin. Avec ses 128 199 habitants en 2018, Annecy est à la 29e place des villes françaises. La ville peut s’enorgueillir d’une longue histoire, marquée par la présence des comtes de Genève puis des comtes de Savoie, puis l’annexion du territoire savoyard à la France en 1860 avec le Traité de Turin, sous Napoléon III. Annecy a connu une forte industrialisation au XIXe siècle, et reste encore aujourd’hui un bassin d’emploi important sur le territoire. Annecy est donc une ville dynamique confrontée à de nombreux enjeux, communs à toutes les villes comme par exemple liés au transport ou à la mobilité, ou à des enjeux plus spécifiques, par exemple liés à des enjeux touristiques ou d’aménagement du territoire. 
 
 
-Diagnostic : 
+**Diagnostic :** 
 
 
 L’objectif de cette première journée de Data Challenge, après la réunion introductive qui a lancé la semaine, était notamment la prise en main des outils. A notre disposition était mise la plateforme Gather, un espace de rassemblement en ligne, interface de contact entre le ou les interlocuteurs des collectivités territoriales et les groupes d’étudiants. De plus, de nombreuses ressources étaient accessibles en ligne pour nous aider et nous guider notamment sur les questions de méthodologie. Nous avons ainsi été invités à naviguer sur Gather et entre les différentes ressources pour mieux appréhender le déroulement de la semaine. 
@@ -50,116 +50,33 @@ Nous avons donc terminé le jour 1 en envoyant un bilan de la journée et les di
 
 ![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Screenshot%202022-05-10%20at%2017.21.59.png?token=GHSAT0AAAAAABUMCRKPBNZL4TCDZR3SCPBEYT2QPGQ)
 
-    **JOUR 2 – IDENTIFICATION**
+## JOUR 2 – IDENTIFICATION
 
+Cette journée est consacrée à la récolte des données de la commune d’Annecy. Les contacts des personnes ayant des données nous ont été transmis par Monsieur Léonard Gay. 
 
-    _Dans cette partie, vous aurez à raconter le déroulé de la dataexploration et à en faire le bilan._
+Nous avons commencé la journée par contacter les différents services, notamment le SIG et Hinaura qui gère les données numériques à l’échelle départementale. De plus, notre référent au sein de la mairie nous a proposé de réaliser une interview de l'adjoint au maire au numérique et à la ville intelligente et nous avons donc contacté son secrétariat pour planifier une interview avec lui.
 
+Les données nous ont été retournées rapidement par les services de la mairie. Les données transmises étaient au format .cpg et.dbf. Ce type de données n’était pas lisible directement par notre équipe. Nous avons rencontré des difficultés pour convertir ces jeux de données pour qu’elles soient lisibles par excel. Nous avons été conseillés par un autre groupe qui nous a aidé à les convertir à l’aide d’un convertisseur en ligne. 
 
-    _Pièces à joindre : organigramme des données, évaluation des données et wanted data list_
+Certaines données n’étaient pas complètes, notamment celles concernant les monuments historiques. Un membre de notre groupe s’est concentré sur la recherche de ces données manquantes et a pu y avoir accès grâce au site “Atlas du Patrimoine”.  Toutefois, cette recherche n’a pas été facilitée par le site “Atlas du Patrimoine” qui comprenait de nombreux dossiers vides et des fichiers difficiles à lire.
 
-**Résumé : **
+Grâce à notre rendez-vous quotidien avec notre référent d’Annecy, nous avons pu redéfinir les priorités de la commune. Cependant, ce rendez-vous a aussi conduit à l’ajout de nouveaux jeux de données à ouvrir. Après concertation avec l’autre groupe responsable de la commune d’Annecy, nous nous sommes répartis les priorités et en avons abandonné certaines comme le PLU (considéré comme trop lourd à traiter). 
 
+Nous nous sommes ensuite réparties les tâches afin de vérifier la qualité des données envoyées. Cette partie nous a pris pas mal de temps et nous nous sommes rendues compte que les données sur les défibrillateurs étaient incomplètes même en les complétant avec les données de data.gouv. Les données les plus complètes étaient celles des élections présidentielles et municipales. Celles des monuments historiques nécessitent un certain remaniement tout comme celles sur les lieux d’inclusion numérique. Après plusieurs discussions avec l’autre groupe, nous avons abandonné les données sur les défibrillateurs, c’est l’autre groupe qui s’en charge.
 
-<table>
-  <tr>
-   <td>Réussite ou casse-tête ? 
-   </td>
-   <td>Explication / Citation
-   </td>
-  </tr>
-  <tr>
-   <td>Réussite
-   </td>
-   <td>Contact des différents services. Les données nous sont revenues pour la plupart rapidement.
-   </td>
-  </tr>
-  <tr>
-   <td>Casse-tête
-   </td>
-   <td>Réussir à lire les données. Le format étant inadapté, nous sommes obligés de demander à notre responsable de groupe de convertir les données en un format lisible.
-   </td>
-  </tr>
-  <tr>
-   <td>Casse-tête
-   </td>
-   <td>Ajout de nouveaux jeux de données à ouvrir par notre référent lors de notre point quotidien : PLU, zonage scolaire, numéro de voirie. Travail conséquent et tardif qui risque de nous retarder par rapport au planning de la semaine.
-   </td>
-  </tr>
-  <tr>
-   <td>Casse-tête
-   </td>
-   <td>Ajout de nouveaux objectifs par notre référent lors de notre point quotidien : établir une liste de priorisation des données à ouvrir pour la mairie sur les 10 ans à venir. Surcharge de travail qui ne pourra peut-être pas être effectuée.  
-   </td>
-  </tr>
-  <tr>
-   <td>Réussite
-   </td>
-   <td>Bonne ambiance au sein du groupe.
-   </td>
-  </tr>
-  <tr>
-   <td>Réussite
-   </td>
-   <td>Bonne répartition des tâches et efficacité.
-   </td>
-  </tr>
-  <tr>
-   <td>Réussite
-   </td>
-   <td>Bonne analyse de la qualité des données, facile d’observer celles qui seront compliquées à ouvrir ou non.
-   </td>
-  </tr>
-</table>
+Nous avons réalisé l’organigramme des données et n’avons pas rencontré de difficultés particulières pour le faire. 
 
+En conclusion, cette journée a permis d’évaluer la qualité de nos jeux de données et de définir nos priorités. 
 
+Notre wanted database se concentre sur : 
+* Lieu d’inclusion numérique
+* Election présidentielles
+* Elections municipales
+* Monuments historiques 
 
-    Cette journée est consacrée à la récolte des données de la commune d’Annecy. Les contacts des personnes ayant des données nous ont été transmis par Monsieur Léonard Gay. 
+**Annexes:**
 
-
-    Nous avons commencé la journée par contacter les différents services, notamment le SIG et Hinaura qui gère les données numériques à l’échelle départementale. De plus, notre référent au sein de la mairie nous a proposé de réaliser une interview de l'adjoint au maire au numérique et à la ville intelligente et nous avons donc contacté son secrétariat pour planifier une interview avec lui.
-
-
-    Les données nous ont été retournées rapidement par les services de la mairie. Les données transmises étaient au format .cpg et.dbf. Ce type de données n’était pas lisible directement par notre équipe. Nous avons rencontré des difficultés pour convertir ces jeux de données pour qu’elles soient lisibles par excel. Nous avons été conseillés par un autre groupe qui nous a aidé à les convertir à l’aide d’un convertisseur en ligne. 
-
-
-    Certaines données n’étaient pas complètes, notamment celles concernant les monuments historiques. Un membre de notre groupe s’est concentré sur la recherche de ces données manquantes et a pu y avoir accès grâce au site “Atlas du Patrimoine”.  Toutefois, cette 
-
-
-    recherche n’a pas été facilitée par le site “Atlas du Patrimoine” qui comprenait de nombreux dossiers vides et des fichiers difficiles à lire.
-
-
-    Grâce à notre rendez-vous quotidien avec notre référent d’Annecy, nous avons pu redéfinir les priorités de la commune. Cependant, ce rendez-vous a aussi conduit à l’ajout de nouveaux jeux de données à ouvrir. Après concertation avec l’autre groupe responsable de la commune d’Annecy, nous nous sommes répartis les priorités et en avons abandonné certaines comme le PLU (considéré comme trop lourd à traiter). 
-
-
-    Nous nous sommes ensuite réparties les tâches afin de vérifier la qualité des données envoyées. Cette partie nous a pris pas mal de temps et nous nous sommes rendues compte que les données sur les défibrillateurs étaient incomplètes même en les complétant avec les données de data.gouv. Les données les plus complètes étaient celles des élections présidentielles et municipales. Celles des monuments historiques nécessitent un certain remaniement tout comme celles sur les lieux d’inclusion numérique. Après plusieurs discussions avec l’autre groupe, nous avons abandonné les données sur les défibrillateurs, c’est l’autre groupe qui s’en charge.
-
-
-    Nous avons réalisé l’organigramme des données et n’avons pas rencontré de difficultés particulières pour le faire. 
-
-
-    En conclusion, cette journée a permis d’évaluer la qualité de nos jeux de données et de définir nos priorités. 
-
-
-    Notre wanted database se concentre sur : 
-
-
-    -Lieu d’inclusion numérique
-
-
-    -Election présidentielles
-
-
-    -Elections municipales
-
-
-    -Monuments historiques 
-
-
-    **Annexes:**
-
-
-    <span style="text-decoration:underline;">Organigramme des personnes ressources pour la collecte des données :</span>
+Organigramme des personnes ressources pour la collecte des données :
 
 
     
