@@ -22,7 +22,7 @@ Carte du finage de la commune de Saint-Marcellin, issue des données de IGN :
 
 Dans cette partie, vous aurez à présenter la collectivité que vous accompagnez, faire le bilan du diagnostic et résumer les choix et les objectifs de la commune ainsi que ses motivations à ouvrir ses données._
 
-<span style="text-decoration:underline;">Pièces à joindre :</span>[https://airtable.com/shr4hkTi6y6mwMqQ9/tblCK1HM7nfkjbFpi](https://airtable.com/shr4hkTi6y6mwMqQ9/tblCK1HM7nfkjbFpi)
+<span style="text-decoration:underline;">Pièces à joindre : </span>[https://airtable.com/shr4hkTi6y6mwMqQ9/tblCK1HM7nfkjbFpi](https://airtable.com/shr4hkTi6y6mwMqQ9/tblCK1HM7nfkjbFpi)
 
 Cette première journée a principalement consisté à analyser la situation de la ville de Saint-Marcellin dans le domaine de l’open data. Nous avons pris connaissance de la ville en tant que telle. Puis, nous sommes intervenus auprès du référent afin de connaître les besoins, les objectifs et les motivations de la ville.
 
