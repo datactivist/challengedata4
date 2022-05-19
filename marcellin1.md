@@ -12,16 +12,17 @@ Pour notre Challenge Data, nous nous sommes vu attribuer la commune de Saint-Mar
 
 Notre objectif au cours de ce Challenge Data sera de rendre accessible à la collectivité territoriale ses données afin de mettre en valeur les atouts de la commune, dans un objectif de développement touristique. Par ailleurs, le changement de politique récent ainsi que l’obligation de l’ouverture de données à l’échelle nationale, sont tout autant de facteurs qui peuvent expliquer la volonté de la commune de participer au Challenge Data. L’un des membres de l’équipe étudiante n’as pas souhaité que son nom soit communiqué, il sera référé comme E.
 
+Carte du finage de la commune de Saint-Marcellin, issue des données de IGN : 
 <p align="center">
   <img src="https://github.com/datactivist/challengedata4/blob/99ec1bb23bc0c5cb39edae7fcccf5c240f8847d1/images_cdb/contenu/Saint-Marcellin-1-1.png" />
 </p>
-*Carte du finage de la commune de Saint-Marcellin, issue des données de IGN*
+
 
 ## JOUR 1 – DIAGNOSTIC
 
 Dans cette partie, vous aurez à présenter la collectivité que vous accompagnez, faire le bilan du diagnostic et résumer les choix et les objectifs de la commune ainsi que ses motivations à ouvrir ses données._
 
-<span style="text-decoration:underline;">Pièces à joindre :</span> _**_; [https://airtable.com/shr4hkTi6y6mwMqQ9/tblCK1HM7nfkjbFpi](https://airtable.com/shr4hkTi6y6mwMqQ9/tblCK1HM7nfkjbFpi)
+<span style="text-decoration:underline;">Pièces à joindre :</span>[https://airtable.com/shr4hkTi6y6mwMqQ9/tblCK1HM7nfkjbFpi](https://airtable.com/shr4hkTi6y6mwMqQ9/tblCK1HM7nfkjbFpi)
 
 Cette première journée a principalement consisté à analyser la situation de la ville de Saint-Marcellin dans le domaine de l’open data. Nous avons pris connaissance de la ville en tant que telle. Puis, nous sommes intervenus auprès du référent afin de connaître les besoins, les objectifs et les motivations de la ville.
 
