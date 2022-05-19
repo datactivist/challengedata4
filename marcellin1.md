@@ -184,43 +184,43 @@ Léo et Clémence ont construit une carte avec toutes les places de stationnemen
 <p align="center">
   <img src="https://github.com/datactivist/challengedata4/blob/99ec1bb23bc0c5cb39edae7fcccf5c240f8847d1/images_cdb/contenu/Saint-Marcellin-1-13.png" />
 </p>
-* lien d’accès : [http://u.osmfr.org/m/685498](http://u.osmfr.org/m/685498/)
+Lien d’accès : http://u.osmfr.org/m/685498/ <br/>
 
 **2. Aménagements cyclables**
 <p align="center">
   <img src="https://github.com/datactivist/challengedata4/blob/99ec1bb23bc0c5cb39edae7fcccf5c240f8847d1/images_cdb/contenu/Saint-Marcellin-1-14.png" />
 </p>
-* lien d’accès :  [http://u.osmfr.org/m/685538/](http://u.osmfr.org/m/685538/)
+Lien d’accès :  http://u.osmfr.org/m/685538/ <br/>
 
 **3. Les lieux de stationnements**
 <p align="center">
   <img src="https://github.com/datactivist/challengedata4/blob/99ec1bb23bc0c5cb39edae7fcccf5c240f8847d1/images_cdb/contenu/Saint-Marcellin-1-15.png" />
 </p>
-* lien d’accès : [http://u.osmfr.org/m/685497/](http://u.osmfr.org/m/685497/) 
+Lien d’accès : http://u.osmfr.org/m/685497/ <br/>
 
-**4. Les effectifs scolaires et crèches (lien ci-dessous)**
+**4. Les effectifs scolaires et crèches**
 <p align="center">
   <img src="https://github.com/datactivist/challengedata4/blob/99ec1bb23bc0c5cb39edae7fcccf5c240f8847d1/images_cdb/contenu/Saint-Marcellin-1-16.png" />
 </p>
-http://u.osmfr.org/m/685649/](http://u.osmfr.org/m/685649/)  
+Lien d'accès : http://u.osmfr.org/m/685649/ <br/>
 
 **5. Les lieux d’inclusion numérique**
 <p align="center">
   <img src="https://github.com/datactivist/challengedata4/blob/99ec1bb23bc0c5cb39edae7fcccf5c240f8847d1/images_cdb/contenu/Saint-Marcellin-1-17.png" />
 </p>
-* lien d’accès : [http://u.osmfr.org/m/685505/](https://l.facebook.com/l.php?u=http%3A%2F%2Fu.osmfr.org%2Fm%2F685505%2F%3Ffbclid%3DIwAR33wtON-iHFI5TCxktoELuUEONKS792XPzpvQn3W1rYKlF_eGGOOxjR1HI&h=AT2vzvXmB7W8rD8h37u85STdku_djeyObcuv87e1pkdqYdkOmvOgLMF0HbyK92XsZpBoDP-rVMYbUwPI5Yvb9GJmk2AZ0YM5xeYTqr-ZoiJHVdPfHe3g0aiK3vzdiyy-nzY5GA)
+Lien d’accès : http://u.osmfr.org/m/685505/ <br/>
 
 **6. Les lieux de covoiturage**
 <p align="center">
   <img src="https://github.com/datactivist/challengedata4/blob/99ec1bb23bc0c5cb39edae7fcccf5c240f8847d1/images_cdb/contenu/Saint-Marcellin-1-18.png" />
 </p>
-* lien d’accès : [http://u.osmfr.org/m/685507/](http://u.osmfr.org/m/685507/)
+Lien d’accès : http://u.osmfr.org/m/685507/ <br/>
 
 **7. Carte des déplacements à Saint-Marcellin**
 <p align="center">
   <img src="https://github.com/datactivist/challengedata4/blob/99ec1bb23bc0c5cb39edae7fcccf5c240f8847d1/images_cdb/contenu/Saint-Marcellin-1-19.png" />
 </p>
-* lien d’accès : [http://u.osmfr.org/m/685737/](http://u.osmfr.org/m/685737/)
+Lien d’accès : http://u.osmfr.org/m/685737/ <br/>
 
 ## CONCLUSION
 
@@ -240,4 +240,5 @@ Pour clôturer ce carnet de bord, voici notre plus gros casse-tête et notre plu
 <p align="center">
   <img src="https://github.com/datactivist/challengedata4/blob/99ec1bb23bc0c5cb39edae7fcccf5c240f8847d1/images_cdb/contenu/Saint-Marcellin-1-20.png" />
 </p>
-_Un grand merci de la part de toute l’équipe !_
+
+**Un grand merci de la part de toute l’équipe !**
