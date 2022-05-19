@@ -52,7 +52,7 @@ Enfin, l’interlocuteur nous a fait part de son enthousiasme et de celui de la 
 
 Ainsi, la première journée de ce challenge data a été très intéressante et promet une semaine très enrichissante.
 
-**Aperçu de l’évaluation diagnostic de la ville de Saint-Marcellin :** [https://airtable.com/shr4hkTi6y6mwMqQ9/tblCK1HM7nfkjbFpi]</span>
+**Aperçu de l’évaluation diagnostic de la ville de Saint-Marcellin :** https://airtable.com/shr4hkTi6y6mwMqQ9/tblCK1HM7nfkjbFpi
 <p align="center">
   <img src="https://github.com/datactivist/challengedata4/blob/99ec1bb23bc0c5cb39edae7fcccf5c240f8847d1/images_cdb/contenu/Saint-Marcellin-1-2.png" />
 </p>
