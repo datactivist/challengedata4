@@ -52,7 +52,7 @@ Nous avons commencé la journée en demandant aux différents services de Marsei
 
 Nous avons pu appeler notre référant à 11h pour faire le point avec lui. Cet appel nous a permis de débloquer la situation puisqu’il a pu de lui-même relancer les personnes à qui nous avions demandé les jeux de données. Nous avons donc reçu ces derniers en fin de matinée. 
 
-**2.3 Création de l’organigramme des données **:
+**2.3 Création de l’organigramme des données**
 
 Jonathan s’est chargé de créer l’organigramme au fil de la journée. Il a pu peaufiner ce dernier au fur et à mesure de l’arrivée des informations nécessaires à sa conception. 
 
@@ -71,7 +71,7 @@ Appel avec le référent en fin de journée pour établir la wanted data list. L
 
 ## JOUR 3 – MISE EN QUALITÉ
 
-**Bilan des traitements **
+**Bilan des traitements**
 
 _<span style="text-decoration:underline;">Jeu de données 1</span>_ : Résultat élections présidentielles 
 * Temps de mise en qualité du jeu de données : 20 min.
