@@ -22,11 +22,11 @@ Carte du finage de la commune de Saint-Marcellin, issue des données de IGN :
 
 Dans cette partie, vous aurez à présenter la collectivité que vous accompagnez, faire le bilan du diagnostic et résumer les choix et les objectifs de la commune ainsi que ses motivations à ouvrir ses données._
 
-<span style="text-decoration:underline;">Pièces à joindre : </span>[https://airtable.com/shr4hkTi6y6mwMqQ9/tblCK1HM7nfkjbFpi](https://airtable.com/shr4hkTi6y6mwMqQ9/tblCK1HM7nfkjbFpi)
+Pièces à joindre : [https://airtable.com/shr4hkTi6y6mwMqQ9/tblCK1HM7nfkjbFpi](https://airtable.com/shr4hkTi6y6mwMqQ9/tblCK1HM7nfkjbFpi)
 
 Cette première journée a principalement consisté à analyser la situation de la ville de Saint-Marcellin dans le domaine de l’open data. Nous avons pris connaissance de la ville en tant que telle. Puis, nous sommes intervenus auprès du référent afin de connaître les besoins, les objectifs et les motivations de la ville.
 
-* <span style="text-decoration:underline;">Bilan diagnostic</span>
+* **Bilan diagnostic**
 
 Après un entretien avec le référent de Saint-Marcellin, la ville a été évaluée avec une faible maturité dans l’open data. Elle a obtenu le niveau 1 sur une échelle allant jusqu’à 4.
 
@@ -34,13 +34,13 @@ En effet, plusieurs éléments ont montré l’absence de développement dans ce
 
 Ainsi, la ville souhaite se former dans ce domaine et progresser de manière à atteindre le niveau de maturité supérieur.
 
-* <span style="text-decoration:underline;">Justification du choix des données à traiter</span>
+* **Justification du choix des données à traiter**
 
 Le référent nous a fait part de sa volonté d’axer l’ouverture de jeux de données principalement dans les secteurs du transport, du tourisme et du commerce. Cela correspond par exemple à l’ouverture de données concernant les équipements collectifs publics, les lieux de stationnement ou encore les espaces verts.
 
 La ville de Saint-Marcellin étant débutante dans le secteur de l’open data, l’interlocuteur a souhaité mettre en avant ces domaines. Il a préféré en laisser certains de côté pour le moment tels que des jeux de données traitant des informations travaux ou encore de sujets liés à la santé. Certains de ces thèmes ne semblent pas pertinents aux yeux de l’interlocuteur pour ces premiers pas dans l’open data. Par ailleurs, d’autres sont déjà en train d’être travaillés à un échelon supérieur, la communauté de commune par exemple, qui possède des experts en la matière.
 
-* <span style="text-decoration:underline;">Objectifs et motivations de la commune</span>
+* **Objectifs et motivations de la commune**
 
 D’une part, la commune de Saint-Marcellin a pour objectif premier de se mettre en avant. En effet, c’est une commune qui manque de visibilité aussi bien vis-à-vis de ses habitants que des citoyens extérieurs. Le tourisme est très peu développé alors que la ville est riche en histoire et possède de très beaux sites. Par ailleurs, c’est une commune très bien desservie. Pourtant, l’interlocuteur nous a indiqué qu’elle n’était pas assez mise en valeur. Par conséquent, l’ouverture de données aurait comme objectif de surmonter entre autres cette difficulté. Elle permettrait à la fois de valoriser la ville au niveau du marketing mais aussi de connaître les domaines où il est essentiel d’agir.
 
@@ -52,13 +52,13 @@ Enfin, l’interlocuteur nous a fait part de son enthousiasme et de celui de la 
 
 Ainsi, la première journée de ce challenge data a été très intéressante et promet une semaine très enrichissante.
 
-<span style="text-decoration:underline;">Aperçu de l’évaluation diagnostic de la ville de Saint-Marcellin :</span>
+**Aperçu de l’évaluation diagnostic de la ville de Saint-Marcellin :** [https://airtable.com/shr4hkTi6y6mwMqQ9/tblCK1HM7nfkjbFpi]</span>
 <p align="center">
   <img src="https://github.com/datactivist/challengedata4/blob/99ec1bb23bc0c5cb39edae7fcccf5c240f8847d1/images_cdb/contenu/Saint-Marcellin-1-2.png" />
 </p>
-[https://airtable.com/shr4hkTi6y6mwMqQ9/tblCK1HM7nfkjbFpi](https://airtable.com/shr4hkTi6y6mwMqQ9/tblCK1HM7nfkjbFpi)
 
-<span style="text-decoration:underline;">Aperçu de la wishlist de la ville de Saint-Marcellin : </span>
+
+**Aperçu de la wishlist de la ville de Saint-Marcellin :**
 <p align="center">
   <img src="https://github.com/datactivist/challengedata4/blob/99ec1bb23bc0c5cb39edae7fcccf5c240f8847d1/images_cdb/contenu/Saint-Marcellin-1-3.png" />
 </p>
