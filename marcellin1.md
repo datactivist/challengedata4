@@ -72,7 +72,7 @@ Ceci implique que notre organigramme est voué à évoluer en fonction des perso
 Pour ce qui est de la thématique des transports, nous avons de grosses difficultés en ce qui concerne les contacts. Nous avons tout de même pu avoir quelques mails, notamment ceux du SIG et Interland, mais nous sommes encore en attente d’informations. 
 
 
-<span style="text-decoration:underline;">La Wanted data list:</span> 
+**La Wanted data list :**
 <p align="center">
   <img src="https://github.com/datactivist/challengedata4/blob/99ec1bb23bc0c5cb39edae7fcccf5c240f8847d1/images_cdb/contenu/Saint-Marcellin-1-4.png" />
 </p>
@@ -83,9 +83,7 @@ Nous avons donc des jeux de données plus ou moins faciles à ouvrir, la difficu
 
 En ce qui concerne ces données, un certain nombre d’entre elles nécessitent d’être réorganisées, compilées et surtout standardisées dans la mesure où elles sont pour la majorité issues de nos recherches et non de documents de la commune en elle-même. Nous nous attellerons donc à cette tâche lors du jour 3 et préciserons ces données si nous recevons bien les documents demandés. 
 
-<span style="text-decoration:underline;">Conclusion de cette 2ème journée</span>: 
-
-
+**Conclusion de cette 2ème journée :** 
 
 * Le matin a été compliqué et peu productif en ce qui concerne l’exploration des données dans la mesure où nous attendions un certain nombre de réponses. Pour autant, nous ne sommes pas resté inactifs et nous avons commencé des recherches sur des bases de données publiques 
 * L’après-midi nous a permis de faire part de nos besoin à Monsieur Volovik, ce qui a pu lui permettre de mieux anticiper et de nous donner accès à plus de contacts pour la suite 
@@ -94,24 +92,25 @@ Globalement, nous avons, par notre travail en équipe et personnel, réussi à c
 
 Nous avons pu voir aujourd’hui une véritable nécessité pour Saint-Marcellin, en l'occurrence ici, de développer l’accès aux données. La plupart sont en réalité disponibles mais sous des formes peu répandues, ou bien peu connues, ce qui complique aussi notre travail. Il a donc été aussi intéressant, lors de cette journée 2, de voir toutes les difficultés que pose cette ouverture des données pour des communes mais aussi des personnes physiques qui n’ont pas encore de compétence en la matière. 
 
+Notre groupe au travail :
 <p align="center">
   <img src="https://github.com/datactivist/challengedata4/blob/99ec1bb23bc0c5cb39edae7fcccf5c240f8847d1/images_cdb/contenu/Saint-Marcellin-1-5.png" />
 </p>
-Notre groupe au travail 
 
+Notre groupe en échange avec Mr V., notre partenaire de Saint-Marcellin :
 <p align="center">
   <img src="https://github.com/datactivist/challengedata4/blob/99ec1bb23bc0c5cb39edae7fcccf5c240f8847d1/images_cdb/contenu/Saint-Marcellin-1-6.png" />
 </p>
-Notre groupe en échange avec Mr V., notre partenaire de Saint-Marcellin
 
 ## JOUR 3 – MISE EN QUALITÉ
 
 Le troisième jour de notre challenge data débute. Aujourd’hui, il s’agit pour nous de “mettre en qualité” les données. Cependant, nous nous sommes aperçus hier que la collectivité n’en possède pas, ou peu. Après vérification auprès des services de la ville, nous avons tout de même trouvé un document PDF concernant les écoles.  Mais pour les places de parkings, les parkings à vélo, les lieux de covoiturage et les aménagements cyclables, il n'y a toujours rien. Aucune donnée n’est disponible du côté de la mairie. Une recherche sur le site OpenStreetMap a donc été nécessaire afin d’obtenir le maximum de données. De plus, concernant les lieux de covoiturage, nous avons consulté plusieurs autres sites internet spécialisés sur cette question, notamment Mappy. Une bonne nouvelle est arrivée au cours de la matinée. En effet, nous avons obtenu les cartes pour le tracé des pistes cyclables. Malheureusement, il s’agit de fichier PDF donc pas de données à proprement parler dans la mesure où le tracé des pistes est certes présent mais pas les données ayant permis de tracer des pistes. 
 
+Réunion de briefing à 9h : 
 <p align="center">
   <img src="https://github.com/datactivist/challengedata4/blob/99ec1bb23bc0c5cb39edae7fcccf5c240f8847d1/images_cdb/contenu/Saint-Marcellin-1-7.png" />
 </p>
-_Réunion de briefing à 9h_ 
+
 
 Lundi, lors de la première visioconférence, Monsieur V. nous a fait savoir que l’objectif principal de la participation de la commune de Saint-Marcellin à cette semaine de challenge data vise à promouvoir la ville en particulier sur le plan touristique. A ce titre, les places de stationnement occupent une place clé. En effet, ces dernières, bien que nombreuses (nous en avons décompté 2024 dans la ville de Saint-Marcellin), sont parfois méconnues et mal répertoriées. Dans un premier temps, nous avons utilisé openstreetmap afin de localiser l’ensemble des parkings présents dans la ville, et nous avons ainsi eu les coordonnés GPS de 54 parkings. Cependant, un problème s’est rapidement posé. En effet, nous ne disposons d’aucun jeu de données concernant le nombre de places. Un parking répertorié sur openstreetmap peut très bien compter 2 places de parkings ou 200. Dès lors, grâce à la vue satellitaire, nous avons dû recenser chaque place de parking en fonction des coordonnées GPS présents dans le jeu donné extrait d’open street map. Ce travail nous permet ainsi d’attribuer à chaque coordonnée gps le nombre de places de parking correspondant. Cette tâche chronophage nous a mobilisé une partie de l’après d’hier ainsi que la matinée d'aujourd'hui. 
 
@@ -151,7 +150,8 @@ Suite à ce travail, nous avons en fin d’après-midi présenté le document r�
 
 La production d’infographie pour le site internet (présente sur ce carnet de bord) et la complétion du document dédié au plan de communication nous a pris la fin de l’après-midi, dans une très bonne ambiance, qui nous a permis d’accomplir tous nos objectifs de la journée.
 
-**Illustration pour la communication de la data, sur le site de Saint-Marcellin : **
+**Illustration pour la communication de la data, sur le site de Saint-Marcellin :**
+
 <p align="center">
   <img src="https://github.com/datactivist/challengedata4/blob/99ec1bb23bc0c5cb39edae7fcccf5c240f8847d1/images_cdb/contenu/Saint-Marcellin-1-11.png" />
 </p>
@@ -176,47 +176,47 @@ Concernant les vélos, E. a réalisé une cartographie des parkings de stationne
 Pour la partie éducation/jeunesse, Audrey et Lou-Anne ont créé une carte pour la crèche de la ville puis ensuite une jolie infographie pour représenter les effectifs scolaires classés par niveau selon les niveaux.
 Léo et Clémence ont construit une carte avec toutes les places de stationnement répertoriées ainsi que les places à mobilité réduite sous un pictogramme différent. Pour donner à voir de leur carte, ils ont réalisé une infographie aux couleurs de Saint-Marcellin comprenant des statistiques pour mettre en valeur l’investissement municipal sur les stationnements (2024 places, 1 place pour 4 habitants). 	Sefana et Amandine ont réalisé conjointement deux cartes pour donner les emplacements des lieux d’inclusion numérique et des lieux de covoiturage avec des pictogrammes 
 
-**Les data-visualisations : **
+**Les data-visualisations :**
 
 
 
-1. Vélo : Les parkings vélo 
+**1. Vélo : Les parkings vélo**
 <p align="center">
   <img src="https://github.com/datactivist/challengedata4/blob/99ec1bb23bc0c5cb39edae7fcccf5c240f8847d1/images_cdb/contenu/Saint-Marcellin-1-13.png" />
 </p>
-*  lien d’accès : [http://u.osmfr.org/m/685498](http://u.osmfr.org/m/685498/)
+* lien d’accès : [http://u.osmfr.org/m/685498](http://u.osmfr.org/m/685498/)
 
-3. Aménagements cyclables :
+**2. Aménagements cyclables**
 <p align="center">
   <img src="https://github.com/datactivist/challengedata4/blob/99ec1bb23bc0c5cb39edae7fcccf5c240f8847d1/images_cdb/contenu/Saint-Marcellin-1-14.png" />
 </p>
 * lien d’accès :  [http://u.osmfr.org/m/685538/](http://u.osmfr.org/m/685538/)
 
-4. Les lieux de stationnements
+**3. Les lieux de stationnements**
 <p align="center">
   <img src="https://github.com/datactivist/challengedata4/blob/99ec1bb23bc0c5cb39edae7fcccf5c240f8847d1/images_cdb/contenu/Saint-Marcellin-1-15.png" />
 </p>
 * lien d’accès : [http://u.osmfr.org/m/685497/](http://u.osmfr.org/m/685497/) 
 
-4. Les effectifs scolaires et crèches (lien ci-dessous)
+**4. Les effectifs scolaires et crèches (lien ci-dessous)**
 <p align="center">
   <img src="https://github.com/datactivist/challengedata4/blob/99ec1bb23bc0c5cb39edae7fcccf5c240f8847d1/images_cdb/contenu/Saint-Marcellin-1-16.png" />
 </p>
 http://u.osmfr.org/m/685649/](http://u.osmfr.org/m/685649/)  
 
-5. Les lieux d’inclusion numérique
+**5. Les lieux d’inclusion numérique**
 <p align="center">
   <img src="https://github.com/datactivist/challengedata4/blob/99ec1bb23bc0c5cb39edae7fcccf5c240f8847d1/images_cdb/contenu/Saint-Marcellin-1-17.png" />
 </p>
 * lien d’accès : [http://u.osmfr.org/m/685505/](https://l.facebook.com/l.php?u=http%3A%2F%2Fu.osmfr.org%2Fm%2F685505%2F%3Ffbclid%3DIwAR33wtON-iHFI5TCxktoELuUEONKS792XPzpvQn3W1rYKlF_eGGOOxjR1HI&h=AT2vzvXmB7W8rD8h37u85STdku_djeyObcuv87e1pkdqYdkOmvOgLMF0HbyK92XsZpBoDP-rVMYbUwPI5Yvb9GJmk2AZ0YM5xeYTqr-ZoiJHVdPfHe3g0aiK3vzdiyy-nzY5GA)
 
-6. Les lieux de covoiturag
+**6. Les lieux de covoiturage**
 <p align="center">
   <img src="https://github.com/datactivist/challengedata4/blob/99ec1bb23bc0c5cb39edae7fcccf5c240f8847d1/images_cdb/contenu/Saint-Marcellin-1-18.png" />
 </p>
 * lien d’accès : [http://u.osmfr.org/m/685507/](http://u.osmfr.org/m/685507/)
 
-7. Carte des déplacements à Saint-Marcellin
+**7. Carte des déplacements à Saint-Marcellin**
 <p align="center">
   <img src="https://github.com/datactivist/challengedata4/blob/99ec1bb23bc0c5cb39edae7fcccf5c240f8847d1/images_cdb/contenu/Saint-Marcellin-1-19.png" />
 </p>
