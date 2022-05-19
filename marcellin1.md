@@ -184,43 +184,43 @@ Léo et Clémence ont construit une carte avec toutes les places de stationnemen
 <p align="center">
   <img src="https://github.com/datactivist/challengedata4/blob/99ec1bb23bc0c5cb39edae7fcccf5c240f8847d1/images_cdb/contenu/Saint-Marcellin-1-13.png" />
 </p>
-Lien d’accès : http://u.osmfr.org/m/685498/ <br/>
+Lien d’accès : http://u.osmfr.org/m/685498/
 
 <br/>**2. Aménagements cyclables**
 <p align="center">
   <img src="https://github.com/datactivist/challengedata4/blob/99ec1bb23bc0c5cb39edae7fcccf5c240f8847d1/images_cdb/contenu/Saint-Marcellin-1-14.png" />
 </p>
-Lien d’accès :  http://u.osmfr.org/m/685538/ <br/>
+Lien d’accès :  http://u.osmfr.org/m/685538/
 
-**3. Les lieux de stationnements**
+<br/>**3. Les lieux de stationnements**
 <p align="center">
   <img src="https://github.com/datactivist/challengedata4/blob/99ec1bb23bc0c5cb39edae7fcccf5c240f8847d1/images_cdb/contenu/Saint-Marcellin-1-15.png" />
 </p>
-Lien d’accès : http://u.osmfr.org/m/685497/ <br/>
+Lien d’accès : http://u.osmfr.org/m/685497/
 
-**4. Les effectifs scolaires et crèches**
+<br/>**4. Les effectifs scolaires et crèches**
 <p align="center">
   <img src="https://github.com/datactivist/challengedata4/blob/99ec1bb23bc0c5cb39edae7fcccf5c240f8847d1/images_cdb/contenu/Saint-Marcellin-1-16.png" />
 </p>
-Lien d'accès : http://u.osmfr.org/m/685649/ <br/>
+Lien d'accès : http://u.osmfr.org/m/685649/
 
-**5. Les lieux d’inclusion numérique**
+<br/>**5. Les lieux d’inclusion numérique**
 <p align="center">
   <img src="https://github.com/datactivist/challengedata4/blob/99ec1bb23bc0c5cb39edae7fcccf5c240f8847d1/images_cdb/contenu/Saint-Marcellin-1-17.png" />
 </p>
-Lien d’accès : http://u.osmfr.org/m/685505/ <br/>
+Lien d’accès : http://u.osmfr.org/m/685505/
 
-**6. Les lieux de covoiturage**
+<br/>**6. Les lieux de covoiturage**
 <p align="center">
   <img src="https://github.com/datactivist/challengedata4/blob/99ec1bb23bc0c5cb39edae7fcccf5c240f8847d1/images_cdb/contenu/Saint-Marcellin-1-18.png" />
 </p>
-Lien d’accès : http://u.osmfr.org/m/685507/ <br/>
+Lien d’accès : http://u.osmfr.org/m/685507/
 
-**7. Carte des déplacements à Saint-Marcellin**
+<br/>**7. Carte des déplacements à Saint-Marcellin**
 <p align="center">
   <img src="https://github.com/datactivist/challengedata4/blob/99ec1bb23bc0c5cb39edae7fcccf5c240f8847d1/images_cdb/contenu/Saint-Marcellin-1-19.png" />
 </p>
-Lien d’accès : http://u.osmfr.org/m/685737/ <br/>
+Lien d’accès : http://u.osmfr.org/m/685737/
 
 ## CONCLUSION
 
