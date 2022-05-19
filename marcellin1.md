@@ -15,8 +15,7 @@ Notre objectif au cours de ce Challenge Data sera de rendre accessible à la col
 <p align="center">
   <img src="https://github.com/datactivist/challengedata4/blob/99ec1bb23bc0c5cb39edae7fcccf5c240f8847d1/images_cdb/contenu/Saint-Marcellin-1-1.png" />
 </p>
-
-    Carte du finage de la commune de Saint-Marcellin, issue des données de IGN
+_Carte du finage de la commune de Saint-Marcellin, issue des données de IGN_
 
 ## JOUR 1 – DIAGNOSTIC
 
