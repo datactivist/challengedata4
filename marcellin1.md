@@ -186,7 +186,7 @@ Léo et Clémence ont construit une carte avec toutes les places de stationnemen
 </p>
 Lien d’accès : http://u.osmfr.org/m/685498/ <br/>
 
-**2. Aménagements cyclables**
+<br/>**2. Aménagements cyclables**
 <p align="center">
   <img src="https://github.com/datactivist/challengedata4/blob/99ec1bb23bc0c5cb39edae7fcccf5c240f8847d1/images_cdb/contenu/Saint-Marcellin-1-14.png" />
 </p>
