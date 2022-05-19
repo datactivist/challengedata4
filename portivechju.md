@@ -2,8 +2,11 @@
 
 par Clementine BERTHET, Victor DISSAUX, Theo GOURLET, Clara LE DIVENACH, Elisa R. et Chiara ZILOCCHI
 
-## JOUR 1 – DIAGNOSTIC
+<p align="center">
+  <img src="https://github.com/datactivist/challengedata4/blob/7f2bb1fc6b2cf3038f0191aecdb4f438077568d3/images_cdb/Porto-Vecchio.jpg" />
+</p>
 
+## JOUR 1 – DIAGNOSTIC
 
 **Présentation de la collectivité :**
 
@@ -27,7 +30,6 @@ Afin de terminer cette journée très riche, nous avons transmis la wishlist (ci
   <img src="https://github.com/datactivist/challengedata4/blob/c0d9baf21d915bb694294d3cd865aa02c5914208/images_cdb/contenu/PTU.png" />
 </p>
 
-  
 ## JOUR 2 – IDENTIFICATION
 
 
