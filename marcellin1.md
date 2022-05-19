@@ -3,7 +3,7 @@
 par Audrey Moisan, Amandine Martin, Lou-Anne Goussu, Léo Peyroche, Clémence Hubert et Sefana Roulon
 
 <p align="center">
-  <img src="https://github.com/datactivist/challengedata4/blob/c0d9baf21d915bb694294d3cd865aa02c5914208/images_cdb/contenu/PTU.png" />
+  <img src="https://github.com/datactivist/challengedata4/blob/423bed7df4fdbe45d21b8f243af6e53f9d09f7a1/images_cdb/Saint%20Marcelin1.jpg" />
 </p>
 
 ## INTRODUCTION
