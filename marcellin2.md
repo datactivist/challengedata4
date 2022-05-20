@@ -263,25 +263,25 @@ La dernière étape de la journée a donc été la présentation du travail fina
 
 [Cartographie des points d’intérêts de Saint-Marcellin](https://umap.openstreetmap.fr/fr/map/points-dinterets_685549)
 
-<p align="center">
+<p align="">
   <img src="https://github.com/datactivist/challengedata4/blob/ead72b4a0aa0dbf946b97c551f3ce0cbefa022bf/images_cdb/contenu/Saint-Marcellin-2-7.png" />
 </p>   
 
 Panel des associations
 
-<p align="center">
+<p align="">
   <img src="https://github.com/datactivist/challengedata4/blob/ead72b4a0aa0dbf946b97c551f3ce0cbefa022bf/images_cdb/contenu/Saint-Marcellin-2-8.png" />
 </p>   
 
 [Équipements Publics Collectifs ](http://u.osmfr.org/m/685520/)
 
-<p align="center">
+<p align="">
   <img src="https://github.com/datactivist/challengedata4/blob/ead72b4a0aa0dbf946b97c551f3ce0cbefa022bf/images_cdb/contenu/Saint-Marcellin-2-9.png" />
 </p>   
 
 [Cartographie des bases de commerce de Saint-Marcellin](http://umap.openstreetmap.fr/fr/map/base-commerce-de-saint-marcellin_685512#16/45.1509/5.3248)
 
-<p align="center">
+<p align="">
   <img src="https://github.com/datactivist/challengedata4/blob/ead72b4a0aa0dbf946b97c551f3ce0cbefa022bf/images_cdb/contenu/Saint-Marcellin-2-10.png" />
 </p>   
     
