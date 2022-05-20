@@ -103,7 +103,7 @@ Jeux de données
    </td>
    <td>X
    </td>
-   <td>
+   <td>Moyen
    </td>
   </tr>
   <tr>
@@ -117,7 +117,7 @@ Jeux de données
    </td>
    <td>X
    </td>
-   <td>
+   <td>Difficile
    </td>
   </tr>
   <tr>
@@ -131,7 +131,7 @@ Jeux de données
    </td>
    <td>X
    </td>
-   <td>
+   <td>Moyen
    </td>
   </tr>
   <tr>
@@ -145,7 +145,7 @@ Jeux de données
    </td>
    <td>X
    </td>
-   <td>
+   <td>Difficile
    </td>
   </tr>
   <tr>
@@ -159,7 +159,7 @@ Jeux de données
    </td>
    <td>X
    </td>
-   <td>
+   <td>Facile
    </td>
   </tr>
   <tr>
@@ -173,12 +173,10 @@ Jeux de données
    </td>
    <td>X
    </td>
-   <td>
+   <td>Très difficile
    </td>
   </tr>
 </table>
-
-Les codes couleurs correspondent au niveau de difficulté de l’ouverture des jeux de données, allant du plus foncé pour le plus compliqué au plus clair pour le plus simple.
 
 **Remarque générale de la journée 2 :**
 
