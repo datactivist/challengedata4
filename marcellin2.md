@@ -287,7 +287,7 @@ Panel des associations
     
 [Cartographie Espaces Verts ](https://umap.openstreetmap.fr/fr/map/saint-marcellin-espaces-verts_685586#16/45.1569/5.3216)
 
-<p align="center">
+<p align="">
   <img src="https://github.com/datactivist/challengedata4/blob/ead72b4a0aa0dbf946b97c551f3ce0cbefa022bf/images_cdb/contenu/Saint-Marcellin-2-11.png" />
 </p>   
     
