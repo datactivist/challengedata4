@@ -201,14 +201,14 @@ Alice T. et un membre du groupe se sont chargés de mettre en qualité du Google
 
 **3 - Apprentissages du jour**
 
-**_Les tableaux dynamiques et les filtres _**
+* **Les tableaux dynamiques et les filtres**
 
 Les tableaux croisés dynamiques permettent de vérifier les occurrences divergentes sur les données relatives aux associations. Une technique intuitive qui nous a fait gagner un temps précieux. \
 Les filtres sont aussi une technique pour dépister les occurrences divergentes. Une manière de faire que nous avons moins utilisée car elle nous paraissait moins intuitive.
 
 Cet apprentissage a eut un impact important sur la qualité de nos données, ayant rempli manuellement beaucoup de base de données, il a fallu harmoniser les données. Par exemple, concernant les associations, nous avons remarqué une occurrence divergente sur la qualification des associations catégorisées comme relevant de la “défense de l’environnement”. Quatre associations étaient concernées, mais une erreur d’écriture ne permettait pas une catégorisation aisée des quatre associations. Pour deux d’entre elles, c’était écrit en majuscule, et pour deux autres en minuscule. Ainsi, l’usage de TCD permettant de repérer les occurrences divergentes ont permis d’avoir un impact sur la qualité des données dont nous disposons. Même cas pour “entraide, humanitaire, caritatif” qui était une catégorie en doublon des catégories “entre-aide” et “humanitaire”. Cela nous a ainsi permis d’améliorer grandement la qualité des données ! 
 
-**_Harmonisation et formule excel _**
+* **Harmonisation et formule excel**
 
 Par ailleurs, nous avons tout mis sous la même forme, c'est-à-dire en majuscule, afin d’uniformiser les données. Globalement, nous avons utilisé une technique d’uniformisation des noms propres afin d’uniformiser et de rendre plus esthétique la lecture et la mobilisation des données. Ensuite, nous avons regroupé les catégories similaires, et nous avons éliminé les fautes de frappe. Pour la colonne “Nom du contact” nous avons pu améliorer la qualité de nos données car des fautes de frappe existaient sur le nom des représentants des associations. Nous avons également appris à trouver les latitudes et longitudes à partir de l’adresse manuscrite d’un lieu grâce au logiciel adresse.data.gouv.fr, a les fusionner par la formule “=ColonneA&”,-”&ColonneB”.
 
