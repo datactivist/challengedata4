@@ -2,7 +2,7 @@
 
 B. Kenza, BONNELLE Elise, BOYER Chloe, BRENAC	Vianney, COLLIER	Amelia, D.S.P.	Aliette
     
-    
+![](https://github.com/datactivist/challengedata4/blob/main/images_cdb/Annecy2.jpg)
 
 ## JOUR 1 – DIAGNOSTIC
 
