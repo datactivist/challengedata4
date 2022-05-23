@@ -25,7 +25,7 @@ Pour ce qui est des freins, outre le manque de volonté politique qui avait surt
 Comme convenu, nous arrivons à l'issue de la première journée qui consistait en l'étape du diagnostic, nous permettant de voir avec vous les thèmes qu'il était pertinent d'aborder en lien avec l'Open Data. Nous avons distingué 2 catégories divisées entre nos 2 groupes : 
 
 
-**Mobilité et aménagement du territoire (Groupe 2r)**
+**Mobilité et aménagement du territoire (Groupe 2)**
 
    - Signalisation tricolore 
    - Parking vélo
