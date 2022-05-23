@@ -1,637 +1,175 @@
-<!-- Output copied to clipboard! -->
+# Carnet de bord de l'ouverture des données de Clermont Auvergne Métropole
 
-<!-----
-
-You have some errors, warnings, or alerts. If you are using reckless mode, turn it off to see inline alerts.
-* ERRORs: 0
-* WARNINGs: 0
-* ALERTS: 1
-
-Conversion time: 1.549 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β33
-* Wed May 11 2022 08:17:51 GMT-0700 (PDT)
-* Source doc: 2_Annecy_Carnetdebord
-* Tables are currently converted to HTML tables.
-* This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server. NOTE: Images in exported zip file from Google Docs may not appear in  the same order as they do in your doc. Please check the images!
-
------>
-
-
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 1.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
- 
-
-
-    _Ce carnet de bord est destiné à écrire le récit de vos aventures ! Il doit être complété tout au long des étapes de ce patchwork._
-
-
-<table>
-  <tr>
-   <td><strong>PARTIE</strong>
-   </td>
-   <td><strong>Rédacteur/rédactrice</strong>
-   </td>
-   <td><strong>Note</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>1. Diagnostic
-   </td>
-   <td>Amélia
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>2. Identification
-   </td>
-   <td>Chloé
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>3. Mise en qualité
-   </td>
-   <td>Kenza
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>4. Publication
-   </td>
-   <td>Aliette
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>5. Valorisation
-   </td>
-   <td>Elise
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Conclusion
-   </td>
-   <td>Vianney
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
-
-
-
-        **Consignes pour la rédaction des CDB**
-
-
-    Vous avez toutes et tous choisi une manière (ou pas) d’**anonymiser** vos noms et prénoms dans les carnets de bord, n’oubliez pas de respecter les choix d’anonymisation des membres de votre équipe au moment de la rédaction ;
-
-
-    N’oubliez pas aussi d’anonymiser les noms et prénoms des interlocuteurs et des agents ;
-
-
-    N’oubliez pas d’**inclure les pièces-jointes et documents** demandés chaque jour :
-
-
-
-* Wishlist 
-* Organigramme 
-* Communication éventuelle 
-* Dataviz
-
+B. Kenza, BONNELLE Elise, BOYER Chloe, BRENAC	Vianney, COLLIER	Amelia, D.S.P.	Aliette
+    
     
 
+## JOUR 1 – DIAGNOSTIC
 
-    **JOUR 1 – DIAGNOSTIC**
+**Résumé**
 
+Au cours de cette première journée, nous nous sommes d’abord confrontés au fait que la ville d’Annecy dispose d’un vaste ensemble de données notamment lié à l’ancienneté de son SIG. Elles n’ont pas forcément été exploitées jusque-là et peuvent dater d’une dizaine d’années. Nous avons tenté de cerner les attentes d’une institution publique en termes de valorisation de données à l’heure de la loi de l’Open Data « par principe » qui met la transparence de la donnée au cœur de l’action publique et cherche à faire quelque chose de cet ensemble de connaissances. Cette valorisation est au cœur de l’intention politique affirmée du nouveau conseil municipal élu en 2020 qui se concentre sur la notion de transition, qu’elle soit écologique ou numérique.
 
-    _Dans cette partie, vous aurez à présenter la collectivité que vous accompagnez, faire le bilan du diagnostic et résumer les choix et les objectifs de la commune ainsi que ses motivations à ouvrir ses données._
 
+ **L’entretien en visioconférence**
 
-    _Pièce à joindre : wishlist_
+Nous avons eu une première prise de contact avec notre référent, Léonard G., chargé de mission transition numérique à la ville d’Annecy, ainsi qu’avec Maxence Rossard et Philippe Musson, responsable chef de projet SIG.
 
+Ils nous ont clairement exposé leurs volontés mais aussi les freins éventuels qui pouvaient ralentir leurs projets. Ils ont la volonté de suivre un modèle d’innovation, de renforcer l’attractivité économique, d’accompagner les citoyens aux usages numériques, d’être acteur de la nouvelle économie de la donnée. Ils ont insisté sur leurs priorités politiques et leur intérêt assez fort, en tant que représentant d’une coalition de gauche et écologiste, pour la participation citoyenne, cela passe notamment par la transparence, l’open data, et l’organisation d’hackaton (marathon de programmation).
 
-**Résumé : **
+Pour ce qui est des freins, outre le manque de volonté politique qui avait surtout été le fait de l’équipe municipale précédente, l’obstacle essentiel est, aujourd’hui, la question de l’organisation en interne. En effet, Léonard G. expliquait que le principal écueil ne provenait pas de lacunes techniques. Techniquement, ils n’avaient pas d’obstacle à l’ouverture des données et ils disposent déjà de nombreuses données existantes. En fait, c’est plutôt l’absence d’une équipe dédiée et structurée pour gérer les données qui fait obstacle. La ville n’a pas vraiment de stratégie de gouvernance de la donnée, les agents, même compétents, n’ont pas forcément les mêmes référentiels. Il faut un socle commun. Léonard G. insiste aussi sur le fait que libérer des données est nécessaire mais que si elles ne sont pas valorisées par aucun acteur derrière, elles ne servent à rien. C’est également pour cela qu’aucun budget open data n’est fixé et qu’il ne serait pensé que s’ils avaient une plateforme dédiée. Ce frein montre l’intérêt essentiel de notre travail cette semaine et sera l’enjeu majeur sur lequel nous nous concentrons au cours du Challenge Data.** **
 
 
-<table>
-  <tr>
-   <td>Réussite ou casse-tête ?
-   </td>
-   <td>Explication / Citation
-   </td>
-  </tr>
-  <tr>
-   <td>Casse-tête
-   </td>
-   <td>devoir se coordonner avec l’autre groupe qui travaille aussi avec la collectivité d’Annecy pour contacter le référent et organiser la première prise de contact 
-   </td>
-  </tr>
-  <tr>
-   <td>Casse-tête 
-   </td>
-   <td>diviser les thématiques entre les deux groupes, mais cela est d’autant plus délicat que 2 grandes thématiques ne se dégageaient pas forcément de la wishlist 
-   </td>
-  </tr>
-  <tr>
-   <td>Casse-tête
-   </td>
-   <td>réussir à comprendre les attentes d’un service qui n’a pas encore clairement développé un service entièrement dédié à l’open data donc il y a une multiplicité d’acteurs impliqués 
-   </td>
-  </tr>
-  <tr>
-   <td>Réussite 
-   </td>
-   <td>extraction de 2 grands thèmes qui semblent être en accord avec la collectivité territoriale 
-   </td>
-  </tr>
-</table>
+   **Wishlist**
 
+Comme convenu, nous arrivons à l'issue de la première journée qui consistait en l'étape du diagnostic, nous permettant de voir avec vous les thèmes qu'il était pertinent d'aborder en lien avec l'Open Data. Nous avons distingué 2 catégories divisées entre nos 2 groupes : 
 
 
-    Au cours de cette première journée, nous nous sommes d’abord confrontés au fait que la ville d’Annecy dispose d’un vaste ensemble de données notamment lié à l’ancienneté de son SIG. Elles n’ont pas forcément été exploitées jusque-là et peuvent dater d’une dizaine d’années. Nous avons tenté de cerner les attentes d’une institution publique en termes de valorisation de données à l’heure de la loi de l’Open Data « par principe » qui met la transparence de la donnée au cœur de l’action publique et cherche à faire quelque chose de cet ensemble de connaissances. Cette valorisation est au cœur de l’intention politique affirmée du nouveau conseil municipal élu en 2020 qui se concentre sur la notion de transition, qu’elle soit écologique ou numérique.
+**Mobilité et aménagement du territoire (Groupe 2r)**
 
+   - Signalisation tricolore 
+   - Parking vélo
+   - Recharge e-borne
+   - Permis de construire
+   - Noms des nouveaux nés
 
-    <span style="text-decoration:underline;">L’entretien en visioconférence</span> :
 
+ **Tourisme et attractivité du territoire (Groupe 1)**
+   
+   - Résultat des élections et liste des élus
+   - Chemins de randonnée pédestre
+   - Monuments historiques
+   - Défibrillateurs
+   - Inclusion numérique du territoire
 
-    Nous avons eu une première prise de contact avec notre référent, Léonard Gay, chargé de mission transition numérique à la ville d’Annecy, ainsi qu’avec Maxence Rossard et Philippe Musson, responsable chef de projet SIG.
 
+   
+## JOUR 2 – IDENTIFICATION
 
-    Ils nous ont clairement exposé leurs volontés mais aussi les freins éventuels qui pouvaient ralentir leurs projets. Ils ont la volonté de suivre un modèle d’innovation, de renforcer l’attractivité économique, d’accompagner les citoyens aux usages numériques, d’être acteur de la nouvelle économie de la donnée. Ils ont insisté sur leurs priorités politiques et leur intérêt assez fort, en tant que représentant d’une 
+  
+**Résumé** 
 
+Cette journée a été synonyme d’attente et de patience : nous n’avons reçu les jeux de données (signalisation et parkings vélo) qu’en fin de journée et ce que partiellement, puisqu’il nous en manque encore la moitié (numéros de voiries et cartes scolaires). Notre interlocuteur Leonard G. a fait de son mieux pour nous fournir les documents manquants, mais nous devions attendre la réponse de ses collaborateurs. Avec lui, nous avons fait un travail d’évaluation de faisabilité du travail, afin de prioriser le travail des prochains jours.
 
-    coalition de gauche et écologiste, pour la participation citoyenne, cela passe notamment par la transparence, l’open data, et l’organisation d’hackaton (marathon de programmation).
+Une fois les deux jeux de données reçus, à savoir la signalisation (feux tricolores) et les parkings vélos, nous avons évalué le travail de mise en qualité. Pour cette dataexploration, nous nous sommes référés aux schémas de données pour savoir si les données dont nous disposions correspondaient aux critères. Avec l’aide de google sheets, nous avons comparé les jeux de données avec des exemples types. Il s’est avéré que nos jeux de données n’étaient pas aux normes : il y avait des cellules avec des valeurs incorrectes ou trop hétérogènes. Le travail de nettoyage puis de compilation va donc être important si l’on souhaite donner du sens aux jeux de données.
 
+Pour finir, nous avons pris l'initiative de renvoyer les données aux collaborateurs en précisant avec un code couleur et des symboles les informations manquantes, afin de s’assurer que nous aurons une base minimale pour notre travail de mise en qualité. Et, puisque nous étions bloqués par l’attente de deux
+autres jeux de données, nous avons commencé à compléter les données de signalisation à l’aide des logiciels templates et Umap. Malheureusement, notre wanted data list n’est pas définitive puisque nous n’avons pas encore reçu les jeux de données “numéros de voiries” et “cartes scolaires”.
 
-    Pour ce qui est des freins, outre le manque de volonté politique qui avait surtout été le fait de l’équipe municipale précédente, l’obstacle essentiel est, aujourd’hui, la question de l’organisation en interne. En effet, Léonard Gay expliquait que le principal écueil ne provenait pas de lacunes techniques. Techniquement, ils n’avaient pas d’obstacle à l’ouverture des données et ils disposent déjà de nombreuses données existantes. En fait, c’est plutôt l’absence d’une équipe dédiée et structurée pour gérer les données qui fait obstacle. La ville n’a pas vraiment de stratégie de gouvernance de la donnée, les agents, même compétents, n’ont pas forcément les mêmes référentiels. Il faut un socle commun. Léonard Gay insiste aussi sur le fait que libérer des données est nécessaire mais que si elles ne sont pas valorisées par aucun acteur derrière, elles ne servent à rien. C’est également pour cela qu’aucun budget open data n’est fixé et qu’il ne serait pensé que s’ils avaient une plateforme dédiée. Ce frein montre l’intérêt essentiel de notre travail cette semaine et sera l’enjeu majeur sur lequel nous nous concentrons au cours du Challenge Data.** **
 
+**L’entretien en visioconférence**
 
-    <span style="text-decoration:underline;">Wishlist </span>: 
+Nous avons retrouvé notre référent Léonard G. (chargé de mission numérique à la ville d’Annecy) pour faire le point sur les jeux de données. La discussion a été efficace puisque nous avons redéfini les priorités en termes de secteurs à traiter.
 
+En effet, après l’avoir remercié pour sa réactivité et lui avoir fait part des difficultés encontrées lorsque nous avons cherché à contacter ses collègues, nous avons réfléchit à la pertinence de chaque jeu de données pour Annecy. On a statué sur les jeux à traiter en priorité, sur ceux qu’il valait mieux abandonner, et sur les nouveaux jeux qu’il nous suggérait avec enthousiasme. Il préfère que l’on priorise la signalisation (feux tricolores), mais que l’on renonce en revanche aux e-bornes, aux permis de construire ainsi qu’aux noms des nouveau-nés, pour se pencher à la place sur les numéros de voiries, les cartes scolaires (zonages pour les écoles), et éventuellement le PLU (bien que cela paraisse lourd à traiter).
 
-    Comme convenu, nous arrivons à l'issue de la première journée qui consistait en l'étape du diagnostic, nous permettant de voir avec vous les thèmes qu'il était pertinent d'aborder en lien avec l'Open Data. Nous avons distingué 2 catégories divisées entre nos 2 groupes : 
+Alors que l’on revenait sur l’utilité des data pour la collectivité, il a insisté sur le besoin professionnel d’utiliser les jeux de donnée. Au-delà de l’aspect réglementaire, il y a une vision politique dans l’open data : c’est une démarche de transparence de l’action publique, qui doit avoir du sens pour les équipes municipales autant que pour les citoyens. Une fois les jeux de données publiés, ils peuvent être intégrés dans les délibérations municipales.
 
+Enfin, il nous a annoncé qu’il aimerait que l’on fasse une roadmap de ce que la mairie pourrait ouvrir en termes d’open data sur les 5 prochaines années.  Il souhaiterait que l’on priorise ses jeux de données pour qu’il ait des indications pour l’avenir, notamment pour le programme politique de la municipalité. Nous avons accepté avec plaisir cette tâche que nous effectuerons dans le cadre de la partie communication.
 
-    **<span style="text-decoration:underline;">Mobilité et aménagement du territoire (Groupe 2 : elise.bonnelle@yahoo.fr)</span>**
 
+**L’organigramme des données**
 
-    -Signalisation tricolore 
 
+![](https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/annecy2_organigramme.png
+   
+   
+**Wanted data list**
 
-    -Parking vélo
+Mobilité et aménagement du territoire ((Groupe 2)
 
+   - Signalisation tricolore
+   - Parking vélo
+   - Numéro de voiries
+   - Cartes scolaires (zonages pour les écoles)
 
-    -Recharge e-borne
 
+## JOUR 3 – MISE EN QUALITE
+   
+**Résumé**
 
-    -Permis de construire
+La réunion de ce matin concerne la mise en qualité des données, qui consiste en une uniformisation et une mise aux propres de tous les jeux de données. Le but de cette tâche est de faciliter le travail du réutilisateur afin qu’il n’ait pas à modifier les données. 
 
+Nous recevons deux nouveaux jeux de données : les numéros de voirie ainsi que la carte scolaire, que nous rentrons sur uMap.
 
-    -Noms des nouveaux nés
+Nous revenons sur les feux tricolores et comptons le nombre de feux par carrefour, et nous rentrons également tous les noms des rues qui se croisent au niveau du carrefour et pas seulement la rue que nous avions indiquée hier.
 
+Nous attendons également que Magalie s’occupe de la uMap des parkings à vélo : il y en a 600 et nous devons cliquer sur chacun d’entre eux pour pouvoir entrer leur adresse sur un excel. Dans un souci d’efficacité, il serait stratégique de pouvoir indiquer les points sur lesquels nous avons déjà cliqué. En attendant, nous mettons au propre des données pour les parkings à vélo en comparant ce que nous avons au template.
 
-    **<span style="text-decoration:underline;">Tourisme et attractivité du territoire (Groupe 1 : clempauthier@hotmail.fr)</span>**
+Nous décidons aussi de travailler sur les défibrillateurs car le jeu de données est assez complet. Cela passe par une standardisation des dates et adresses, une correction des abréviations et coquilles, un nettoyage des doublons et fusion de certaines colonnes (notamment les deux colonnes « visite » et « date de visite ») et une suppression de certaines cases ne correspondant pas au format correct.
 
+Nous nous rendons sur le site schema.data.gouv pour vérifier la conformité des deux fichiers suivants : lieux de stationnement cyclable, et DAE (Défibrillateurs Automatisés Externes).
 
-    -Résultat des élections et liste des élus
+Après la pause déjeuner, nous avons eu notre rendez-vous quotidien avec notre référent de la ville d’Annecy, Léonard G., qui nous indique qu’il va rédiger une délibération cadre.
 
+Nous passons les fichiers .csv sur le validateur : tout est bon pour celui des parkings à vélo, pour lequel la seule erreur est qu’il nous manque des informations, notamment la latitude et la longitude, puisque les géographes nous envoient des données dont la localisation correspond à l’utilisation de logiciels très précis.
+Deux de nos jeux de données ne sont pas sur le site du gouvernement, et nous les comparons donc à d’autres templates trouvés sur internet. 
 
-    -Chemins de randonnée pédestre
+Pour terminer la journée en repassant le template de défibrillateurs dans le validateur, qui était comprenait un nombre d’erreurs trop grand la première fois, et cette fois-ci la seule donnée que nous pouvons modifier pour nous rapprocher le plus possible du modèle est le format de la date (aaaa-mm-jj) 
 
-
-    -Monuments historiques
-
-
-    -Défibrillateurs
-
-
-    -Inclusion numérique du territoire
-
-
-    
-
-
-    JOUR 2 – IDENTIFICATION
-
-
-    Dans cette partie, vous aurez à raconter le déroulé de la dataexploration et à en faire le bilan.
-
-
-    Pièces à joindre : organigramme des données, évaluation des données et wanted data list
-
-Résumé : 
-
-
-<table>
-  <tr>
-   <td>Réussite ou casse-tête ? 
-   </td>
-   <td>Explication / Citation
-   </td>
-  </tr>
-  <tr>
-   <td>casse-tête
-   </td>
-   <td>Latence dans la réception des données qui nous a immobilisé toute la matinée. 
-   </td>
-  </tr>
-  <tr>
-   <td>casse-tête
-   </td>
-   <td>Difficultés lors de la conversion des formats de zip (shap) à excel : nous avons mis du temps à les ouvrir et avons dû passer par divers logiciels et plateformes (avec l’aide de notre référente, Magalie).
-   </td>
-  </tr>
-  <tr>
-   <td>casse-tête
-   </td>
-   <td>Lors de l’évaluation du travail nécessaire à la mise en qualité, nous nous sommes heurtés à la non-conformité des jeux de données qui nous ont été transmis : il y avait beaucoup de cellules contenant des valeurs incorrectes et hétérogènes, notamment pour la signalisation, dont les données géographiques sont approximatives.
-   </td>
-  </tr>
-  <tr>
-   <td>réussite
-   </td>
-   <td>Après réflexion collective avec l’interlocuteur, nous avons choisi de renoncer aux données sur les e-bornes, sur les permis de construire et sur les noms des nouveaux-nés, et de partir à la place sur d’autres jeux de données qui seront plus utiles à la collectivité : le numéro des voiries et les cartes scolaires (il s’agit d’un zonage pour les écoles). 
-   </td>
-  </tr>
-  <tr>
-   <td>réussite
-   </td>
-   <td>En fin de journée, nous avons complété les données “feux tricolores - signalisation” de la ville d’Annecy à l’aide du logiciel templates et de Umap (il manquait notamment les numéros des voies).
-   </td>
-  </tr>
-</table>
-
-
-
-    Cette journée a été synonyme d’attente et de patience : nous n’avons reçu les jeux de données (signalisation et parkings vélo) qu’en fin de journée et ce que partiellement, puisqu’il nous en manque encore la moitié (numéros de voiries et cartes scolaires). Notre interlocuteur Leonard Gay a fait de son mieux pour nous fournir les documents manquants, mais nous devions attendre la réponse de ses collaborateurs. Avec lui, nous avons fait un travail d’évaluation de faisabilité du travail, afin de prioriser le travail des prochains jours.
-
-
-    Une fois les deux jeux de données reçus, à savoir la signalisation (feux tricolores) et les parkings vélos, nous avons évalué le travail de mise en qualité. Pour cette dataexploration, nous nous sommes référés aux schémas de données pour savoir si les données dont nous disposions correspondaient aux critères. Avec l’aide de google sheets, nous avons comparé les jeux de données avec des exemples types. Il s’est avéré que nos jeux de données n’étaient pas aux normes : il y avait des cellules avec des valeurs incorrectes ou trop hétérogènes. Le travail de nettoyage puis de compilation va donc être important si l’on souhaite donner du sens aux jeux de données.
-
-
-    Pour finir, nous avons pris l'initiative de renvoyer les données aux collaborateurs en précisant avec un code couleur et des symboles les informations manquantes, afin de s’assurer que nous aurons une base minimale pour notre travail de mise en qualité. Et, puisque nous étions bloqués par l’attente de deux 
-
-
-    autres jeux de données, nous avons commencé à compléter les données de signalisation à l’aide des logiciels templates et Umap. Malheureusement, notre wanted data list n’est pas définitive puisque nous n’avons pas encore reçu les jeux de données “numéros de voiries” et “cartes scolaires”.
-
-
-    <span style="text-decoration:underline;">L’entretien en visioconférence :</span>
-
-
-    Nous avons retrouvé notre référent Léonard Gay (chargé de mission numérique à la ville d’Annecy) pour faire le point sur les jeux de données. La discussion a été efficace puisque nous avons redéfini les priorités en termes de secteurs à traiter.
-
-
-    En effet, après l’avoir remercié pour sa réactivité et lui avoir fait part des difficultés encontrées lorsque nous avons cherché à contacter ses collègues, nous avons réfléchit à la pertinence de chaque jeu de données pour Annecy. On a statué sur les jeux à traiter en priorité, sur ceux qu’il valait mieux abandonner, et sur les nouveaux jeux qu’il nous suggérait avec enthousiasme. Il préfère que l’on priorise la signalisation (feux tricolores), mais que l’on renonce en revanche aux e-bornes, aux permis de construire ainsi qu’aux noms des nouveau-nés, pour se pencher à la place sur les numéros de voiries, les cartes scolaires (zonages pour les écoles), et éventuellement le PLU (bien que cela paraisse lourd à traiter).
-
-
-    Alors que l’on revenait sur l’utilité des data pour la collectivité, il a insisté sur le besoin professionnel d’utiliser les jeux de donnée. Au-delà de l’aspect réglementaire, il y a une vision politique dans l’open data : c’est une démarche de transparence de l’action publique, qui doit avoir du sens pour les équipes municipales autant que pour les citoyens. Une fois les jeux de données publiés, ils peuvent être intégrés dans les délibérations municipales.
-
-
-    Enfin, il nous a annoncé qu’il aimerait que l’on fasse une roadmap de ce que la mairie pourrait ouvrir en termes d’open data sur les 5 prochaines années.  Il souhaiterait que l’on priorise ses jeux de données pour qu’il ait des indications pour l’avenir, notamment pour le programme politique de la municipalité. Nous avons accepté avec plaisir cette tâche que nous effectuerons dans le cadre de la partie communication.
-
-
-    L’organigramme des données : 
-
-
-    
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
-
-
-
-    [https://app.mindmup.com/map/_free/2021/11/79a687004c6411ec85ff71106625f405](https://app.mindmup.com/map/_free/2021/11/79a687004c6411ec85ff71106625f405)
-
-
-    Wanted data list :
-
-
-    Mobilité et aménagement du territoire ((Groupe 2 : elise.bonnelle@yahoo.fr))
-
-
-    -        Signalisation tricolore
-
-
-    -        Parking vélo
-
-
-    -        Numéro de voiries
-
-
-    -        Cartes scolaires (zonages pour les écoles)
-
-
-    JOUR 3 – MISE EN QUALITE
-
-
-    Dans cette partie, vous aurez à expliquer les traitements réalisés sur les différents jeux de données à ouvrir : vos procédés et vos objectifs.
-
-
-    Pièce à joindre : bilans des traitements exportés depuis Workbench
-
-Résumé : 
-
-
-<table>
-  <tr>
-   <td>Réussite ou casse-tête ? 
-   </td>
-   <td>Explication / Citation
-   </td>
-  </tr>
-  <tr>
-   <td>Casse-tête
-   </td>
-   <td>trop d’adresses manquantes pour les lieux de stationnement cyclable, nous n’avons pas pu rajouter ces données
-   </td>
-  </tr>
-  <tr>
-   <td>Casse-tête
-   </td>
-   <td>la carte scolaire pour laquelle nous n’avons que très peu de renseignements
-   </td>
-  </tr>
-  <tr>
-   <td>Réussite
-   </td>
-   <td>quasiment pas d’erreurs pour le dossier des stationnements cyclables
-   </td>
-  </tr>
-  <tr>
-   <td>Réussite
-   </td>
-   <td>avec une coordination d’équipe nous parvenons à nettoyer les fichiers de manière efficace
-   </td>
-  </tr>
-  <tr>
-   <td>Réussite
-   </td>
-   <td>création “from scratch” du jeu de données Carte Scolaire, pour lequel nous avions très peu d’informations
-   </td>
-  </tr>
-</table>
-
-
-
-    La réunion de ce matin concerne la mise en qualité des données, qui consiste en une uniformisation et une mise aux propres de tous les jeux de données. Le but de cette tâche est de faciliter le travail du réutilisateur afin qu’il n’ait pas à modifier les données. 
-
-
-     
-
-
-    Nous recevons deux nouveaux jeux de données : les numéros de voirie ainsi que la carte scolaire, que nous rentrons sur uMap.
-
-
-     
-
-
-    Nous revenons sur les feux tricolores et comptons le nombre de feux par carrefour, et nous rentrons également tous les noms des rues qui se croisent au niveau du carrefour et pas seulement la rue que nous avions indiquée hier.
-
-
-    Nous attendons également que Magalie s’occupe de la uMap des parkings à vélo : il y en a 600 et nous devons cliquer sur chacun d’entre eux pour pouvoir entrer leur adresse sur un excel. Dans un souci d’efficacité, il serait stratégique de pouvoir indiquer les points sur lesquels nous avons déjà cliqué. En attendant, nous mettons au propre des données pour les parkings à vélo en comparant ce que nous avons au template.
-
-
-     
-
-
-    Nous décidons aussi de travailler sur les défibrillateurs car le jeu de données est assez complet. Cela passe par une standardisation des dates et adresses, une correction des abréviations et coquilles, un nettoyage des doublons et fusion de certaines colonnes (notamment les deux colonnes « visite » et « date de visite ») et une suppression de certaines cases ne correspondant pas au format correct.
-
-
-     
-
-
-    Nous nous rendons sur le site schema.data.gouv pour vérifier la conformité des deux fichiers suivants : lieux de stationnement cyclable, et DAE (Défibrillateurs Automatisés Externes).
-
-
-     
-
-
-    Après la pause déjeuner, nous avons eu notre rendez-vous quotidien avec notre référent de la ville d’Annecy, Léonard Gay, qui nous indique qu’il va rédiger une délibération cadre.
-
-
-     
-
-
-    Nous passons les fichiers .csv sur le validateur : tout est bon pour celui des parkings à vélo, pour lequel la seule erreur est qu’il nous manque des informations, notamment la latitude et la longitude, puisque les géographes nous envoient des données dont la localisation correspond à l’utilisation de logiciels très précis.
-
-
-     
-
-
-    Deux de nos jeux de données ne sont pas sur le site du gouvernement, et nous les comparons donc à d’autres templates trouvés sur internet. 
-
-
-    Pour terminer la journée en repassant le template de défibrillateurs dans le validateur, qui était comprenait un nombre d’erreurs trop grand la première fois, et cette fois-ci la seule donnée que nous pouvons modifier pour nous rapprocher le plus possible du modèle est le format de la date (aaaa-mm-jj) 
-
-
-    Liens des Google Sheets : 
-
-
+**Liens des Google Sheets**
 
 * défibrilateurs [https://docs.google.com/spreadsheets/d/1QQ9fDt-vr5xX2zlEw06hv_Ylb1tPseVk/edit?usp=sharing&ouid=109748276820535996993&rtpof=true&sd=true](https://docs.google.com/spreadsheets/d/1QQ9fDt-vr5xX2zlEw06hv_Ylb1tPseVk/edit?usp=sharing&ouid=109748276820535996993&rtpof=true&sd=true)
 * parkings à vélo [https://docs.google.com/spreadsheets/d/1G0V-uLdfZiP6oWsPxQ6tAZhQnZ0y3eAZ/edit?usp=sharing&ouid=109748276820535996993&rtpof=true&sd=true](https://docs.google.com/spreadsheets/d/1G0V-uLdfZiP6oWsPxQ6tAZhQnZ0y3eAZ/edit?usp=sharing&ouid=109748276820535996993&rtpof=true&sd=true)
 * carte scolaire [https://docs.google.com/spreadsheets/d/1YtjZJK0hLG_SO6vxV4MmLCHPbgOSiLrBuEgtVQo_l2U/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1YtjZJK0hLG_SO6vxV4MmLCHPbgOSiLrBuEgtVQo_l2U/edit?usp=sharing)
 
-    8
 
 
-    JOUR 4 – PUBLICATION
+## JOUR 4 – PUBLICATION
 
 
-    Dans cette partie, vous aurez à présenter la stratégie open data de la collectivité et les premiers pas réalisés : quelle plateforme de publication est utilisée, comment est/sera géré le compte, quels en sont/seront les contributeurs et s’il y en a, quels sont les projets à venir.
+**Résumé** 
+
+Cette 4ème journée a consisté à remplir les fiches descriptives, publier nos données et penser le plan de communication qui permettra de publier le travail que nous avons fourni cette semaine. Tout le travail qui a été fait en amont, plus rébarbatif, prend enfin forme et est enfin publié. C’est la deuxième partie de l’_open data_ (la partie _open_) qui prend forme.
+
+Nous nous sommes heurtés assez rapidement dès la première étape à quelques complications quant au remplissage des fiches descriptives. Notre interlocuteur principal, Léonard G., n’est pas le même que le responsable de ces informations techniques, à savoir Philippe Musson, responsable du SIG, qui est moins disponible. Nous avons assez rapidement compris la raison de l’absence de réponse de monsieur Musson : la mairie d’Annecy a subi une cyberattaque qui immobilise leur service informatique, et donc, leur boite mail.
+
+Nous l’apprenons en début d’après-midi : cela compromet une bonne partie du travail qui était prévu pour le reste de la journée. Nous devons composer avec les seules informations dont nous disposons en laissant des vides là où le responsable SIG ne peut pas nous communiquer d’informations. Cela complique l’étape d’enregistrement des jeux de données sur data.gouv qui demande quand même un certain degré d’exhaustivité. M. Léonoard G.ous donne malgré tout son feu vert pour commencer l’enregistrement des jeux de donnée.
+
+Une partie de l’équipe se penche donc là-dessus pendant que l’autre se concentre sur le plan de communication. Le groupe 1 a interviewé l’élu au numérique de la ville d’Annecy hier, entretien que nous allons intégrer dans notre projet de publication. M. Léonard G.ente vers la rédaction et la constitution d’éléments de langage, qui auront vocation à être réutilisés à plusieurs occasions afin de promouvoir l’ouverture de la ville à l’_open data_. Il ne souhaite pas de plan de communication externe, car la transition vers ces enjeux digitaux ne fait qu’être amorcée à Annecy : il faut donc d’abord qu’un conseil municipal passe pour que la communication vers un public extérieur puisse être entamée. L’idée est d’avoir un ensemble d’éléments qui pourront constituer une base lorsque Annecy lancera concrètement un plan d’action vers l’_open data_.
+
+Cette journée se conclut de manière intéressante : même si les problèmes techniques ont créé une forte incertitude pour la fin de la semaine, notre référent ne pouvant même pas réellement s’engager pour la restitution de demain, elle a mis à contribution des savoirs différents des jours précédents. Là où personne dans l’équipe n’était ni sensibilisé ni formé à la collecte de données les jours précédents, nous avons pu aujourd’hui mobiliser de nouvelles aptitudes comme celle de la communication publique et la rédaction d’éléments de langage à destination d’élus. C’est quelque chose qui se rapproche un peu plus de notre formation et nous permet de donner un peu de contexte à tous les chiffres auxquels nous avons été confrontés en début de semaine.
 
 
-    Pièce à joindre : url des jeux de données publiés
+[https://www.data.gouv.fr/fr/datasets/defibrillateurs-commune-dannecy/](https://www.data.gouv.fr/fr/datasets/defibrillateurs-commune-dannecy/)
+[https://www.data.gouv.fr/fr/datasets/parking-a-velos-commune-dannecy/](https://www.data.gouv.fr/fr/datasets/parking-a-velos-commune-dannecy/)
+[https://www.data.gouv.fr/fr/datasets/carte-scolaire-2021-commune-dannecy/](https://www.data.gouv.fr/fr/datasets/carte-scolaire-2021-commune-dannecy/)
+[https://www.data.gouv.fr/fr/datasets/signalisation-tricolore-commune-dannecy/](https://www.data.gouv.fr/fr/datasets/signalisation-tricolore-commune-dannecy/)
 
 
-Résumé : 
+## JOUR 5 – VALORISATION
 
 
-<table>
-  <tr>
-   <td>Réussite ou casse-tête ? 
-   </td>
-   <td>Explication / Citation
-   </td>
-  </tr>
-  <tr>
-   <td>Casse-tête
-   </td>
-   <td>Au niveau du remplissage des fiches descriptives, il manquait un certain nombre d’informations que l’on devait obtenir auprès du responsable du SIG. Or il n’est pas notre interlocuteur principal et les informations nécessaires sont dans une certaine mesure à mi-chemin entre son domaine de compétence et celui  de Léonard Gay, notre référent principal de la ville d’Annecy depuis le début du challenge. 
-   </td>
-  </tr>
-  <tr>
-   <td>Casse-tête
-   </td>
-   <td>La collecte d’informations est rendue d’autant plus difficile que la ville d’Annecy a subi une cyber attaque, le personnel n’a donc plus accès à son service informatique depuis la matinée. Il va sans dire que cela impacte nos échanges, puisqu’ils ne peuvent plus accéder à leurs mails. Nous devons donc nous adapter à la situation en décidant de passer outre les informations manquantes, en revenant dessus ultérieurement.
-   </td>
-  </tr>
-  <tr>
-   <td>Casse-tête
-   </td>
-   <td>Appréhension du site internet data.gouv.fr. L’organisation “Annecy” était déjà existante et disposait déjà d’un jeu de données, il s’agissait donc de parvenir à la rejoindre en tant que contributeur.
-   </td>
-  </tr>
-  <tr>
-   <td>Réussite
-   </td>
-   <td>Le plan de communication pour la publication des jeux de données est stimulant car on peut compter sur la participation du second groupe, qui a réalisé un entretien vidéo avec l’élu au numérique de la ville il y a quelques jours. Nous l’intégrerons à notre propre dispositif de publication, ce qui diversifie les medium de diffusion de notre travail.
-   </td>
-  </tr>
-</table>
+**Résumé**
+Cette cinquième journée du Challenge Data portait sur la valorisation des données récoltées sous formes de graphiques visuellement intelligibles. Nos jeux de données portant majoritairement sur la répartition d’éléments de mobiliers urbains (signalisation tricolore, parking à vélo, défibrillateurs) et le découpage territorial des écoles de la ville, nous avons décidé de concentrer notre datavisualisation sur des cartes interactives. 
 
-
-
-    Cette 4ème journée a consisté à remplir les fiches descriptives, publier nos données et penser le plan de communication qui permettra de publier le travail que nous avons fourni cette semaine. Tout le travail qui a été fait en amont, plus rébarbatif, prend enfin forme et est enfin publié. C’est la deuxième partie de l’_open data_ (la partie _open_) qui prend forme.
-
-
-    Nous nous sommes heurtés assez rapidement dès la première étape à quelques complications quant au remplissage des fiches descriptives. Notre interlocuteur principal, Léonard Gay, n’est pas le même que le responsable de ces informations techniques, à savoir Philippe Musson, responsable du SIG, qui est moins disponible. Nous avons assez rapidement compris la raison 
-
-
-    de l’absence de réponse de monsieur Musson : la mairie d’Annecy a subi une cyberattaque qui immobilise leur service informatique, et donc, leur boite mail.
-
-
-    Nous l’apprenons en début d’après-midi : cela compromet une bonne partie du travail qui était prévu pour le reste de la journée. Nous devons composer avec les seules informations dont nous disposons en laissant des vides là où le responsable SIG ne peut pas nous communiquer d’informations. Cela complique l’étape d’enregistrement des jeux de données sur data.gouv qui demande quand même un certain degré d’exhaustivité. M. Gay nous donne malgré tout son feu vert pour commencer l’enregistrement des jeux de donnée.
-
-
-    Une partie de l’équipe se penche donc là-dessus pendant que l’autre se concentre sur le plan de communication. Le groupe 1 a interviewé l’élu au numérique de la ville d’Annecy hier, entretien que nous allons intégrer dans notre projet de publication. M. Gay nous oriente vers la rédaction et la constitution d’éléments de langage, qui auront vocation à être réutilisés à plusieurs occasions afin de promouvoir l’ouverture de la ville à l’_open data_. Il ne souhaite pas de plan de communication externe, car la transition vers ces enjeux digitaux ne fait qu’être amorcée à Annecy : il faut donc d’abord qu’un conseil municipal passe pour que la communication vers un public extérieur puisse être entamée. L’idée est d’avoir un ensemble d’éléments qui pourront constituer une base lorsque Annecy lancera concrètement un plan d’action vers l’_open data_.
-
-
-    Cette journée se conclut de manière intéressante : même si les problèmes techniques ont créé une forte incertitude pour la fin de la semaine, notre référent ne pouvant même pas réellement s’engager pour la restitution de demain, elle a mis à contribution des savoirs différents des jours précédents. Là où personne dans l’équipe n’était ni sensibilisé ni formé à la collecte de données les jours précédents, nous avons pu aujourd’hui mobiliser de nouvelles aptitudes comme celle de la communication publique et la rédaction d’éléments de langage à destination d’élus. C’est quelque chose qui se rapproche un peu plus de notre formation et nous permet de donner un peu de contexte à tous les chiffres auxquels nous avons été confrontés en début de semaine.
-
-
-    [https://www.data.gouv.fr/fr/datasets/defibrillateurs-commune-dannecy/](https://www.data.gouv.fr/fr/datasets/defibrillateurs-commune-dannecy/)
-
-
-    [https://www.data.gouv.fr/fr/datasets/parking-a-velos-commune-dannecy/](https://www.data.gouv.fr/fr/datasets/parking-a-velos-commune-dannecy/)
-
-
-    [https://www.data.gouv.fr/fr/datasets/carte-scolaire-2021-commune-dannecy/](https://www.data.gouv.fr/fr/datasets/carte-scolaire-2021-commune-dannecy/)
-
-
-    [https://www.data.gouv.fr/fr/datasets/signalisation-tricolore-commune-dannecy/](https://www.data.gouv.fr/fr/datasets/signalisation-tricolore-commune-dannecy/)
-
-**JOUR 5 – VALORISATION**
-
-
-    _Dans cette partie, vous aurez à présenter la réalisation des datavisualisations en pratique : quels ont été vos outils, vos choix de conceptions et les étapes suivies pour aboutir au résultat._
-
-
-    _Pièce à joindre : _
-
-
-
-* _Les datavisualisations réalisées_
-
-**Résumé : **
-
-
-<table>
-  <tr>
-   <td>Réussite ou casse-tête ? 
-   </td>
-   <td>Explication / Citation
-   </td>
-  </tr>
-  <tr>
-   <td>Réussite
-   </td>
-   <td>Réalisation de datavisualisation pour les feux tricolores, défibrillateurs et parking à vélo sur le site UMap :  Ajout d’informations relatives à la localisation, la date de mise à jour et les numéros de séries en passant la souris sur les points sur la carte. 
-   </td>
-  </tr>
-  <tr>
-   <td>Casse-tête
-   </td>
-   <td>Échec de l’importation du jeu de donnée “Carte scolaire” sur le site UMap
-   </td>
-  </tr>
-  <tr>
-   <td>Réussite
-   </td>
-   <td>Contextualisation des datavisualisations pour les différents jeux de données
-   </td>
-  </tr>
-  <tr>
-   <td>Réussite 
-   </td>
-   <td>Importation de la Carte scolaire sur le site de Data gouv.fr
-   </td>
-  </tr>
-  <tr>
-   <td>Réussite
-   </td>
-   <td>Préparation de la présentation de notre travail
-   </td>
-  </tr>
-</table>
-
-
-
-    Cette cinquième journée du Challenge Data portait sur la valorisation des données récoltées sous formes de graphiques visuellement intelligibles. Nos jeux de données portant majoritairement sur la répartition d’éléments de mobiliers urbains (signalisation tricolore, parking à vélo, défibrillateurs) et le découpage territorial des écoles de la ville, nous avons décidé de concentrer notre datavisualisation sur des cartes interactives. 
-
-
-    Nous avons utilisé le site UMap pour représenter nos jeux de données en ajoutant des informations récoltées au cours de la semaine sur les points de la carte. Par exemple, pour la carte scolaire, nous avons renseigné les coordonnées de chaque école qui s’affichent lorsque les usagers cliquent sur la zone géographique correspondante. 
-
-
+Nous avons utilisé le site UMap pour représenter nos jeux de données en ajoutant des informations récoltées au cours de la semaine sur les points de la carte. Par exemple, pour la carte scolaire, nous avons renseigné les coordonnées de chaque école qui s’affichent lorsque les usagers cliquent sur la zone géographique correspondante. 
 
 * Lien de la datavisualisation pour le jeu de donnée “Carte scolaire” : [https://umap.openstreetmap.fr/fr/map/carte-scolaire_685668#13/45.9877/6.1729](https://umap.openstreetmap.fr/fr/map/carte-scolaire_685668#13/45.9877/6.1729)
 * Jeu de donnée "Défibrillateurs" [http://umap.openstreetmap.fr/fr/map/defibrilateurs_685541#14/45.9104/6.1519](http://umap.openstreetmap.fr/fr/map/defibrilateurs_685541#14/45.9104/6.1519)
 * Jeu de donnée “Signalisations lumineuses” [https://umap.openstreetmap.fr/fr/map/signalisations-lumineuses_685529#15/45.9103/6.1452](https://umap.openstreetmap.fr/fr/map/signalisations-lumineuses_685529#15/45.9103/6.1452)
 * Jeu de donnée “Parkings à vélo” :
 
-    [https://umap.openstreetmap.fr/fr/map/parkings-a-velos_685521#19/45.90926/6.12443](https://umap.openstreetmap.fr/fr/map/parkings-a-velos_685521#19/45.90926/6.12443)
+[https://umap.openstreetmap.fr/fr/map/parkings-a-velos_685521#19/45.90926/6.12443](https://umap.openstreetmap.fr/fr/map/parkings-a-velos_685521#19/45.90926/6.12443)
 
 
-    Nous pensions utiliser le site Dataviz Project pour réaliser une carte de chaleur représentant la concentration des feux tricolores, parkings à vélo et défibrillateurs… Mais il nous est apparu que cette opération nécessitait des notions de codes pour entrer la carte d’Annecy sur le site de Data viz project et que cette représentation visuelle n’était pas forcément très parlante. 
+Nous pensions utiliser le site Dataviz Project pour réaliser une carte de chaleur représentant la concentration des feux tricolores, parkings à vélo et défibrillateurs… Mais il nous est apparu que cette opération nécessitait des notions de codes pour entrer la carte d’Annecy sur le site de Data viz project et que cette représentation visuelle n’était pas forcément très parlante. 
 
 
-    Dès lors, nous nous sommes concentrés sur la contextualisation de la datavisualisation en remplissant les fiches correspondants à nos jeux de données sur le Template Google Doc. 
+Dès lors, nous nous sommes concentrés sur la contextualisation de la datavisualisation en remplissant les fiches correspondants à nos jeux de données sur le Template Google Doc. 
 
 
-    Liens pour les fiches de contextualisation : 
+**Liens pour les fiches de contextualisation**
 
 * Signalisation tricolore : [https://docs.google.com/document/d/1Bi8nITZ0d47a8RkD_CJrsrCNA2Yipwsz/edit?rtpof=true](https://docs.google.com/document/d/1Bi8nITZ0d47a8RkD_CJrsrCNA2Yipwsz/edit?rtpof=true)
 * Parking à vélo : [https://docs.google.com/document/d/1FmSWYQ7MtBZixB8sR9cJztVjQSOqSorp/edit?rtpof=true](https://docs.google.com/document/d/1FmSWYQ7MtBZixB8sR9cJztVjQSOqSorp/edit?rtpof=true)
 * Carte scolaire : [https://docs.google.com/document/d/1To1AXbjl0lE1FjJq0Sd9gQtt3R-J11T6/edit#](https://docs.google.com/document/d/1To1AXbjl0lE1FjJq0Sd9gQtt3R-J11T6/edit#)
 * Défibrillateurs : [http://umap.openstreetmap.fr/fr/map/defibrillateurs_685541#13/45.8990/6.1413](http://umap.openstreetmap.fr/fr/map/defibrillateurs_685541#13/45.8990/6.1413)
 
-Ainsi, ce challenge s’achève par la restitution de notre travail auprès de notre interlocuteur, Monsieur Gay et par une présentation finale devant nos référents “Data activists”.
+Ainsi, ce challenge s’achève par la restitution de notre travail auprès de notre interlocuteur, Monsieur Léonard G.ne présentation finale devant nos référents “Data activists”.
 
 
-    **CONCLUSION**
-
-
-    _Dans cette partie, vous aurez à faire un double bilan : celui de la commune, celui de votre groupe. Combien de jeux de données ont été ouverts ? Quels ont été les freins et les leviers de cette ouverture de données ? Et à vous en tant qu’étudiants en sciences politiques, que vous a appris cette semaine ? Qu’est-ce qu’elle vous a apporté ?_
-
-
-    _La conclusion devra également présenter votre plus gros casse-tête et votre plus belle réussite dans l’ouverture des données afin de permettre à notre facilitatrice graphique [Anne-Cécile Calléjon](https://annececilecallejon.com/) de dresser le bilan de votre expérience en dessin !_
-
-CONCLUSION
+## CONCLUSION
 
 Ce challenge data s’est révélé très difficile pour notre groupe pour plusieurs raisons. Déjà des complexités avec la commune. Déjà, nous nous sommes rendus compte au deuxième jour d’une incompréhension sur nos compétences et notre rôle. Les fichiers transmis étaient systématiquement issus de logiciels pro de cartographie et nos interlocuteurs d’Annecy ne comprenaient pas forcément que nous n’étions pas compétents à les utiliser ce qui créait des incompréhensions mutuelles. La tâche de comprendre les données, de les convertir dans des formats avec lesquels nous pouvions travailler représentait une tâche lourde. Par ailleurs, les données géographiques étaient extrêmement incomplètes, et dans des formats que nous ne comprenions pas. Compléter les données à partir de rien, par exemple pour les feux tricolores ou la carte scolaire nous a également demandé un temps important. Elle a entre autres nécessité la création d’un programme python capable de retrouver les données géographiques des parkings à vélos ce qui s’est révélé une difficulté supplémentaire. Par ailleurs, nous nous sommes également rendu compte à partir du deuxième jour que tout n’était pas clair pour eux non plus. Leur objectif était d’obtenir un premier travail d’illustration servant à convaincre les élus de la ville à lancer une politique d’ouverture de données. Au-delà de cette consigne floue, ils ne savaient pas forcément quelles données ils voulaient ouvrir, n’était pas forcément convaincus par nos propositions, ni à quel objectif devraient répondre ces données où les informations qui leur étaient importantes. Enfin, la cyberattaque qui a paralysé la ville d’Annecy à partir de mercredi soir et qui a rendu l’accès aux informations et aux contacts impossibles ne nous a pas non plus aidé. 
 
