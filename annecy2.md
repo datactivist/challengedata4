@@ -71,7 +71,7 @@ Enfin, il nous a annoncé qu’il aimerait que l’on fasse une roadmap de ce qu
 **L’organigramme des données**
 
 
-![](https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/annecy2_organigramme.png
+![](https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/annecy2_organigramme.png)
    
    
 **Wanted data list**
