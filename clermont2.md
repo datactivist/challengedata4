@@ -140,10 +140,6 @@ Nous remercions toute l’équipe, et en particulier Magalie, pour son aide et s
 
 A bientôt pour de nouvelles dataventures !!
   
-Datavisualisations partie 1 :[ ](https://drive.google.com/drive/folders/1uNwGq5NAi4NLalmfFhq5mkqesrmk1qjN?usp=sharing)9
-
-[https://drive.google.com/drive/folders/1uNwGq5NAi4NLalmfFhq5mkqesrmk1qjN?usp=sharing](https://drive.google.com/drive/folders/1uNwGq5NAi4NLalmfFhq5mkqesrmk1qjN?usp=sharing)
-
 
 <p align="center">
  <img src="https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/clermont2_ACR.png" width="400">
@@ -160,7 +156,8 @@ Datavisualisations partie 1 :[ ](https://drive.google.com/drive/folders/1uNwGq5N
  <img src="https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/clermont2_natura_2000.png" width="400">
  <img src="https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/clermont2_ZNIEFF1.png" width="400">
  <img src="https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/clermont2_ZNIEFF2.png" width="400">
-           
+</p>
+                                                                                                                        
 
 ## CONCLUSION
 
