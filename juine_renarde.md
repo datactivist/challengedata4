@@ -129,7 +129,7 @@ Nous avons rencontré quelques difficultés concernant la base de données “ba
 
 Suite au départ d’une de nos membres, nous avons fonctionné en effectifs réduits pour la relecture et l’homogénéisation de nos datavisualisations. 
 
-**Publication : **
+**Publication :**
 
 **15h:** 
 Après son retour vers, Clarisse a été aidée par Clément et Arthur pour la réalisation de sa carte interactive. 
