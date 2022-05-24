@@ -8,11 +8,11 @@
 
 L’Assemblée du Pays Tarentaise Vanoise (APTV) est un Syndicat Mixte regroupant 5 communautés de communes de Tarentaise et le Département de la Savoie. Il couvre un territoire de 50 000 habitants. Le Syndicat se compose de 13/14 personnes (nombre fluctuant) mais 5/6 agents travaillent de manière détachée. Par conséquent, ce sont essentiellement 7/8 personnes qui travaillent dans le Syndicat. L’activité touristique du territoire est très importante (nombreuses grandes stations de ski : Courchevel, Val d’Isère, Méribel, Tignes…). L’APTV prend en charge différentes missions : le Schéma de Cohérence Territorial, le Service Application Droit des Sols, l’Agriculture, la Santé, la Transition énergétique et mobilité, Eau et rivières ainsi que le Tourisme estival. Dans ce cadre, nous avons échangé avec un agent de l’APTV concernant l’exploitation de leurs données touristiques. 
 
-**Diagnostic **
+**Diagnostic**
 
 A l’issue de l’entretien nous en concluons que la difficulté principalement rencontrée est l’absence quasiment totale de données par l’APTV : pas de partage de données par les collectivités, pas de personne en charge de la donnée dans le Syndicat. Le score détenu par la collectivité à l’issue du questionnaire posé indique une maturité de la collectivité de niveau de Pallier 2.  
 
-**Choix et objectifs **
+**Choix et objectifs**
 
 Les données à exploiter recherchées par l’APTV sont des données liées au secteur touristique. Le Syndicat Mixte souhaite en priorité obtenir des données concernant : 
 * La fréquentation touristique : données pouvant être obtenues par les offices de tourisme qui travaillent essentiellement avec G2A (concernant les hébergeurs : nombre nuitées/hébergement ; nombre nuitées/origine du touriste, âge, CSP) mais aussi par Orange (excursionnistes, saisonniers qui ne dorment pas sur place, les résidents) ; 
@@ -139,7 +139,7 @@ Le choix d’un histogramme pour représenter ces données nous permet donc de v
 Cette visualisation nous permet de voir qu’à Méribel la part d’étrangers présents en hiver est beaucoup plus importante qu’en été. Cette construction se lit en complet de la représentation précédente.
 
 
-## CONCLUSION**
+## CONCLUSION 
 
 Cette semaine de challenge n’a clairement pas été évidente pour notre groupe. Nous avions la mission d’ouvrir des jeux de données sur la fréquentation touristique dans les collectivités faisant partie de l’Assemblée du Pays Tarentaise-Vanoise (APTV). L’APTV cherche particulièrement à valoriser le tourisme estival sur le territoire. Cependant, nous avons seulement réussi à ouvrir un jeu de données, qui n’a pas pu être publié. 
 
