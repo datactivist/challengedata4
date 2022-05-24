@@ -17,9 +17,8 @@ La région Auvergne-Rhône-Alpes possède à ce jour le titre de deuxième régi
 Clermont Auvergne Métropole n'est pas débutante dans **le domaine de l'_Open Data_**. De septembre 2015 à juin 2016, les Rencontres citoyennes de la mobilité "Libre comme l'R" ont redéfini les stratégie de mobilité pour la métropole sur les prochaines années : l'un des principaux engagement de cette rencontre a été de mettre l'_Open Data_ aux services des mobilités et des startup afin de favoriser "la transparence, la démocratie, l’innovation et l'entreprenariat". Entre 2019 et 2020, les Conventions partenariales ont donné un sens pratique à cette _Open Data _en l'utilisant dans l'étude et la diffusion des données sur la qualité de l'air métropolitaine. Enfin, pour 2021-2023 Clermont Auvergne métropole a adhéré officiellement à **l'association _Open Data _FRANCE** pour porter comme missions principales des prochaines années, la protection des données et l'évaluation des politiques publiques. Ainsi, la métropole est entrée dans une "démarche d'ouverture des données publiques" dans le but de favoriser les négociations avec l'ensemble des partenaires nationaux et internationaux, faciliter les production des ateliers/groupes de travail, participer à l'expansion du mouvement d'_Open Data_...
 
 
-#JOUR 1 – DIAGNOSTIC
+# JOUR 1 – DIAGNOSTIC
 
-**Résumé**
 
 **Développement (Cf. Annexe 1 : [Wishlist](https://docs.google.com/spreadsheets/d/12e-eCKj1adPL97wd-8eEu1CZz-LvuInKq4pnB17HAbI/edit#gid=942129362) / Annexe 2 : [Bilan diagnostic](https://airtable.com/shr4hkTi6y6mwMqQ9/tblCK1HM7nfkjbFpi))**
 
