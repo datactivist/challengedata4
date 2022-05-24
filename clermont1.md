@@ -2,15 +2,12 @@
 
 par C. Chloe, MEYER	Wynona, P. Thomas, U. Lola, STEMMELIN	Valentine, T.-M. Adèle, TRELLU Salome
 
+![](https://github.com/datactivist/challengedata4/blob/main/images_cdb/Clermont2.jpg)
+
 
 ## JOUR 1 - INTRODUCTION
 
 **Résumé**
-
-
-
-**Développement**
-
 
 La région Auvergne-Rhône-Alpes possède à ce jour le titre de deuxième région la plus habitée et de deuxième région qui présente le plus grand PIB : un véritable tremplin en termes de développement. De là, nous pouvons nous concentrer sur notre point d’étude. **Clermont Auvergne Métropole** est un établissement public de coopération intercommunal (E.P.C.I.) qui s'est constitué le 1er janvier 2018. Auparavant connu en tant que Clermont Communauté, il regroupe 21 communes et compte environ 300 000 habitants : Clermont-Ferrand et, les communes présentes dans son aire majoritairement urbaine et décentralisée, Aubière, Aulnat, Blanzat, Beaumont, Cournon d'Auvergne, Chamalières, Cébazat, Châteaugay, Ceyrat, Durtol, Gerzat, Le Cendre, Lempdes, Nohanent, Orcines, Pont-du-Château, Pérignat-lès-Sarliève, Royat, Romagnat, Saint-Genès- Champanelle. Elle représente à elle-seule **la seule métropole** située au centre de la France, et la **19ème métropole française**. Elle s'est bâtie sur des enjeux communs aux communes qu’elle regroupe : développer les relations intercommunales et rayonner au sein du paysage régional français. Des atouts non-négligeables pour solidifier les relations locales et bâtir un réseau efficace et communiquant.
 
