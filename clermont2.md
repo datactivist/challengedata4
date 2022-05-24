@@ -86,169 +86,49 @@ A 14 heures, nous avons fait un point avec nos référents de Clermont Métropol
 
 
 
-![alt_text](images/image5.png "image_tooltip")
+**Résumé**
 
-
-_<span style="text-decoration:underline;">organigramme V2</span>_
-
-
-
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image6.png "image_tooltip")
-
-
-
-    _<span style="text-decoration:underline;">organigramme V3, validé par Catherine Carton</span>_
-
-
-        Bilans qualité :[ https://docs.google.com/document/d/1xK3TqGO9eteMpGG669bWzZlyZmM8pClo/edit?usp=sharing&ouid=107498571469616641627&rtpof=true&sd=true](https://docs.google.com/document/d/1xK3TqGO9eteMpGG669bWzZlyZmM8pClo/edit?usp=sharing&ouid=107498571469616641627&rtpof=true&sd=true)JOUR 4 – PUBLICATION
-
-
-    _Dans cette partie, vous aurez à présenter la stratégie open data de la collectivité et les premiers pas réalisés : quelle plateforme de publication est utilisée, comment est/sera géré le compte, quels en sont/seront les contributeurs et s’il y en a, quels sont les projets à venir._
-
-
-    _Pièce à joindre : url des jeux de données publiés_
-
-**Résumé : **
-
-
-<table>
-  <tr>
-   <td>Réussite ou casse-tête ? 
-   </td>
-   <td>Explication / Citation
-   </td>
-  </tr>
-  <tr>
-   <td>Réussite 
-   </td>
-   <td>Aujourd’hui Mariam a rejoint le groupe (elle était malade les premiers jours du challenge). Elle est en charge du carnet de bord pour le jour 4. 
-<p>
+Aujourd’hui Mariam a rejoint le groupe (elle était malade les premiers jours du challenge). Elle est en charge du carnet de bord pour le jour 4. 
 Les tâches pour la journée ont été réparti rapidement et efficacement ce matin en se retrouvant : 
-<ul>
 
-<li>Les arguments  (à destination de la collectivité et de la mairie) pour faire publier rapidement les données, sont rédigés par Maïssa, Mariam et Christille. 
+Les arguments  (à destination de la collectivité et de la mairie) pour faire publier rapidement les données, sont rédigés par Maïssa, Mariam et Christille. 
 
-<li>Maïssa et Negib vérifient les jeux. 
-
-<li>Paul-Henri, Anta, Mariam et Maïssa remplissent les fichiers descriptifs.
-
-<li>Benjamin et Anta finalisent le travail sur le logiciel QGIS.
-
-<li>Christille remplit le fichier référentiel reçu hier et gère la communication avec nos interlocutrices de la métropole (mails, questions, réponses…)
-</li>
-</ul>
-   </td>
-  </tr>
-  <tr>
-   <td>Réussite 
-   </td>
-   <td>Réunion à 11h à 12h avec Catherine CARTON :
-<p>
+Maïssa et Negib vérifient les jeux. 
+Paul-Henri, Anta, Mariam et Maïssa remplissent les fichiers descriptifs.
+Benjamin et Anta finalisent le travail sur le logiciel QGIS.
+Christille remplit le fichier référentiel reçu hier et gère la communication avec nos interlocutrices de la métropole (mails, questions, réponses…)
+Réunion à 11h à 12h avec Catherine C. :
 Christille a préparé les questions à poser : quelle politique de communication est souhaitée? Quel support? Quelles sont les motivations profondes? 
-<p>
+
 Certains problèmes techniques mineurs ont été réglés (problème pour ouvrir certains documents par ex) et nous nous sommes accordés sur la mise en page à adopter pour les jeux de données. 
-   </td>
-  </tr>
-  <tr>
-   <td>Réussite
-   </td>
-   <td>Nous avons pu commencer à anticiper sur les différents visuels que nous pourrions utiliser demain pour faire parler les données. 
-   </td>
-  </tr>
-  <tr>
-   <td>Casse tête
-   </td>
-   <td>Dans les fiches descriptives et le document de référence on n’a pas pu remplir toutes les colonnes car nous n’avons pas certaines informations. Nous avons demandé à Madame Carton de nous communiquer les informations manquantes mais elle n’a pas eu le temps de le faire dans la journée. 
-   </td>
-  </tr>
-  <tr>
-   <td>Réussite
-   </td>
-   <td>Nous avons réalisé le plan de communication pour le partage des données. 
-
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+Nous avons pu commencer à anticiper sur les différents visuels que nous pourrions utiliser demain pour faire parler les données. 
+Dans les fiches descriptives et le document de référence on n’a pas pu remplir toutes les colonnes car nous n’avons pas certaines informations. Nous avons demandé à Madame Carton de nous communiquer les informations manquantes mais elle n’a pas eu le temps de le faire dans la journée. 
+Nous avons réalisé le plan de communication pour le partage des données. 
 
 
-<img src="images/image7.png" width="" alt="alt_text" title="image_tooltip">
+**jeux de données publiés**
 
-   </td>
-  </tr>
-</table>
+[https://drive.google.com/drive/folders/1KWebVIjdb2q945ixIS9lc-ALPbUaj_bd?usp=sharing](https://drive.google.com/drive/folders/1KWebVIjdb2q945ixIS9lc-ALPbUaj_bd?usp=sharing)  
 
 
 
-    jeux de données publiés :
+## JOUR 5 – VALORISATION
 
 
-    [https://drive.google.com/drive/folders/1KWebVIjdb2q945ixIS9lc-ALPbUaj_bd?usp=sharing](https://drive.google.com/drive/folders/1KWebVIjdb2q945ixIS9lc-ALPbUaj_bd?usp=sharing)  
+**Résumé**
 
+La première étape de la journée a été de nous répartir les tâches sur notre grand tableau noir. Nous avons listé nos différents jeux de données, puis nous avons effectué un brainstorming, afin de faire émerger notre intelligence collective, pour que chacun puisse proposer des datavisualisations selon chaque jeux de données. Puis, nous nous sommes répartis le travail ainsi :
 
-
-**JOUR 5 – VALORISATION**
-
-
-    _Dans cette partie, vous aurez à présenter la réalisation des datavisualisations en pratique : quels ont été vos outils, vos choix de conceptions et les étapes suivies pour aboutir au résultat._
-
-
-    _Pièce à joindre : _
-
-
-
-* _Les datavisualisations réalisées_
-
-**Résumé : **
-
-
-<table>
-  <tr>
-   <td>Réussite ou casse-tête ? 
-   </td>
-   <td>Explication / Citation
-   </td>
-  </tr>
-  <tr>
-   <td>réussite
-   </td>
-   <td>La première étape de la journée a été de nous répartir les tâches sur notre grand tableau noir. Nous avons listé nos différents jeux de données, puis nous avons effectué un brainstorming, afin de faire émerger notre intelligence collective, pour que chacun puisse proposer des datavisualisations selon chaque jeux de données. Puis, nous nous sommes répartis le travail ainsi :
-<p>
-Patrimoine naturel : Benjamin
-<p>
-Patrimoine historique : Anta, Negib, Maïssa, Christille
-<p>
-Patrimoine ACR : Paul-Henri
-<p>
-Musées : Maïssa, Mariam
-<p>
+ - Patrimoine naturel : Benjamin
+ - Patrimoine historique : Anta, Negib, Maïssa, Christille
+ - Patrimoine ACR : Paul-Henri
+ - Musées : Maïssa, Mariam
+ 
 Ensuite, nous avons ensemble effectué les autres tâches.
-<p>
 Voici notre tableau des tâches du jour : (il n’a pas été respecté à la lettre, la dataflexibilité étant notre mot d’ordre.)
-<p>
 
-
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image8.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image8.png" width="" alt="alt_text" title="image_tooltip">
-
-   </td>
-  </tr>
-  <tr>
-   <td>réussite
-   </td>
-   <td>Nous avions commencé notre travail de datavisulation la veille, et avons ainsi réussi à finir tous les datavisuels que nous avions prévus. Nous n’aurions jamais pu tout terminer en une seule journée de travail.
-   </td>
-  </tr>
-  <tr>
-   <td>réussite
-   </td>
-   <td>La photo de groupe qui réunit notre groupe du Patrimoine ainsi que celui du Tourisme, a été réalisée avec succès, selon ses exigences (mode déjanté, qui montre notre surcharge de travail)
-<p>
-
-
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image9.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+Nous avions commencé notre travail de datavisulation la veille, et avons ainsi réussi à finir tous les datavisuels que nous avions prévus. Nous n’aurions jamais pu tout terminer en une seule journée de travail.
+La photo de groupe qui réunit notre groupe du Patrimoine ainsi que celui du Tourisme, a été réalisée avec succès, selon ses exigences (mode déjanté, qui montre notre surcharge de travail)
 
 
 <img src="images/image9.png" width="" alt="alt_text" title="image_tooltip">
