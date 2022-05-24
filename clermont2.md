@@ -149,12 +149,17 @@ Datavisualisations partie 2 :
 
 ## CONCLUSION
 
-_“Je te vais sur cela prouver deux vérités :
-_L’une, que le travail, aux hommes nécessaire,_
-_Fait leur félicité plutôt que leur misère ;_
-_Et l’autre, qu’il n’est point de coupable en repos._
-_C’est ce qu’il faut ici montrer en peu de mots.”_
-_Nicolas Boileau, Epitre XI_
+ _“Je te vais sur cela prouver deux vérités :_
+ 
+ _L’une, que le travail, aux hommes nécessaire,_
+ 
+ _Fait leur félicité plutôt que leur misère ;_
+ 
+ _Et l’autre, qu’il n’est point de coupable en repos._
+ 
+ _C’est ce qu’il faut ici montrer en peu de mots.”_
+ 
+ _Nicolas Boileau, Epitre XI_
 
 
 A travers ces quelques mots, c’est l’essence de ces cinq jours qui se trouve résumée : discipline, effort, apprentissage mais également joie et bonheur, de tisser des liens d’amitié et de ressentir la satisfaction du travail accompli. En effet, nous confronter à un univers jusqu’alors inconnu et tenter de maîtriser les outils à notre disposition, le tout dans un laps de temps relativement court, fut un challenge, un défi, des plus palpitants. Dix jeux de données ont été ouverts, allant du patrimoine culturel au patrimoine naturel, traversant des enjeux de préservation des espaces protégés aux musées qui parcourent le territoire. Attachés aux territoires, et plus encore à la richesse qu’ils renferment, c’est avec plaisir que nous avons produit des cartes ainsi que de nombreux graphiques (diagrammes, pyramides, …), le tout appuyé sur des bases de données créées en amont, afin de vous aider dans vos missions et de nous mettre au service de l’intérêt général. La contribution au bien commun et le sentiment de travailler concrètement pour une cause ont contribué à nous immerger dans le travail. Nous tenions par ailleurs à vous remercier pour cette expérience et pour le temps que vous nous avez accordé ; plus qu’une commande, c’est une collaboration, grâce à votre expertise dans les rouages de l’administration et notre soif d’apprendre couplée à notre envie de bien faire. Les réunions chaque jour nous ont permis d'avancer main dans la main, à vos côtés, afin de répondre aux mieux à vos attentes. Aussi, nous l’espérons, notre production trouvera-t-elle sa place dans vos missions quotidiennes : bases de données, aides visuelles et répertoires vous permettront, en un clin d'œil, d’avoir accès au patrimoine de la métropole. 
