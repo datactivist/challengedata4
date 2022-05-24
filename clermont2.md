@@ -150,9 +150,7 @@ Datavisualisations partie 1 :[ ](https://drive.google.com/drive/folders/1uNwGq5N
 ![](https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/clermont2__Patrimoine%20g%C3%A9ologique.png)
 ![](https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/clermont2__Patrimoine%20monuments%20par%20si%C3%A8cle.png)
 
-Datavisualisations partie 2 :
-
-[https://drive.google.com/drive/folders/1fUgoOrOjCy03E7GI6l7QHUzKCIkG41bl?usp=sharing](https://drive.google.com/drive/folders/1fUgoOrOjCy03E7GI6l7QHUzKCIkG41bl?usp=sharing)
+<img src="https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/clermont2_ACR.png" width="200">
 
 
 ## CONCLUSION
