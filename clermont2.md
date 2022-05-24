@@ -154,6 +154,21 @@ Datavisualisations partie 1 :[ ](https://drive.google.com/drive/folders/1uNwGq5N
  <img src="https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/clermont2_ACR.png" width="400">
 </p>
 
+<p align="center">
+ <img src="https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/clermont2_Heure_ouverture_musees_par_an.png" width="400">
+</p>
+
+<p align="center">
+ <img src="https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/clermont2_Heures%20d_ouverture%20musees.png" width="400">
+</p>
+
+<p align="center">
+ <img src="https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/clermont2__Patrimoine%20g%C3%A9ologique.png" width="400">
+  <img src="https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/clermont2__Patrimoine%20monuments%20par%20si%C3%A8cle.png" width="400">
+</p>
+
+
+
 ## CONCLUSION
 
  _“Je te vais sur cela prouver deux vérités :_
