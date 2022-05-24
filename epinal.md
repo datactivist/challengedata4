@@ -26,7 +26,7 @@ La commune d’Épinal souhaite développer le domaine de l’open data dans les
 * Un responsable data pourrait être mis en place dans les années à venir.
 
 
-## JOUR 2 – IDENTIFICATION**
+## JOUR 2 – IDENTIFICATION
 
 
 Nous avons commencé par demander au service informatique de la mairie d’Epinal de nous transmettre les informations concernant les données qu’ils avaient en leur possession. Afin de limiter les intermédiaires et dans un souci de centralisation des informations, on nous a indiqué qu’on ne communiquerait qu’avec le service informatique de la mairie d’Épinal, lequel se chargerait de récupérer les données auprès des différents autres services.
