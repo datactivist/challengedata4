@@ -59,81 +59,31 @@ Certains éléments nous ont manqué, et nous avons donc attendu l’aide de not
 
 
 Wishlist et wanted data list :
-
 [ Wishlist_Auvergne2 - Google Sheets](https://docs.google.com/spreadsheets/d/16OP6gzRLxiS7RjmK1OKSPpkH5XPLFUQ91H6jhGMAbnw/edit#gid=942129362)
 
-Fichiers descriptif :[ ](https://drive.google.com/drive/folders/11GmhycQrIHl0BCRR4fdT-M1ZymSw4Jb3?usp=sharing)
+Fichiers descriptif :
+[ ](https://drive.google.com/drive/folders/11GmhycQrIHl0BCRR4fdT-M1ZymSw4Jb3?usp=sharing)
 [https://drive.google.com/drive/folders/11GmhycQrIHl0BCRR4fdT-M1ZymSw4Jb3?usp=sharing](https://drive.google.com/drive/folders/11GmhycQrIHl0BCRR4fdT-M1ZymSw4Jb3?usp=sharing)
 
 
 
 
-    **JOUR 3 – MISE EN QUALITÉ**
+## JOUR 3 – MISE EN QUALITÉ
 
 
-    _Dans cette partie, vous aurez à expliquer les traitements réalisés sur les différents jeux de données à ouvrir : vos procédés et vos objectifs._
+**Résumé**
 
+A la suite d’un échange de mails avec Catherine Carton, nous avons décidé d’ouvrir les données des jardins remarquables. Nous avons également convenu avec Magalie et Catherine Carton, qu’il était préférable de faire correspondre un jeu de donné à un producteur et donc d’ouvrir six jeux de données séparés pour le patrimoine naturel en fonction du type d’espace (Espace protégé et géré,  Znief 1, Znief 2, Europa 2000, ENS, patrimoine géologique). 
 
-    _Pièce à joindre : bilans des traitements exportés depuis Workbench_
+Negib et Christille se sont chargés de séparer les données en fonction de chaque type d’espace, pour faire 1 jeu de données par type de patrimoine naturel (type natura 2000, ENS…)
+Christille a modifié l'organigramme après avoir échangé avec Catherine Carton pour y ajouter le nom d’un directeur. 
+Paul-Henri à ouvert le jeu de donnée des jardins remarquables
+Maissa, s’est chargé se mettre en forme les horaires des musées de manières à pouvoir les valoriser par la suite
+Benjamin et Anta ont été formés par Magalie à l’utilisation du logiciel, Qjis. Durant l'après-midi, ils ont pris en main la création de cartes correspondant aux 6 jeux de données du patrimoine. Certains jeux de données étaient disponibles et d'autres plus difficiles à retrouver. Nos deux petits filous ont passé leur après midi à les chercher et à les enfermer dans des cartes. 
+Nous nous sommes tous activés à nettoyer les jeux de données. Ce travail consistait pour chacun des jeux à mettre les dates au bon format, enlever les lignes ou colonnes vides, repérer les occurrences divergentes, retrouver certaines données manquantes. 
+A 14 heures, nous avons fait un point avec nos référents de Clermont Métropole. Nous avons pu les tenir au courant de l’évolution de notre travail, leur expliquer que nos jeux de données étaient en cours de nettoyage et les informer de la réception à venir des bilans correspondant aux 11 jeux de données à ouvrir. 
+ 
 
-**Résumé : **
-
-
-<table>
-  <tr>
-   <td>Réussite ou casse-tête ? 
-   </td>
-   <td>Explication / Citation
-   </td>
-  </tr>
-  <tr>
-   <td>Réussite 
-   </td>
-   <td>A la suite d’un échange de mails avec Catherine Carton, nous avons décidé d’ouvrir les données des jardins remarquables. Nous avons également convenu avec Magalie et Catherine Carton, qu’il était préférable de faire correspondre un jeu de donné à un producteur et donc d’ouvrir six jeux de données séparés pour le patrimoine naturel en fonction du type d’espace (Espace protégé et géré,  Znief 1, Znief 2, Europa 2000, ENS, patrimoine géologique). 
-   </td>
-  </tr>
-  <tr>
-   <td>Casse-tête 
-   </td>
-   <td>- Negib et Christille se sont chargés de séparer les données en fonction de chaque type d’espace, pour faire 1 jeu de données par type de patrimoine naturel (type natura 2000, ENS…)
-<p>
-- Christille a modifié l'organigramme après avoir échangé avec Catherine Carton pour y ajouter le nom d’un directeur. 
-<p>
-- Paul-Henri à ouvert le jeu de donnée des jardins remarquables
-<p>
-- Maissa, s’est chargé se mettre en forme les horaires des musées de manières à pouvoir les valoriser par la suite
-   </td>
-  </tr>
-  <tr>
-   <td>Réussite 
-   </td>
-   <td>Benjamin et Anta ont été formés par Magalie à l’utilisation du logiciel, Qjis. Durant l'après-midi, ils ont pris en main la création de cartes correspondant aux 6 jeux de données du patrimoine. Certains jeux de données étaient disponibles et d'autres plus difficiles à retrouver. Nos deux petits filous ont passé leur après midi à les chercher et à les enfermer dans des cartes. 
-   </td>
-  </tr>
-  <tr>
-   <td>Réussite 
-   </td>
-   <td>Nous nous sommes tous activés à nettoyer les jeux de données. Ce travail consistait pour chacun des jeux à mettre les dates au bon format, enlever les lignes ou colonnes vides, repérer les occurrences divergentes, retrouver certaines données manquantes. 
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>A 14 heures, nous avons fait un point avec nos référents de Clermont Métropole. Nous avons pu les tenir au courant de l’évolution de notre travail, leur expliquer que nos jeux de données étaient en cours de nettoyage et les informer de la réception à venir des bilans correspondant aux 11 jeux de données à ouvrir. 
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
-
-
-
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image5.png "image_tooltip")
