@@ -1,332 +1,66 @@
-<!-- Output copied to clipboard! -->
+# Carnet de bord de l'ouverture des données de Clermont Auvergne Metropole (groupe 2)
 
-<!-----
-
-You have some errors, warnings, or alerts. If you are using reckless mode, turn it off to see inline alerts.
-* ERRORs: 0
-* WARNINGs: 0
-* ALERTS: 10
-
-Conversion time: 6.427 seconds.
+par B.	B., BUCH	Mariam, FALL Anta, MEHAZEM	Mohamed-Nejib, THIERION DE MONCLIN Christille, WALLET Paul-Henri, Z. Aïssa
 
 
-Using this Markdown file:
+## Introduction 
 
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
+Comme disait Bernard de Chartres “Nous sommes des nains juchés sur des épaules de géants.”. Cette semaine, nous autres, nains étudiants à Sciences Po Saint-Germain-En-Laye, avont permis à la collectivité de Clermont-Auvergne-Métropole de développer sa politique d’open data au côté de Magalie de Datactivist, géant professionnel de l’ouverture des données. Ce Challenge Data, qui s’est déroulé du 22 au 29 novembre 2021, a ainsi  été très riche en enseignements. L’aide de Magalie nous a été précieuse, notamment pour nous former à l’utilisation du logiciel QGIS, ainsi que pour l’apprentissage de fonctionnalités techniques d’Excel et google Sheet. Mai nous aussi vécu une semaine Datacool, rythmée par la bonne humeur et les jeux de mots : nous autre, datateam, sommes une équipe soudée mais diversifiée. Travailler ensemble a été fort plaisant et nous avons apprécié de retrouver des personnalités et des profils différents, ce qui n’est pas forcément possible dans nos cours à Sciences Po, séparés par spécialités.
 
-Conversion notes:
-
-* Docs to Markdown version 1.0β33
-* Wed May 11 2022 08:33:00 GMT-0700 (PDT)
-* Source doc: 12_ClermontAuvergneMétropole_Carnetdebord
-* Tables are currently converted to HTML tables.
-* This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server. NOTE: Images in exported zip file from Google Docs may not appear in  the same order as they do in your doc. Please check the images!
-
------>
-
-
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 10.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-<a href="#gdcalert2">alert2</a>
-<a href="#gdcalert3">alert3</a>
-<a href="#gdcalert4">alert4</a>
-<a href="#gdcalert5">alert5</a>
-<a href="#gdcalert6">alert6</a>
-<a href="#gdcalert7">alert7</a>
-<a href="#gdcalert8">alert8</a>
-<a href="#gdcalert9">alert9</a>
-<a href="#gdcalert10">alert10</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
+Nous sommes fiers et heureux de vous présenter le travail accompli lors de cette semaine riche en enseignements et en émotions, et nous espérons que vous percevrez l’enthousiasme et la motivation de l’équipe Datacool à travers le carnet de bord qui suit. 
 
 
 
-    _Ce carnet de bord est destiné à écrire le récit de vos aventures ! Il doit être complété tout au long des étapes de ce patchwork._
+## JOUR 1 – DIAGNOSTIC
 
+**Résumé**
 
-<table>
-  <tr>
-   <td><strong>PARTIE</strong>
-   </td>
-   <td><strong>Rédacteur/rédactrice</strong>
-   </td>
-   <td><strong>Note</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Introduction
-   </td>
-   <td>Mohamed-Nejib MEHAZEM
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>1. Diagnostic
-   </td>
-   <td>Christille THIERION DE MONCLIN
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>2. Identification
-   </td>
-   <td>Anta FALL
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>3. Mise en qualité
-   </td>
-   <td>Paul-Henri WALLET
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>4. Publication
-   </td>
-   <td>Mariam BUCH
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>5. Valorisation
-   </td>
-   <td>Maissa ZIDANE
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Conclusion
-   </td>
-   <td>Benjamin BLANC
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
+Pour débuter cette première journée de Challenge Data, nous avons commencé par choisir de travailler sur le patrimoine de la collectivité Clermont Auvergne Métropole, et pris connaissance des jeux de données mis à notre disposition par la collectivité. Clermont Auvergne Métropole est une collectivité qui comprend 21 communes et compte environ 300 000 habitants pour 1600 agents. Lors d’un premier entretien, nous avons fait la connaissance de Julia Prazak, notre interlocutrice data de la collectivité, également data manager, ainsi que de son collègue Morgan, chef de projet data. Comme le travail de notre groupe se concentre sur le patrimoine, nous avons également rencontré notre correspondante métier Catherine Carton, chargée de mission candidature Label Pays d'Art et d'Histoire Direction de la culture/Musées pour la collectivité. Après avoir établi et confirmé la liste de rendez-vous que nous aurons toute la semaine, nous avons tenté d’évaluer le degré de maturité de Clermont Auvergne Métropole en matière d’open data. 
 
+Suite à notre entretien vidéo et d’après le formulaire auquel nous avons soumis la collectivité, celle-ci se trouve au palier 2 de l’ouverture des données, avec un score de 39. Ainsi, Clermont Auvergne Métropole est une collectivité assez mature en termes d’open data, puisqu’elle possède un budget, des services et des personnes alloués à l’ouverture de données. Cependant, la collectivité n’a pas encore développé l’open data autant qu’elle le souhaite et doit le faire par obligation légale. Deux besoins motivent cette volonté d’ouvrir ses données : l’obligation légale de publier ses données ainsi que, pour la partie patrimoine qui concerne notre travail, l’alimentation du dossier de candidature de Clermont Auvergne Métropole au label pays d’Art et d’Histoire. C’est pourquoi nous avons décidé, d’un commun accord avec Catherine Carton et Julia Prazak, de nous focaliser sur les jeux de données du patrimoine les plus cohérentes pour cette candidature. Nous nous sommes répartis la rédaction du carnet de bord et avons tous réfléchi au travail que représente chaque jeu de données. 
 
-
-        **Consignes pour la rédaction des CDB**
-
-
-    Vous avez toutes et tous choisi une manière (ou pas) d’**anonymiser** vos noms et prénoms dans les carnets de bord, n’oubliez pas de respecter les choix d’anonymisation des membres de votre équipe au moment de la rédaction ;
-
-
-    N’oubliez pas aussi d’anonymiser les noms et prénoms des interlocuteurs et des agents ;
-
-
-    N’oubliez pas d’**inclure les pièces-jointes et documents** demandés chaque jour :
-
-
-
-* Wishlist 
-* Organigramme 
-* Communication éventuelle 
-* Dataviz
-
-    Introduction 
-
-
-        Comme disait Bernard de Chartres “Nous sommes des nains juchés sur des épaules de géants.”. Cette semaine, nous autres, nains étudiants à Sciences Po Saint-Germain-En-Laye, avont permis à la collectivité de Clermont-Auvergne-Métropole de développer sa politique d’open data au côté de Magalie de Datactivist, géant professionnel de l’ouverture des données. Ce Challenge Data, qui s’est déroulé du 22 au 29 novembre 2021, a ainsi  été très riche en enseignements. L’aide de Magalie nous a été précieuse, notamment pour nous former à l’utilisation du logiciel QGIS, ainsi que pour l’apprentissage de fonctionnalités techniques d’Excel et google Sheet. Mai nous aussi vécu une semaine Datacool, rythmée par la bonne humeur et les jeux de mots : nous autre, datateam, sommes une équipe soudée mais diversifiée. Travailler ensemble a été fort plaisant et nous avons apprécié de retrouver des personnalités et des profils différents, ce qui n’est pas forcément possible dans nos cours à Sciences Po, séparés par spécialités.
-
-
-        Nous sommes fiers et heureux de vous présenter le travail accompli lors de cette semaine riche en enseignements et en émotions, et nous espérons que vous percevrez l’enthousiasme et la motivation de l’équipe Datacool à travers le carnet de bord qui suit. 
-
-
-     
-
-
+Comme notre groupe se focalise sur le patrimoine, nous avons déterminé une première liste de jeux de données prioritaires sur lesquels nous pourrions essayer de travailler cette semaine. La wishlist que nous avons établie avec nos correspondants de la collectivité propose de travailler d’abord sur les Monuments historiques, sur le patrimoine naturel, les musées de France, et  l’architecture contemporaine remarquable, ainsi que la Cité michelin (à confirmer) et le patrimoine viticole (à confirmer). Concernant les deux derniers jeux de données, nous attendons que la métropole donne son feu vert et les jeux de données complets. A défaut, nous pourrons éventuellement construire les jeux de données et vérifier si sources données sont suffisantes. Si elles ne sont pas suffisantes, nous chercherons d’autres sources. Cependant, nous avons établi avec la collectivité que ces deux derniers jeux de données ne sont pas prioritaires. Ainsi, nous nous concentrerons d’abord sur les 4 premiers et travaillerons sur le patrimoine viticole et la Cité Michelin s’il nous reste du temps pour extraire et travailler ces données. 
+ 
     
 
-
-    **JOUR 1 – DIAGNOSTIC**
-
-
-    _Dans cette partie, vous aurez à présenter la collectivité que vous accompagnez, faire le bilan du diagnostic et résumer les choix et les objectifs de la commune ainsi que ses motivations à ouvrir ses données._
+## JOUR 2 – IDENTIFICATION
 
 
-    _Pièce à joindre : wishlist_
+**Résumé**
 
 
-**Résumé : **
+Nous avons démarré la journée avec une réunion à 10h réunissant l’équipe chargée de traiter les données du Tourisme dans la Métropole de Clermont Ferrand. 
 
+De plus,  nous avons dû négocier avec Madame Julia P. pour la charge de travail à réaliser par rapport au nombre de jeux de données à établir, ainsi que la détermination de l’axe de travail sur les différents jeux de données à fournir à la fin de la semaine du Challenge Data. 
 
-<table>
-  <tr>
-   <td>Réussite ou casse-tête ?
-   </td>
-   <td>Explication / Citation
-   </td>
-  </tr>
-  <tr>
-   <td>Réussite
-   </td>
-   <td>Pour débuter cette première journée de Challenge Data, nous avons commencé par choisir de travailler sur le patrimoine de la collectivité Clermont Auvergne Métropole, et pris connaissance des jeux de données mis à notre disposition par la collectivité. Clermont Auvergne Métropole est une collectivité qui comprend 21 communes et compte environ 300 000 habitants pour 1600 agents. Lors d’un premier entretien, nous avons fait la connaissance de Julia Prazak, notre interlocutrice data de la collectivité, également data manager, ainsi que de son collègue Morgan, chef de projet data. Comme le travail de notre groupe se concentre sur le patrimoine, nous avons également rencontré notre correspondante métier Catherine Carton, chargée de mission candidature Label Pays d'Art et d'Histoire Direction de la culture/Musées pour la collectivité. Après avoir établi et confirmé la liste de rendez-vous que nous aurons toute la semaine, nous avons tenté d’évaluer le degré de maturité de Clermont Auvergne Métropole en matière d’open data. 
-   </td>
-  </tr>
-  <tr>
-   <td>Réussite
-   </td>
-   <td>Suite à notre entretien vidéo et d’après le formulaire auquel nous avons soumis la collectivité, celle-ci se trouve au palier 2 de l’ouverture des données, avec un score de 39. Ainsi, Clermont Auvergne Métropole est une collectivité assez mature en termes d’open data, puisqu’elle possède un budget, des services et des personnes alloués à l’ouverture de données. Cependant, la collectivité n’a pas encore développé l’open data autant qu’elle le souhaite et doit le faire par obligation légale. Deux besoins motivent cette volonté d’ouvrir ses données : l’obligation légale de publier ses données ainsi que, pour la partie patrimoine qui concerne notre travail, l’alimentation du dossier de candidature de Clermont Auvergne Métropole au label pays d’Art et d’Histoire. C’est pourquoi nous avons décidé, d’un commun accord avec Catherine Carton et Julia Prazak, de nous focaliser sur les jeux de données du patrimoine les plus cohérentes pour cette candidature. Nous nous sommes répartis la rédaction du carnet de bord et avons tous réfléchi au travail que représente chaque jeu de données. 
-   </td>
-  </tr>
-  <tr>
-   <td> Réussite
-   </td>
-   <td>Comme notre groupe se focalise sur le patrimoine, nous avons déterminé une première liste de jeux de données prioritaires sur lesquels nous pourrions essayer de travailler cette semaine. La wishlist que nous avons établie avec nos correspondants de la collectivité propose de travailler d’abord sur les Monuments historiques, sur le patrimoine naturel, les musées de France, et  l’architecture contemporaine remarquable, ainsi que la Cité michelin (à confirmer) et le patrimoine viticole (à confirmer). Concernant les deux derniers jeux de données, nous attendons que la métropole donne son feu vert et les jeux de données complets. A défaut, nous pourrons éventuellement construire les jeux de données et vérifier si sources données sont suffisantes. Si elles ne sont pas suffisantes, nous chercherons d’autres sources. Cependant, nous avons établi avec la collectivité que ces deux derniers jeux de données ne sont pas prioritaires. Ainsi, nous nous concentrerons d’abord sur les 4 premiers et travaillerons sur le patrimoine viticole et la Cité Michelin s’il nous reste du temps pour extraire et travailler ces données. 
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
+A l’issue de la réunion, nous avons finalement reçu plus de précisions par rapport au travail de statistiques à réaliser. Pour ce faire, nous lui avons posé diverses questions sur la démarche à suivre et nous avons établi la liste des jeux de données souhaités par la collectivité territoriale. Une autre réunion a été planifiée à 16h dans la journée afin de suivre l’avancement de notre travail et pour nous permettre de nous apporter les éclaircissements nécessaires. 
 
-
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
-
-
-
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.png "image_tooltip")
-
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.png "image_tooltip")
-
-
-
-    
-
-
-    **JOUR 2 – IDENTIFICATION**
-
-
-    _Dans cette partie, vous aurez à raconter le déroulé de la data exploration et à en faire le bilan._
-
-
-    _Pièces à joindre : organigramme des données, évaluation des données et wanted data list_
-
-**Résumé : **
-
-
-<table>
-  <tr>
-   <td>Réussite ou casse-tête ? 
-   </td>
-   <td>Explication / Citation
-   </td>
-  </tr>
-  <tr>
-   <td>Casse-tête 
-   </td>
-   <td>Nous avons démarré la journée avec une réunion à 10h réunissant l’équipe chargée de traiter les données du Tourisme dans la Métropole de Clermont Ferrand. 
-<p>
-Julia PRAZAK a eu un souci d’utilisation avec le logiciel de bureautique Excel, mais nous lui avons finalement indiqué la démarche à suivre. 
-<p>
-De plus,  nous avons dû négocier avec Madame PRAZAK pour la charge de travail à réaliser par rapport au nombre de jeux de données à établir, ainsi que la détermination de l’axe de travail sur les différents jeux de données à fournir à la fin de la semaine du Challenge Data. 
-   </td>
-  </tr>
-  <tr>
-   <td>Réussite 
-   </td>
-   <td>A l’issue de la réunion, nous avons finalement reçu plus de précisions par rapport au travail de statistiques à réaliser. Pour ce faire, nous lui avons posé diverses questions sur la démarche à suivre et nous avons établi la liste des jeux de données souhaités par la collectivité territoriale. Une autre réunion a été planifiée à 16h dans la journée afin de suivre l’avancement de notre travail et pour nous permettre de nous apporter les éclaircissements nécessaires. 
-   </td>
-  </tr>
-  <tr>
-   <td>Réussite 
-   </td>
-   <td>Aujourd’hui, la cohésion du groupe s’est vraiment renforcée. Nous avons utilisé notre esprit d'équipe afin de mieux travailler dans une bonne ambiance, et la répartition du travail était très équitable et nous nous le sommes répartis en tenant compte des compétences de chacun. 
-<p>
+Aujourd’hui, la cohésion du groupe s’est vraiment renforcée. Nous avons utilisé notre esprit d'équipe afin de mieux travailler dans une bonne ambiance, et la répartition du travail était très équitable et nous nous le sommes répartis en tenant compte des compétences de chacun. 
 Pour la répartition du travail de nettoyage, de tri et d’uniformisation des données : 
-<ul>
+Nejib et Benjamin se sont occupé de travailler sur le patrimoine naturel ; 
+Maïssa a fait un travail de listing sur les Musées de la communauté de communes de Clermont-Ferrand ;
+Anta était chargée de travailler sur les données du patrimoine historique. 
 
-<li>Nejib et Benjamin se sont occupé de travailler sur le patrimoine naturel ; 
-
-<li>Maïssa a fait un travail de listing sur les Musées de la communauté de communes de Clermont-Ferrand ;
-
-<li>Anta était chargée de travailler sur les données du patrimoine historique. 
-
-<p>
 Plus tard dans la journée, Nejib, Anta et Paul-Henri ont commencé à rechercher et à renseigner les données géographiques du patrimoine naturel de la communauté de communes de Clermont-Ferrand. Cela représentait un travail beaucoup trop important pour une seule personne alors nous 
-<p>
+
 Christille s’est occupée de finir le carnet de bord du lundi 22 novembre et de réaliser l'organigramme. C’est la référente réunion (porte parole) du groupe et elle s‘occupe aussi de rédiger les courriels et de poser les questions du groupe lors des réunions. Maïssa est d’une grande aide pour l’organisation du travail et la motivation de l’équipe : c’est la référente management. 
-</li>
-</ul>
-   </td>
-  </tr>
-  <tr>
-   <td>Casse-tête 
-   </td>
-   <td>Catherine CARTON n'était pas présente aux réunions du mardi 23 novembre de 10h et de 16h et nous avons déploré son absence qui nous a un peu pénalisé dans notre organisation. Nous avons comblé ce manque en nous adaptant et en nous organisant. 
-<p>
+
+Catherine C. n'était pas présente aux réunions du mardi 23 novembre de 10h et de 16h et nous avons déploré son absence qui nous a un peu pénalisé dans notre organisation. Nous avons comblé ce manque en nous adaptant et en nous organisant. 
+
 Nous avions des questions à lui poser pour la réalisation de notre travail, ainsi, Christille s’est chargée de les lui adresser par mail.
-   </td>
-  </tr>
-  <tr>
-   <td>Casse-tête
-   </td>
-   <td>Le réseau internet de Sciences Po Saint-Germain-En-Laye n’est pas assez rapide. De ce fait nous avons dû nous adapter, et nous nous connectons à Internet en alternant nos différents routeurs Internet.  
-   </td>
-  </tr>
-  <tr>
-   <td>Casse-tête
-   </td>
-   <td>Certaines données de localisation géographique du patrimoine géologique ont été compliquées à trouver lors de nos recherches sur le site de l’Inventaire National du Patrimoine Naturel (INPN). 
-<p>
+Le réseau internet de Sciences Po Saint-Germain-En-Laye n’est pas assez rapide. De ce fait nous avons dû nous adapter, et nous nous connectons à Internet en alternant nos différents routeurs Internet.  
+Certaines données de localisation géographique du patrimoine géologique ont été compliquées à trouver lors de nos recherches sur le site de l’Inventaire National du Patrimoine Naturel (INPN). 
+
 Certains éléments nous ont manqué, et nous avons donc attendu l’aide de notre référente Magalie afin d’avoir quelques éclaircissements. 
-   </td>
-  </tr>
-</table>
 
+![](https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/clermont2_organigramme.png)
 
-
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image4.png "image_tooltip")
-
-
-
-    _<span style="text-decoration:underline;">Organigramme V1</span>_
 
 Wishlist et wanted data list :
 
 [ Wishlist_Auvergne2 - Google Sheets](https://docs.google.com/spreadsheets/d/16OP6gzRLxiS7RjmK1OKSPpkH5XPLFUQ91H6jhGMAbnw/edit#gid=942129362)
 
 Fichiers descriptif :[ ](https://drive.google.com/drive/folders/11GmhycQrIHl0BCRR4fdT-M1ZymSw4Jb3?usp=sharing)
-
 [https://drive.google.com/drive/folders/11GmhycQrIHl0BCRR4fdT-M1ZymSw4Jb3?usp=sharing](https://drive.google.com/drive/folders/11GmhycQrIHl0BCRR4fdT-M1ZymSw4Jb3?usp=sharing)
 
 
