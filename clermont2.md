@@ -171,5 +171,7 @@ Néanmoins, la tâche n’a pas été de tout repos ! Les périodes de rush ont 
 Au nom du groupe 12, nous vous remercions pour cette expérience et vous souhaitons une bonne continuation dans vos missions, essentielles au service public et à la cohésion des territoires. Si d’aventure, nous passons par Clermont-Ferrand, nous passerons vous saluer et pourquoi pas déguster une truffade !  
 
 
-![](https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/clermont1_groupe.png)
+<p align="center">
+  <img src="https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/clermont1_groupe.png" />
+</p>
 
