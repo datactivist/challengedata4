@@ -1,7 +1,7 @@
 # Carnet de bord de l'ouverture des données de la Communauté de communes entre Juine et Renarde
 
 par BOUVIER BOUVIER Clemence, CHENU Eve, MAREC Lucy, PETIT Clara, ROY Clarisse et WOLFF Camille
-![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/Juine%20et%20Renarde.jpg)
+![](https://github.com/datactivist/challengedata4/blob/main/images_cdb/Juine%20et%20Renarde.jpg)
 
 ## JOUR 1 – DIAGNOSTIC
 
