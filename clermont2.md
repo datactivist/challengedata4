@@ -108,7 +108,10 @@ Nous avons réalisé le plan de communication pour le partage des données.
 
 **jeux de données publiés**
 
-[https://drive.google.com/drive/folders/1KWebVIjdb2q945ixIS9lc-ALPbUaj_bd?usp=sharing](https://drive.google.com/drive/folders/1KWebVIjdb2q945ixIS9lc-ALPbUaj_bd?usp=sharing)  
+<p align="center">
+  <img src="https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/clermont2_donnees_publiees.PNG" />
+</p>
+
 
 <p align="center">
   <img src="https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/clermont2_photo.png" />
