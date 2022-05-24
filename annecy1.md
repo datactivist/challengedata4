@@ -201,7 +201,7 @@ Enfin, il était très gratifiant de voir se concrétiser les résultats de nos 
 
 -**Résultats des élections municipales de 2020 pour la ville d’Annecy**
 <p align="center">
- <img src="https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/annecy1_dataviz2.png" width="200">
+ <img src="https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/annecy1_dataviz2.png" width="500">
  <img src="https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/annecy1_dataviz3.png" width="400">
  <img src="https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/annecy1_dataviz4.png" width="400">
 </p>
