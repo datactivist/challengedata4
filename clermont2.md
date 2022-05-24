@@ -110,6 +110,7 @@ Nous avons réalisé le plan de communication pour le partage des données.
 
 [https://drive.google.com/drive/folders/1KWebVIjdb2q945ixIS9lc-ALPbUaj_bd?usp=sharing](https://drive.google.com/drive/folders/1KWebVIjdb2q945ixIS9lc-ALPbUaj_bd?usp=sharing)  
 
+![](https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/clermont2_photo.png)
 
 
 ## JOUR 5 – VALORISATION
@@ -130,76 +131,34 @@ Voici notre tableau des tâches du jour : (il n’a pas été respecté à la le
 Nous avions commencé notre travail de datavisulation la veille, et avons ainsi réussi à finir tous les datavisuels que nous avions prévus. Nous n’aurions jamais pu tout terminer en une seule journée de travail.
 La photo de groupe qui réunit notre groupe du Patrimoine ainsi que celui du Tourisme, a été réalisée avec succès, selon ses exigences (mode déjanté, qui montre notre surcharge de travail)
 
+Nous avions une quantité importante de datavisualisation à réaliser, et cela n’a pas été simple de tenir le rythme. Nous avons eu quelques difficultés sur Umap, ainsi que sur Qgis. Nous avons terminé in extremis, juste avant notre réunion de 17h. 
+La réunion s’est très bien passée. 
 
-<img src="images/image9.png" width="" alt="alt_text" title="image_tooltip">
-
-<p>
-(Maïssa n'apparaît malheureusement pas sur la photo, car elle s’est gentiment proposée pour prendre la photo. Mais pas de panique, voici une photo complémentaire !) 
-<p>
-
-
-<p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image10.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image10.png" width="" alt="alt_text" title="image_tooltip">
-
-   </td>
-  </tr>
-  <tr>
-   <td>casse-tête
-   </td>
-   <td>Nous avions une quantité importante de datavisu à réaliser, et cela n’a pas été simple de tenir le rythme. Nous avons eu quelques difficultés sur Umap, ainsi que sur Qgis. Nous avons terminé in extremis, juste avant notre réunion de 17h. 
-   </td>
-  </tr>
-  <tr>
-   <td>réussite
-   </td>
-   <td>La réunion s’est très bien passée. 
-<p>
 Nous remercions toute l’équipe, et en particulier Magalie, pour son aide et son soutien. Nous sommes tous extrêmement contents d’avoir vécu cette expérience. 
-<p>
+
 A bientôt pour de nouvelles dataventures !!
-   </td>
-  </tr>
-</table>
+  
+Datavisualisations partie 1 :[ ](https://drive.google.com/drive/folders/1uNwGq5NAi4NLalmfFhq5mkqesrmk1qjN?usp=sharing)9
 
-
-
-    Datavisualisations partie 1 :[ ](https://drive.google.com/drive/folders/1uNwGq5NAi4NLalmfFhq5mkqesrmk1qjN?usp=sharing)9
-
-
-    [https://drive.google.com/drive/folders/1uNwGq5NAi4NLalmfFhq5mkqesrmk1qjN?usp=sharing](https://drive.google.com/drive/folders/1uNwGq5NAi4NLalmfFhq5mkqesrmk1qjN?usp=sharing)
+[https://drive.google.com/drive/folders/1uNwGq5NAi4NLalmfFhq5mkqesrmk1qjN?usp=sharing](https://drive.google.com/drive/folders/1uNwGq5NAi4NLalmfFhq5mkqesrmk1qjN?usp=sharing)
 
 Datavisualisations partie 2 :
 
 [https://drive.google.com/drive/folders/1fUgoOrOjCy03E7GI6l7QHUzKCIkG41bl?usp=sharing](https://drive.google.com/drive/folders/1fUgoOrOjCy03E7GI6l7QHUzKCIkG41bl?usp=sharing)
 
 
-    **CONCLUSION**
+## CONCLUSION
 
 
-    _Dans cette partie, vous aurez à faire un double bilan : celui de la commune, celui de votre groupe. Combien de jeux de données ont été ouverts ? Quels ont été les freins et les leviers de cette ouverture de données ? Et à vous en tant qu’étudiants en sciences politiques, que vous a appris cette semaine ? Qu’est-ce qu’elle vous a apporté ?_
-
-
-    _La conclusion devra également présenter votre plus gros casse-tête et votre plus belle réussite dans l’ouverture des données afin de permettre à notre facilitatrice graphique [Anne-Cécile Calléjon](https://annececilecallejon.com/) de dresser le bilan de votre expérience en dessin !_
-
-_“Je te vais sur cela prouver deux vérités :_
-
+_“Je te vais sur cela prouver deux vérités :
 _L’une, que le travail, aux hommes nécessaire,_
-
 _Fait leur félicité plutôt que leur misère ;_
-
 _Et l’autre, qu’il n’est point de coupable en repos._
-
 _C’est ce qu’il faut ici montrer en peu de mots.”_
+_Nicolas Boileau, Epitre XI_
 
-_Nicolas Boileau, <span style="text-decoration:underline;">Epitre XI</span>_
+A travers ces quelques mots, c’est l’essence de ces cinq jours qui se trouve résumée : discipline, effort, apprentissage mais également joie et bonheur, de tisser des liens d’amitié et de ressentir la satisfaction du travail accompli. En effet, nous confronter à un univers jusqu’alors inconnu et tenter de maîtriser les outils à notre disposition, le tout dans un laps de temps relativement court, fut un challenge, un défi, des plus palpitants. Dix jeux de données ont été ouverts, allant du patrimoine culturel au patrimoine naturel, traversant des enjeux de préservation des espaces protégés aux musées qui parcourent le territoire. Attachés aux territoires, et plus encore à la richesse qu’ils renferment, c’est avec plaisir que nous avons produit des cartes ainsi que de nombreux graphiques (diagrammes, pyramides, …), le tout appuyé sur des bases de données créées en amont, afin de vous aider dans vos missions et de nous mettre au service de l’intérêt général. La contribution au bien commun et le sentiment de travailler concrètement pour une cause ont contribué à nous immerger dans le travail. Nous tenions par ailleurs à vous remercier pour cette expérience et pour le temps que vous nous avez accordé ; plus qu’une commande, c’est une collaboration, grâce à votre expertise dans les rouages de l’administration et notre soif d’apprendre couplée à notre envie de bien faire. Les réunions chaque jour nous ont permis d'avancer main dans la main, à vos côtés, afin de répondre aux mieux à vos attentes. Aussi, nous l’espérons, notre production trouvera-t-elle sa place dans vos missions quotidiennes : bases de données, aides visuelles et répertoires vous permettront, en un clin d'œil, d’avoir accès au patrimoine de la métropole. 
 
+Néanmoins, la tâche n’a pas été de tout repos ! Les périodes de rush ont succédé aux périodes de stress ! Par exemple, le logiciel QGIS apparaissait, à prime abord, abrupt et complexe, comme un Goliath fait d'icônes et de sigles étranges. Néanmoins, avec l’aide de Magalie et de ses conseils avisés, pas à pas, il a pu nous dévoiler quelques uns de ses secrets ! Là encore, il a fallu jongler avec le manque de réseau, l’installation du logiciel sur l’ordinateur d’un membre de l’équipe qui pris plusieurs heures en raison de la mauvaise connexion ou encore la maîtrise des bases pour produire des jeux de données utilisables puis des cartes ! Néanmoins, comme disait Goethe dans Natur und Kunst, “In der Beschränkung zeigt sich erst der Meister” (De la contrainte naissent les maîtres). Cela a du bon d’essuyer quelques revers et de s’investir pleinement, ne serait-ce que pour mieux nous préparer à nos futures carrières. C’est avec un pincement au cœur que nous sommes partis, ce vendredi soir, laissant derrière nous des cartes et des graphiques aux couleurs chatoyantes. Finalement, ils représentent la matérialisation de nos efforts et la fierté d’être arrivés au bout de notre engagement. 
 
-        A travers ces quelques mots, c’est l’essence de ces cinq jours qui se trouve résumée : discipline, effort, apprentissage mais également joie et bonheur, de tisser des liens d’amitié et de ressentir la satisfaction du travail accompli. En effet, nous confronter à un univers jusqu’alors inconnu et tenter de maîtriser les outils à notre disposition, le tout dans un laps de temps relativement court, fut un challenge, un défi, des plus palpitants. Dix jeux de données ont été ouverts, allant du patrimoine culturel au patrimoine naturel, traversant des enjeux de préservation des espaces protégés aux musées qui parcourent le territoire. Attachés aux territoires, et plus encore à la richesse qu’ils renferment, c’est avec plaisir que nous avons produit des cartes ainsi que de nombreux graphiques (diagrammes, pyramides, …), le tout appuyé sur des bases de données créées en amont, afin de vous aider dans vos missions et de nous mettre au service de l’intérêt général. La contribution au bien commun et le sentiment de travailler concrètement pour une cause ont contribué à nous immerger dans le travail. Nous tenions par ailleurs à vous remercier pour cette expérience et pour le temps que vous nous avez accordé ; plus qu’une commande, c’est une collaboration, grâce à votre expertise dans les rouages de l’administration et notre soif d’apprendre couplée à notre envie de bien faire. Les réunions chaque jour nous ont permis d'avancer main dans la main, à vos côtés, afin de répondre aux mieux à vos attentes. Aussi, nous l’espérons, notre production trouvera-t-elle sa place dans vos missions quotidiennes : bases de données, aides visuelles et répertoires vous permettront, en un clin d'œil, d’avoir accès au patrimoine de la métropole. 
-
-
-        Néanmoins, la tâche n’a pas été de tout repos ! Les périodes de rush ont succédé aux périodes de stress ! Par exemple, le logiciel QGIS apparaissait, à prime abord, abrupt et complexe, comme un Goliath fait d'icônes et de sigles étranges. Néanmoins, avec l’aide de Magalie et de ses conseils avisés, pas à pas, il a pu nous dévoiler quelques uns de ses secrets ! Là encore, il a fallu jongler avec le manque de réseau, l’installation du logiciel sur l’ordinateur d’un membre de l’équipe qui pris plusieurs heures en raison de la mauvaise connexion ou encore la maîtrise des bases pour produire des jeux de données utilisables puis des cartes ! Néanmoins, comme disait Goethe dans Natur und Kunst, “In der Beschränkung zeigt sich erst der Meister” (De la contrainte naissent les maîtres). Cela a du bon d’essuyer quelques revers et de s’investir pleinement, ne serait-ce que pour mieux nous préparer à nos futures carrières. C’est avec un pincement au cœur que nous sommes partis, ce vendredi soir, laissant derrière nous des cartes et des graphiques aux couleurs chatoyantes. Finalement, ils représentent la matérialisation de nos efforts et la fierté d’être arrivés au bout de notre engagement. 
-
-
-        Au nom du groupe 12, nous vous remercions pour cette expérience et vous souhaitons une bonne continuation dans vos missions, essentielles au service public et à la cohésion des territoires. Si d’aventure, nous passons par Clermont-Ferrand, nous passerons vous saluer et pourquoi pas déguster une truffade !  
+Au nom du groupe 12, nous vous remercions pour cette expérience et vous souhaitons une bonne continuation dans vos missions, essentielles au service public et à la cohésion des territoires. Si d’aventure, nous passons par Clermont-Ferrand, nous passerons vous saluer et pourquoi pas déguster une truffade !  
