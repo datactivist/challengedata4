@@ -5,7 +5,7 @@ par C. Chloe, MEYER	Wynona, P. Thomas, U. Lola, STEMMELIN	Valentine, T.-M. Adèl
 ![](https://github.com/datactivist/challengedata4/blob/main/images_cdb/Clermont2.jpg)
 
 
-## JOUR 1 - INTRODUCTION
+## INTRODUCTION
 
 **Développement**
 
