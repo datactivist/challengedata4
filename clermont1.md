@@ -1,263 +1,48 @@
-<!-- Output copied to clipboard! -->
-
-<!-----
-
-You have some errors, warnings, or alerts. If you are using reckless mode, turn it off to see inline alerts.
-* ERRORs: 0
-* WARNINGs: 0
-* ALERTS: 1
-
-Conversion time: 3.047 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β33
-* Wed May 11 2022 08:31:48 GMT-0700 (PDT)
-* Source doc: 11_ClermontAuvergneMétropole_Carnetdebord
-* Tables are currently converted to HTML tables.
-* This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server. NOTE: Images in exported zip file from Google Docs may not appear in  the same order as they do in your doc. Please check the images!
-
------>
-
-
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 1.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
+# Carnet de bord de l'ouverture des données de Clermont Auvergne Métropole (groupe 1)
 
+par C. Chloe, MEYER	Wynona, P. Thomas, U. Lola, STEMMELIN	Valentine, T.-M. Adèle, TRELLU Salome
 
-<p style="text-align: right">
-<em>Ce carnet de bord est destiné à écrire le récit de vos aventures ! Il doit être complété tout au long des étapes de ce patchwork.</em></p>
 
+## JOUR 1 - INTRODUCTION
 
+**Résumé**
 
-<table>
-  <tr>
-   <td><strong>PARTIE</strong>
-   </td>
-   <td><strong>Rédacteur/rédactrice</strong>
-   </td>
-   <td><strong>Note</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Introduction
-   </td>
-   <td>Thomas P.
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>1. Diagnostic
-   </td>
-   <td>Valentine STEMMELIN
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>2. Identification
-   </td>
-   <td>Wynona MEYER
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>3. Mise en qualité
-   </td>
-   <td>Chloé C.
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>4. Publication
-   </td>
-   <td>Lola U.
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>5. Valorisation
-   </td>
-   <td>Adèle T.-M.
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Conclusion
-   </td>
-   <td>Salomé TRELLU
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
 
 
+**Développement**
 
-        **Consignes pour la rédaction des CDB**
 
+La région Auvergne-Rhône-Alpes possède à ce jour le titre de deuxième région la plus habitée et de deuxième région qui présente le plus grand PIB : un véritable tremplin en termes de développement. De là, nous pouvons nous concentrer sur notre point d’étude. **Clermont Auvergne Métropole** est un établissement public de coopération intercommunal (E.P.C.I.) qui s'est constitué le 1er janvier 2018. Auparavant connu en tant que Clermont Communauté, il regroupe 21 communes et compte environ 300 000 habitants : Clermont-Ferrand et, les communes présentes dans son aire majoritairement urbaine et décentralisée, Aubière, Aulnat, Blanzat, Beaumont, Cournon d'Auvergne, Chamalières, Cébazat, Châteaugay, Ceyrat, Durtol, Gerzat, Le Cendre, Lempdes, Nohanent, Orcines, Pont-du-Château, Pérignat-lès-Sarliève, Royat, Romagnat, Saint-Genès- Champanelle. Elle représente à elle-seule **la seule métropole** située au centre de la France, et la **19ème métropole française**. Elle s'est bâtie sur des enjeux communs aux communes qu’elle regroupe : développer les relations intercommunales et rayonner au sein du paysage régional français. Des atouts non-négligeables pour solidifier les relations locales et bâtir un réseau efficace et communiquant.
 
-    Vous avez toutes et tous choisi une manière (ou pas) d’**anonymiser** vos noms et prénoms dans les carnets de bord, n’oubliez pas de respecter les choix d’anonymisation des membres de votre équipe au moment de la rédaction ;
+**Pour 2028**, Clermont-Ferrand, ville centrale de Clermont Auvergne Métropole, s’est portée candidate pour devenir** la capitale européenne de la culture**. Pour rebondir sur cet axe d’importance pour cet acteur communal, nous étudierons l'aspect touristique. En ce sens, Clermont Auvergne métropole présente un dynamisme touristique conséquent : le site Internet officiel expose son tourisme urbain (patrimoine, culture...), son tourisme sportif et naturel, son tourisme de bien-être (station thermales), son tourisme d'affaires et de congrès, etc. Nous avons souhaité nous intéresser dans un premier temps **aux quatre grands axes** présentés dans la note de cadrage : les randonnées pédestres, les fêtes et manifestations, le tourisme autour du patrimoine culturel ainsi que le patrimoine naturel. Nous avons ensuite affiné ces options à l'issue de notre entretien, lors de **la rédaction de la wishlist.**
 
 
-    N’oubliez pas aussi d’anonymiser les noms et prénoms des interlocuteurs et des agents ;
+Clermont Auvergne Métropole n'est pas débutante dans **le domaine de l'_Open Data_**. De septembre 2015 à juin 2016, les Rencontres citoyennes de la mobilité "Libre comme l'R" ont redéfini les stratégie de mobilité pour la métropole sur les prochaines années : l'un des principaux engagement de cette rencontre a été de mettre l'_Open Data_ aux services des mobilités et des startup afin de favoriser "la transparence, la démocratie, l’innovation et l'entreprenariat". Entre 2019 et 2020, les Conventions partenariales ont donné un sens pratique à cette _Open Data _en l'utilisant dans l'étude et la diffusion des données sur la qualité de l'air métropolitaine. Enfin, pour 2021-2023 Clermont Auvergne métropole a adhéré officiellement à **l'association _Open Data _FRANCE** pour porter comme missions principales des prochaines années, la protection des données et l'évaluation des politiques publiques. Ainsi, la métropole est entrée dans une "démarche d'ouverture des données publiques" dans le but de favoriser les négociations avec l'ensemble des partenaires nationaux et internationaux, faciliter les production des ateliers/groupes de travail, participer à l'expansion du mouvement d'_Open Data_...
 
 
-    N’oubliez pas d’**inclure les pièces-jointes et documents** demandés chaque jour :
+#JOUR 1 – DIAGNOSTIC
 
+**Résumé**
 
+**Développement (Cf. Annexe 1 : [Wishlist](https://docs.google.com/spreadsheets/d/12e-eCKj1adPL97wd-8eEu1CZz-LvuInKq4pnB17HAbI/edit#gid=942129362) / Annexe 2 : [Bilan diagnostic](https://airtable.com/shr4hkTi6y6mwMqQ9/tblCK1HM7nfkjbFpi))**
 
-* Wishlist 
-* Organigramme 
-* Communication éventuelle 
-* Dataviz
 
-    
+En cette première journée de _Challenge Data_, nous étions tous, au sein de mon groupe, motivés à l’idée de travailler ensemble pour une collectivité territoriale. Nous ne savions pas tant à quoi nous attendre en termes de missions car nous n’avions pas auparavant développé de réelles compétences en matière d’_Open Data_. Néanmoins, ce défi nous a tout de suite semblé abordable et utile pour compléter nos profils grâce à un projet qui traite d’une problématique concrète : l’utilité grandissante de l’_Open Data_ au sein des collectivités. Nos différents parcours au sein de Sciences Po ainsi que nos centres d’intérêts respectifs nous ont permis assez naturellement de nous répartir le décryptage des enjeux de la mission ainsi que l'organisation du travail de la semaine. 
 
+Dès la première heure, nous avons créé différents documents interactifs afin de mieux nous **organiser**. La méthodologie mise à disposition par _Datactivist_ nous a permis, d’emblée, de gagner en efficacité. Après avoir choisi de nous pencher sur la branche “**tourisme**” de Clermont-Auvergne Métropole**,** nous avons tous pris connaissance d’une note de cadrage sur le sujet, spécialement préparée par la collectivité afin de nous simplifier la tâche. L’aspect prédominant de la nature dans la mission nous a tout de suite séduits. Nous avons compris que la métropole avait besoin de notre aide dans un secteur précis après avoir été sollicitée par un acteur externe, l’Office de Tourisme de Clermont-Auvergne. Face à une demande accrue de la part de touristes et de randonneurs dans la région, ce dernier a décidé de faciliter l’accès aux topo-guides de randonnée et d’ainsi compléter ses bases de données. Cela s’opère évidemment par le biais de données que possède la métropole, qui s'engage à les rendre publiques à cet effet.
 
-    **JOUR 1 - INTRODUCTION**
+Nous avons ensuite pris le temps tous ensemble d'approfondir le cadrage de notre sujet afin d’en saisir les subtilités mais aussi les limites. Nous nous sommes **documentés** grâce aux ressources en ligne afin de davantage maîtriser notre sujet avant le rendez-vous planifié avec notre interlocutrice de la collectivité, Data Manager à Clermont-Auvergne Métropole. Avant cette étape clé de la journée, nous avions cerné les principaux axes sur lesquels nous allions travailler (combien de producteurs pour tant et tant de jeux de données dans le registre “randonnée pédestre" par exemple). Bien que nous nous étions concertés en amont avec le second groupe attaché à la même collectivité (secteur patrimoine) pour ne pas empiéter les uns sur les autres dans notre compréhension des sujets, il restait certains points à éclaircir pour qu’on puisse se lancer sereinement dans notre quête de données. 
 
+La **réunion** s’est révélée fructueuse. Notre interlocutrice s’est montrée enthousiaste à l’idée de travailler avec nous, et son sens de l’organisation nous a d’emblée rassurés. Ses deux collègues ont également été efficaces, même si leur domaine d’expertise se rapporte clairement à la question du patrimoine historique et naturel, le sujet de l’autre groupe. Après un rapide tour de table pour se présenter, Salomé et Christille ont au nom des deux groupes posé les questions issues du questionnaire_ Open Data_ _Canvas_ afin d’établir un **diagnostic **concret quant au degré d’aisance de notre collectivité face au nouveau défi de l’_Open Data_. Nous avons donc pu observer que la métropole atteint le palier 2 de maturité en _Open Data_. Cela reflète un déséquilibre : nous avons pu vérifier ce diagnostic en dialoguant avec notre interlocutrice et ses collègues. Si la métropole se veut dynamique et demandeuse en termes d’_Open Data_, il existe des freins considérables à cet élan, comme par exemple le manque de culture des Directions de métiers et la réticence de certaines collectivités du territoire à divulguer leurs données. Clermont-Auvergne Métropole tente de remédier à cela en proposant par exemple à ses agents territoriaux de suivre une formation pour s’initier à l’_Open Data_ avec _Datactivist _en décembre. Nos trois interlocuteurs sont eux-mêmes plus ou moins familiers à l’ouverture des données, mais tous s'alignent quant à la **nécessité de développer cette compétence,** trop souvent négligée par toutes les autres sollicitations externes à la collectivité. 
 
-    _Dans cette partie, vous aurez à introduire “Clermont Auvergne Métropole”, les enjeux touristiques, l’histoire de leur site opendata. Vous devez également introduire le groupe et le projet. _
+Nous avons aussi pu obtenir des éclaircissements concernant le travail que la collectivité attend de nous, et cela nous a confortés dans la direction à prendre. Nous avions bien cerné les **attentes de notre interlocutrice**, mais elle nous a aidé à **hiérarchiser plus clairement nos priorités.** Nous avons donc convenu que nous traiterons d’abord les 3 jeux de données appartenant aux 3 producteurs affiliés à la rubrique “randonnée pédestre” : **3DE - les randonnées métropolitaines de Clermont-Auvergne Métropole, la Direction des sports avec les randonnées de l’Escapade et l’association Ceyrando** à Ceyrat, qui n’a pas encore donné son accord pour participer au projet. En deuxième lieu, nous nous intéresserons à la rubrique “randonnées cyclables” et son jeu de données, également représentée par la Direction des sports. Ces 3 points correspondent aux souhaits principaux formulés par Clermont-Auvergne Métropole en termes d’ouverture des données, que nous avons regroupés pour constituer une liste d’objectifs synthétiques.
 
+Si nous avons le temps, nous essayerons de traiter le jeu de données concernant l’agenda des évènements culturels et festif de la métropole, qui devrait aboutir à la publication d’un “agenda des communes”. Cependant, comme expliqué plus haut dans le tableau, il nous faudra pour cela **créer nous-même un fichier **et la tâche s’avère complexe. Nous allons donc nous concentrer sur la randonnée pédestre en manipulant des données comme la durée de marche, le dénivelé, les kilomètres, les différents balisages, etc. et en les illustrant par des PDF indiquant des itinéraires simples, lisibles et **accessibles à tous les publics.** Nous avons convenu avec notre mentor de_ Datactivist _qu’elle se chargerait de convertir nos données récoltées dans des tableaux Excel en** tracés GPX** (des tracés interactifs sur fond de type IGN, consultables via Openstreetmap sur tout support numérique comme les téléphones, les montres connectées, etc.) à l’aide de son logiciel métier, afin de faciliter l’accès des pratiquants aux itinéraires de randonnée.
 
-**Résumé : **
+Même si notre traitement de ces données ne sera pas forcément publié (les communes de la métropole n’ayant pas encore donné leur aval), notre travail aidera pour sûr les agents de la collectivité à **avancer dans leur maîtrise de l’_Open Data_.** En fin de journée, nous avons fini par déterminer les objectifs du lendemain et pris soin d’envoyer à nos interlocuteurs de la métropole un email contenant la **_Wishlist_ **demandée ainsi que le **bilan diagnostic** du jour. 
 
 
-<table>
-  <tr>
-   <td>Réussite ou casse-tête ?
-   </td>
-   <td>Explication / Citation
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Réussite : </strong>
-<p>
-Une certaine expérience en <em>Open Data</em> de la part de la commune
-   </td>
-   <td>Il nous a été agréable de constater que Clermont-Auvergne Métropole dispose déjà d’une certaine expérience en <em>Open Data</em>, qui remonte à septembre 2015 et compte s’étendre jusqu'en 2023. Ces informations ont pu être récapitulées sur le site officiel de la métropole, qui partage ses comptes-rendus de coopération <em>Open Data</em>.
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Réussite : </strong>
-<p>
-Des sources précises autour du secteur touristique
-   </td>
-   <td>Le site web officiel de Clermont Auvergne Métropole présente des dossiers thématiques précis sur les différents secteurs touristiques que la métropole regroupe (culture, nature, bien-être, …). Bien que ces secteurs sortent pour la plupart de notre domaine d’étude, il reste très intéressant de voir que nous disposons d’une banque d’informations exhaustive à notre disposition dans le domaine du tourisme.
-   </td>
-  </tr>
-</table>
-
-
-
-    **Développement : **
-
-
-        La région Auvergne-Rhône-Alpes possède à ce jour le titre de deuxième région la plus habitée et de deuxième région qui présente le plus grand PIB : un véritable tremplin en termes de développement. De là, nous pouvons nous concentrer sur notre point d’étude. **Clermont Auvergne Métropole** est un établissement public de coopération intercommunal (E.P.C.I.) qui s'est constitué le 1er janvier 2018. Auparavant connu en tant que Clermont Communauté, il regroupe 21 communes et compte environ 300 000 habitants : Clermont-Ferrand et, les communes présentes dans son aire majoritairement urbaine et décentralisée, Aubière, Aulnat, Blanzat, Beaumont, Cournon d'Auvergne, Chamalières, Cébazat, Châteaugay, Ceyrat, Durtol, Gerzat, Le Cendre, Lempdes, Nohanent, Orcines, Pont-du-Château, Pérignat-lès-Sarliève, Royat, Romagnat, Saint-Genès- Champanelle. Elle représente à elle-seule **la seule métropole** située au centre de la France, et la **19ème métropole française**. Elle s'est bâtie sur des enjeux communs aux communes qu’elle regroupe : développer les relations intercommunales et rayonner au sein du paysage régional français. Des atouts non-négligeables pour solidifier les relations locales et bâtir un réseau efficace et communiquant.
-
-
-        **Pour 2028**, Clermont-Ferrand, ville centrale de Clermont Auvergne Métropole, s’est portée candidate pour devenir** la capitale européenne de la culture**. Pour rebondir sur cet axe d’importance pour cet acteur communal, nous étudierons l'aspect touristique. En ce sens, Clermont Auvergne métropole présente un dynamisme touristique conséquent : le site Internet officiel expose son tourisme urbain (patrimoine, culture...), son tourisme sportif et naturel, son tourisme de bien-être (station thermales), son tourisme d'affaires et de congrès, etc. Nous avons souhaité nous intéresser dans un premier temps **aux quatre grands axes** présentés dans la note de cadrage : les randonnées pédestres, les fêtes et manifestations, le tourisme autour du patrimoine culturel ainsi que le patrimoine naturel. Nous avons ensuite affiné ces options à l'issue de notre entretien, lors de **la rédaction de la wishlist.**
-
-
-        Clermont Auvergne Métropole n'est pas débutante dans** le domaine de l'_Open Data_**. De septembre 2015 à juin 2016, les Rencontres citoyennes de la mobilité "Libre comme l'R" ont redéfini les stratégie de mobilité pour la métropole sur les prochaines années : l'un des principaux engagement de cette rencontre a été de mettre l'_Open Data_ aux services des mobilités et des startup afin de favoriser "la transparence, la démocratie, l’innovation et l'entreprenariat". Entre 2019 et 2020, les Conventions partenariales ont donné un sens pratique à cette _Open Data _en l'utilisant dans l'étude et la diffusion des données sur la qualité de l'air métropolitaine. Enfin, pour 2021-2023 Clermont Auvergne métropole a adhéré officiellement à **l'association _Open Data _FRANCE** pour porter comme missions principales des prochaines années, la protection des données et l'évaluation des politiques publiques. Ainsi, la métropole est entrée dans une "démarche d'ouverture des données publiques" dans le but de favoriser les négociations avec l'ensemble des partenaires nationaux et internationaux, faciliter les production des ateliers/groupes de travail, participer à l'expansion du mouvement d'_Open Data_...
-
-
-    **JOUR 1 – DIAGNOSTIC**
-
-
-    _Dans cette partie, vous aurez à présenter la collectivité que vous accompagnez, faire le bilan du diagnostic et résumer les choix et les objectifs de la commune ainsi que ses motivations à ouvrir ses données._
-
-
-    _Pièce à joindre : wishlist_
-
-**Résumé : **
-
-
-<table>
-  <tr>
-   <td>Réussite ou casse-tête ?
-   </td>
-   <td>Explication / Citation
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Réussite : </strong>Organisation du groupe de travail
-   </td>
-   <td>Nous avons tous très rapidement assimilé la méthode de travail grâce aux vidéos du site <em>Open Data Canvas</em>. De fait, il a été très aisé de se répartir les tâches entre les différents membres de notre groupe Tourisme, chacun s’étant rapidement penché sur un des axes de travail proposés par la collectivité et l’étude des jeux de données qui en découlent, cela avant-même notre entrevue avec les interlocuteurs de la collectivité.
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Réussite : </strong>Recherches des informations
-   </td>
-   <td>Grâce à la note de cadrage fournie par la collectivité, nous n’avons pas eu de difficultés particulières à rechercher les informations en lien avec la métropole et le domaine touristique que nous devons traiter (la collectivité nous ayant partagé de nombreux liens hypertextes). 
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Réussite : </strong>Wishlist de la commune
-   </td>
-   <td>Les agents de la métropole, avec qui nous sommes en lien, avaient déjà réalisé un premier travail de cadrage des données qu’ils souhaitent ouvrir. C’est pourquoi, nous avons été informés dès le début de notre journée des objectifs de la collectivité en termes de données touristiques à traiter. Nous avons ainsi pu identifier trois thèmes principaux à étudier (dans l’ordre de priorité suivant) : chemins de randonnées pédestres, chemins de randonnées cyclables et agenda des communes recensant leurs événements culturels et festifs. 
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Réussite : </strong>Bilan du diagnostic
-   </td>
-   <td>Au cours de la réunion, nous avons pu constater que la collectivité était très au fait de ses capacités ainsi que de ses lacunes dans le traitement et l’étude des données. Nous avons ainsi pu effectuer un diagnostic assez précis de la métropole : celle-ci atteint le palier 2 de maturité en <em>Open Data. </em>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Casse-tête : </strong>Manque de données et de communication entre les services
-<p>
- 
-   </td>
-   <td>A première vue, il risque d’être compliqué de traiter le jeu de données concernant l’agenda culturel de la métropole, car celui-ci devrait être publié sur un support dit “l’agenda des communes”. Or, les communes de la métropole n’ont pas encore donné leur aval à ce projet (qui reprendrait un modèle déjà développé par notre référente <em>Datactivist </em>avec d’autres collectivités) et donc à l’ouverture de leurs données. Cela signifie que nous devrons, si nous avons le temps, traiter ce jeu (Priorité n°3), créer nous même ce fichier, ce qui s’apparente à une tâche chronophage. Sans le consentement des communes, nous ne pourrons effectuer qu’un travail d’ébauche pour aider les Data managers de la métropole, mais nous ne serons pas en mesure de publier les données récupérées par nos soins.
-   </td>
-  </tr>
-</table>
-
-
-
-        **Développement (Cf. Annexe 1 : [Wishlist](https://docs.google.com/spreadsheets/d/12e-eCKj1adPL97wd-8eEu1CZz-LvuInKq4pnB17HAbI/edit#gid=942129362) / Annexe 2 : [Bilan diagnostic](https://airtable.com/shr4hkTi6y6mwMqQ9/tblCK1HM7nfkjbFpi)) : **
-
-
-        En cette première journée de _Challenge Data_, nous étions tous, au sein de mon groupe, motivés à l’idée de travailler ensemble pour une collectivité territoriale. Nous ne savions pas tant à quoi nous attendre en termes de missions car nous n’avions pas auparavant développé de réelles compétences en matière d’_Open Data_. Néanmoins, ce défi nous a tout de suite semblé abordable et utile pour compléter nos profils grâce à un projet qui traite d’une problématique concrète : l’utilité grandissante de l’_Open Data_ au sein des collectivités. Nos différents parcours au sein de Sciences Po ainsi que nos centres d’intérêts respectifs nous ont permis assez naturellement de nous répartir le décryptage des enjeux de la mission ainsi que l'organisation du travail de la semaine. 
-
-
-        Dès la première heure, nous avons créé différents documents interactifs afin de mieux nous **organiser**. La méthodologie mise à disposition par _Datactivist_ nous a permis, d’emblée, de gagner en efficacité. Après avoir choisi de nous pencher sur la branche “**tourisme**” de Clermont-Auvergne Métropole**,** nous avons tous pris connaissance d’une note de cadrage sur le sujet, spécialement préparée par la collectivité afin de nous simplifier la tâche. L’aspect prédominant de la nature dans la mission nous a tout de suite séduits. Nous avons compris que la métropole avait besoin de notre aide dans un secteur précis après avoir été sollicitée par un acteur externe, l’Office de Tourisme de Clermont-Auvergne. Face à une demande accrue de la part de touristes et de randonneurs dans la région, ce dernier a décidé de faciliter l’accès aux topo-guides de randonnée et d’ainsi compléter ses bases de données. Cela s’opère évidemment par le biais de données que possède la métropole, qui s'engage à les rendre publiques à cet effet.
-
-
-        Nous avons ensuite pris le temps tous ensemble d'approfondir le cadrage de notre sujet afin d’en saisir les subtilités mais aussi les limites. Nous nous sommes **documentés **grâce aux ressources en ligne afin de davantage maîtriser notre sujet avant le rendez-vous planifié avec notre interlocutrice de la collectivité, Data Manager à Clermont-Auvergne Métropole. Avant cette étape clé de la journée, nous avions cerné les principaux axes sur lesquels nous allions travailler (combien de producteurs pour tant et tant de jeux de données dans le registre “randonnée pédestre" par exemple). Bien que nous nous étions concertés en amont avec le second groupe attaché à la même collectivité (secteur patrimoine) pour ne pas empiéter les uns sur les autres dans notre compréhension des sujets, il restait certains points à éclaircir pour qu’on puisse se lancer sereinement dans notre quête de données. 
-
-
-        La **réunion **s’est révélée fructueuse. Notre interlocutrice s’est montrée enthousiaste à l’idée de travailler avec nous, et son sens de l’organisation nous a d’emblée rassurés. Ses deux collègues ont également été efficaces, même si leur domaine d’expertise se rapporte clairement à la question du patrimoine historique et naturel, le sujet de l’autre groupe. Après un rapide tour de table pour se présenter, Salomé et Christille ont au nom des deux groupes posé les questions issues du questionnaire_ Open Data_ _Canvas_ afin d’établir un **diagnostic **concret quant au degré d’aisance de notre collectivité face au nouveau défi de l’_Open Data_. Nous avons donc pu observer que la métropole atteint le palier 2 de maturité en _Open Data_. Cela reflète un déséquilibre : nous avons pu vérifier ce diagnostic en dialoguant avec notre interlocutrice et ses collègues. Si la métropole se veut dynamique et demandeuse en termes d’_Open Data_, il existe des freins considérables à cet élan, comme par exemple le manque de culture des Directions de métiers et la réticence de certaines collectivités du territoire à divulguer leurs données. Clermont-Auvergne Métropole tente de remédier à cela en proposant par exemple à ses agents territoriaux de suivre une formation pour s’initier à l’_Open Data_ avec _Datactivist _en décembre. Nos trois interlocuteurs sont eux-mêmes plus ou moins familiers à l’ouverture des données, mais tous s'alignent quant à la **nécessité de développer cette compétence,** trop souvent négligée par toutes les autres sollicitations externes à la collectivité. 
-
-
-        Nous avons aussi pu obtenir des éclaircissements concernant le travail que la collectivité attend de nous, et cela nous a confortés dans la direction à prendre. Nous avions bien cerné les **attentes de notre interlocutrice**, mais elle nous a aidé à **hiérarchiser plus clairement nos priorités.** Nous avons donc convenu que nous traiterons d’abord les 3 jeux de données appartenant aux 3 producteurs affiliés à la rubrique “randonnée pédestre” : **3DE - les randonnées métropolitaines de Clermont-Auvergne Métropole, la Direction des sports avec les randonnées de l’Escapade et l’association Ceyrando** à Ceyrat, qui n’a pas encore donné son accord pour participer au projet. En deuxième lieu, nous nous intéresserons à la rubrique “randonnées cyclables” et son jeu de données, également représentée par la Direction des sports. Ces 3 points correspondent aux souhaits principaux formulés par Clermont-Auvergne Métropole en termes d’ouverture des données, que nous avons regroupés pour constituer une liste d’objectifs synthétiques.
-
-
-        Si nous avons le temps, nous essayerons de traiter le jeu de données concernant l’agenda des évènements culturels et festif de la métropole, qui devrait aboutir à la publication d’un “agenda des communes”. Cependant, comme expliqué plus haut dans le tableau, il nous faudra pour cela **créer nous-même un fichier **et la tâche s’avère complexe. Nous allons donc nous concentrer sur la randonnée pédestre en manipulant des données comme la durée de marche, le dénivelé, les kilomètres, les différents balisages, etc. et en les illustrant par des PDF indiquant des itinéraires simples, lisibles et **accessibles à tous les publics.** Nous avons convenu avec notre mentor de_ Datactivist _qu’elle se chargerait de convertir nos données récoltées dans des tableaux Excel en** tracés GPX** (des tracés interactifs sur fond de type IGN, consultables via Openstreetmap sur tout support numérique comme les téléphones, les montres connectées, etc.) à l’aide de son logiciel métier, afin de faciliter l’accès des pratiquants aux itinéraires de randonnée.
-
-
-        Même si notre traitement de ces données ne sera pas forcément publié (les communes de la métropole n’ayant pas encore donné leur aval), notre travail aidera pour sûr les agents de la collectivité à **avancer dans leur maîtrise de l’_Open Data_.** En fin de journée, nous avons fini par déterminer les objectifs du lendemain et pris soin d’envoyer à nos interlocuteurs de la métropole un email contenant la **_Wishlist_ **demandée ainsi que le **bilan diagnostic** du jour. 
-
-
-    **JOUR 2 – IDENTIFICATION**
+# JOUR 2 – IDENTIFICATION
 
 
     _Dans cette partie, vous aurez à raconter le déroulé de la data exploration et à en faire le bilan. Pièces à joindre : organigramme des données, évaluation des données et wanted data list_
