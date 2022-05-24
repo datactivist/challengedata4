@@ -171,7 +171,7 @@ De plus, nous faisons une datavisualisation des CSP des élus à partir du modè
 </p>
 
 
-**Datavisualisation de la liste des prénoms : 
+**Datavisualisation de la liste des prénoms :** 
 
 
 Notre coordinateur (Arthur pour l’anonymiser) nous a montré des modèles à utiliser pour pouvoir illustrer l’évolution des prénoms depuis l’année 2011.
