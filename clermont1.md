@@ -17,7 +17,7 @@ La région Auvergne-Rhône-Alpes possède à ce jour le titre de deuxième régi
 Clermont Auvergne Métropole n'est pas débutante dans **le domaine de l'_Open Data_**. De septembre 2015 à juin 2016, les Rencontres citoyennes de la mobilité "Libre comme l'R" ont redéfini les stratégie de mobilité pour la métropole sur les prochaines années : l'un des principaux engagement de cette rencontre a été de mettre l'_Open Data_ aux services des mobilités et des startup afin de favoriser "la transparence, la démocratie, l’innovation et l'entreprenariat". Entre 2019 et 2020, les Conventions partenariales ont donné un sens pratique à cette _Open Data _en l'utilisant dans l'étude et la diffusion des données sur la qualité de l'air métropolitaine. Enfin, pour 2021-2023 Clermont Auvergne métropole a adhéré officiellement à **l'association _Open Data _FRANCE** pour porter comme missions principales des prochaines années, la protection des données et l'évaluation des politiques publiques. Ainsi, la métropole est entrée dans une "démarche d'ouverture des données publiques" dans le but de favoriser les négociations avec l'ensemble des partenaires nationaux et internationaux, faciliter les production des ateliers/groupes de travail, participer à l'expansion du mouvement d'_Open Data_...
 
 
-# JOUR 1 – DIAGNOSTIC
+## JOUR 1 – DIAGNOSTIC
 
 
 **Développement (Cf. Annexe 1 : [Wishlist](https://docs.google.com/spreadsheets/d/12e-eCKj1adPL97wd-8eEu1CZz-LvuInKq4pnB17HAbI/edit#gid=942129362) / Annexe 2 : [Bilan diagnostic](https://airtable.com/shr4hkTi6y6mwMqQ9/tblCK1HM7nfkjbFpi))**
@@ -38,7 +38,7 @@ Si nous avons le temps, nous essayerons de traiter le jeu de données concernant
 Même si notre traitement de ces données ne sera pas forcément publié (les communes de la métropole n’ayant pas encore donné leur aval), notre travail aidera pour sûr les agents de la collectivité à **avancer dans leur maîtrise de l’_Open Data_.** En fin de journée, nous avons fini par déterminer les objectifs du lendemain et pris soin d’envoyer à nos interlocuteurs de la métropole un email contenant la **_Wishlist_ **demandée ainsi que le **bilan diagnostic** du jour. 
 
 
-# JOUR 2 – IDENTIFICATION
+## JOUR 2 – IDENTIFICATION
 
 **Développement (Cf. Annexe 3 : [Organigramme](https://app.mindmup.com/map/_free/2021/11/66df44504c7711ecbf3c17cacb22a015) / Annexe 4 : [Evaluation des données](https://docs.google.com/spreadsheets/d/12e-eCKj1adPL97wd-8eEu1CZz-LvuInKq4pnB17HAbI/edit#gid=942129362) et [Wanted Data List](https://docs.google.com/spreadsheets/d/12e-eCKj1adPL97wd-8eEu1CZz-LvuInKq4pnB17HAbI/edit#gid=942129362))**
 
@@ -57,7 +57,7 @@ Au cours de la journée, nous avons également créé un **organigramme** de nos
 
 Enfin, nous avons fini notre deuxième journée de _Challenge Data_ par la **seconde réunion** prévue avec notre interlocutrice de la collectivité. Cette dernière nous a malheureusement indiqué que le service SIG (Système d’Information Géographique) de la collectivité n’était pas en mesure de nous envoyer davantage de documentation. Nous devrons donc nous appuyer exclusivement sur les informations disponibles sur les différents sites Internet. Notre référente de Clermont Auvergne Métropole a obtenu l’accord de la mairie de Ceyrat pour ouvrir les données des chemins de randonnées de l'association "Ceyrando". Nous avons ainsi décidé, en accord notre interlocutrice de la collectivité, que nous traiterons l'ensemble des jeux de données de chemins de randonnée, pédestres et vélos confondus (un jeu de données par producteur, soit trois jeux au total). Enfin, au cours de cette réunion, nous avons discuté plus amplement de notre **_Wanted Data List_** : nous nous sommes donc accordés pour ouvrir exclusivement les trois jeux de données des chemins de randonnées demandés par la métropole. Si nous avons le temps par la suite, nous essayerons d'ouvrir également les données des agendas événementiels des communes de la métropole. 
 
-# JOUR 3 – MISE EN QUALITÉ
+## JOUR 3 – MISE EN QUALITÉ
 
  **Développement (Cf. Annexe 5 : [Bilans des traitements](https://drive.google.com/file/d/1S1-3sdLKcjWxeBgJ3-ITD5hT1bvUj31z/view?usp=sharing) exportés depuis Google Sheet)**
 
@@ -71,7 +71,7 @@ Suite au traitement des données, nous sommes passés à la rédaction du compte
 
 En fin de journée, nous avons reçu une **demande particulière** de la part de notre interlocutrice à la collectivité, qui nous a fourni un fichier Excel intitulé "_Open Data_ Référentiel des jeux". Celui-ci comprend un modèle avec des thématiques types (géocodage, description, propriétaire, fréquence…), que nous devrons remplir avec les caractéristiques de nos jeux de données d'ici la fin de la semaine.
 
-# JOUR 4 – PUBLICATION
+## JOUR 4 – PUBLICATION
 
 **Développement (CF. Annexe 6 : URL des jeux de données publiés - pas de publication)**
 
@@ -89,7 +89,7 @@ Pendant ce temps, Chloé et Valentine se sont penchées sur la **stratégie de c
 Au fil de la journée, Adèle s’est spécifiquement chargée de compléter le **fichier de référencement** transmis et demandé par notre interlocutrice. Celui-ci avait pour but de décrire pour la métropole nos quatre jeux de données. Cette étape a été fastidieuse au départ quant à la compréhension du document. Un appel avec notre interlocutrice en milieu d’après-midi nous a permis de compléter plus facilement le document. En fin de journée, le responsable des randos métropolitaines de Clermont Auvergne Métropole nous a contactés pour nous proposer de nouvelles informations concernant son jeu de données. Manquant de temps, nous lui avons indiqué qu’il pouvait les transmettre à notre interlocutrice pour qu’elle complète si elle le souhaitait les variables, la base de données étant à présent constituée.
 
 
-# JOUR 5 – VALORISATION
+## JOUR 5 – VALORISATION
 
 **Développement (CF. Annexe 7 : [Data visualisations](https://docs.google.com/presentation/d/1BRxF1C7KdQBtAR5BfaZAh4J5PYfyRSdk6YtF1Yaz3-Q/edit?usp=sharing) et [Conceptualisation](https://docs.google.com/document/d/16FQbO2n9LOrRkiqHOeS6CE21R8KUmHvM/edit))**
 
@@ -110,7 +110,7 @@ Avant la présentation finale, nous nous sommes empressés de finir nos missions
 
 A 17h, nous avons rejoint le groupe 12 pour participer à la **présentation finale** devant la collectivité sur la plateforme interactive _Gather_ -la réunion n'a toutefois commencé qu’à 17h30 le temps de rassembler tous les participants sur la plateforme. Étaient présents nos interlocutrices de la collectivité ainsi que leur supérieure, l’Office du Tourisme de Clermont Auvergne Métropole, le président de l’association Ceyrando, notre référente _Datactivist _et les deux groupes d’étudiants chargés de travailler sur les données de cette collectivité. Notre référente a commencé par remercier les membres de la collectivité pour leur accompagnement tout au long de la semaine, puis chacun des groupes a présenté son travail dans sa globalité. En résumé, nous avons traité des données, disponibles sur les sites Internet de la collectivité et de la ville de Ceyrat, sur les randonnées de trois producteurs (Ceyrando ; 3DE ; la direction des sports de la métropole) et sur l’agenda événementiel de la ville de Ceyrat. Le projet initial du _Challenge Data_ était d’ouvrir les données au public et de les publier. Dans notre cas, la collectivité ne souhaite pas les publier immédiatement mais peut le faire à terme si elle le souhaite. Enfin, après quelques précisions sur certaines étapes de notre travail, nous avons chaleureusement remercié la collectivité et tous les acteurs présents, leur rappelant combien nous avons apprécié collaborer avec eux. 
 
-# CONCLUSION
+## CONCLUSION
 
 Grâce aux données récoltées via les producteurs, nous avons pu constituer **quatre jeux de données complets** : un jeu par producteur d’itinéraires de randonnée et un pour l'agenda événementiel de l'année 2021 de la commune de Ceyrat. Respectant la volonté de la collectivité, nous ne les avons cependant pas publiés. Grâce à nos échanges avec la collectivité, notamment nos notes pour les élus et notre discussion avec la collectivité lors du clap de fin du _Challenge Data_, il semblerait y avoir une possibilité pour que nos quatre jeux de données soient publiés. 
 
