@@ -110,7 +110,9 @@ Nous avons réalisé le plan de communication pour le partage des données.
 
 [https://drive.google.com/drive/folders/1KWebVIjdb2q945ixIS9lc-ALPbUaj_bd?usp=sharing](https://drive.google.com/drive/folders/1KWebVIjdb2q945ixIS9lc-ALPbUaj_bd?usp=sharing)  
 
-![](https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/clermont2_photo.png)
+<p align="center">
+  <img src="https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/clermont2_photo.png" />
+</p>
 
 
 ## JOUR 5 – VALORISATION
