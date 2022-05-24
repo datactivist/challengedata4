@@ -176,7 +176,9 @@ Une fois que toutes les visualisations ont été réalisées, nous nous sommes r
 * **Aliénor et Faustine**: spécialistes du jeu de données des résultats des élections présidentielles de 2020.
 * **Blanche**: spécialiste du jeu de données des lieux de l’inclusion numérique du territoire.
 
-Cette étape nous a notamment permis de prendre connaissance des visualisations des jeux de données du second groupe travaillant avec la Mairie d’Annecy. Nous sommes fiers d’avoir ouvert à nos deux équipes 8 jeux de données, mis en valeur, pour la commune d’Annecy.**<span style="text-decoration:underline;"> </span>**Une fois les fiches réalisées, nous les avons chacun intégrée dans l’onglet "Réutilisation" du site data.gouv.fr. Elles sont donc officiellement publiées.
+Cette étape nous a notamment permis de prendre connaissance des visualisations des jeux de données du second groupe travaillant avec la Mairie d’Annecy. Nous sommes fiers d’avoir ouvert à nos deux équipes 8 jeux de données, mis en valeur, pour la commune d’Annecy.
+
+Une fois les fiches réalisées, nous les avons chacun intégrée dans l’onglet "Réutilisation" du site data.gouv.fr. Elles sont donc officiellement publiées.
 
 
 **Etape 4: restitution des travaux**
@@ -190,30 +192,28 @@ Enfin, il était très gratifiant de voir se concrétiser les résultats de nos 
 
 **Nos Datavisualisations**
 
--Lieux d'inclusion numérique du territoire: carte sur le lien suivant -> [http://u.osmfr.org/m/685513/](http://u.osmfr.org/m/685513/)
+-**Lieux d'inclusion numérique du territoire** carte sur le lien suivant -> [http://u.osmfr.org/m/685513/](http://u.osmfr.org/m/685513/)
+<p align="center">
+ <img src="https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/annecy1_dataviz1.png" width="400">
+</p>
 
-![https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/annecy1_dataviz1.png](https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/annecy1_dataviz1.png)
+-**Monuments historiques de la ville d’Annecy** carte sur le lien suivant -> [http://u.osmfr.org/m/685550/](http://u.osmfr.org/m/685550/)
 
-
--Monuments historiques de la ville d’Annecy: carte sur le lien suivant -> [http://u.osmfr.org/m/685550/](http://u.osmfr.org/m/685550/)
-
-
--Résultats des élections municipales de 2020 pour la ville d’Annecy:
-
-![https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/annecy1_dataviz2.png](https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/annecy1_dataviz2.png)
-
-![https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/annecy1_dataviz3.png](https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/annecy1_dataviz3.png)
-
-![https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/annecy1_dataviz4.png](https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/annecy1_dataviz4.png)
+-**Résultats des élections municipales de 2020 pour la ville d’Annecy**
+<p align="center">
+ <img src="https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/annecy1_dataviz2.png" width="400">
+ <img src="https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/annecy1_dataviz3.png" width="400">
+ <img src="https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/annecy1_dataviz4.png" width="400">
+</p>
 
 
--Résultats des élections présidentielles de 2017 à Annecy:
-
-![https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/annecy1_dataviz5.png](https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/annecy1_dataviz5.png)
-
-![https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/annecy1_dataviz6.png](https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/annecy1_dataviz6.png)
-
-![https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/annecy1_dataviz7.png](https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/annecy1_dataviz7.png)
+-**Résultats des élections présidentielles de 2017 à Annecy**
+           
+<p align="center">
+ <img src="https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/annecy1_dataviz5.png" width="400">
+ <img src="https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/annecy1_dataviz6.png" width="400">
+ <img src="https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/annecy1_dataviz7.png" width="400">
+</p>     
 
 
 
