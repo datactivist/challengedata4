@@ -2,7 +2,7 @@
 
 Par AUFFRAY	Ines, B.Lucile, BOUTENEIGRE	Thomas, MERCIER	Léa et ZWERTVAEGHER Simon
 
-!()[https://github.com/datactivist/challengedata4/blob/main/images_cdb/Epinal.jpg]
+![](https://github.com/datactivist/challengedata4/blob/main/images_cdb/Epinal.jpg)
     
 ## JOUR 1 – DIAGNOSTIC
 
