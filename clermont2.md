@@ -2,6 +2,8 @@
 
 par B.	B., BUCH	Mariam, FALL Anta, MEHAZEM	Mohamed-Nejib, THIERION DE MONCLIN Christille, WALLET Paul-Henri, Z. Aïssa
 
+![](https://github.com/datactivist/challengedata4/blob/main/images_cdb/Clermont2.jpg)
+
 
 ## Introduction 
 
