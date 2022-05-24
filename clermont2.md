@@ -144,6 +144,12 @@ Datavisualisations partie 1 :[ ](https://drive.google.com/drive/folders/1uNwGq5N
 
 [https://drive.google.com/drive/folders/1uNwGq5NAi4NLalmfFhq5mkqesrmk1qjN?usp=sharing](https://drive.google.com/drive/folders/1uNwGq5NAi4NLalmfFhq5mkqesrmk1qjN?usp=sharing)
 
+![](https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/clermont2_ACR.png)
+![](https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/clermont2_Heure_ouverture_musees_par_an.png)
+![](https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/clermont2_Heures%20d_ouverture%20musees.png)
+![](https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/clermont2__Patrimoine%20g%C3%A9ologique.png)
+![](https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/clermont2__Patrimoine%20monuments%20par%20si%C3%A8cle.png)
+
 Datavisualisations partie 2 :
 
 [https://drive.google.com/drive/folders/1fUgoOrOjCy03E7GI6l7QHUzKCIkG41bl?usp=sharing](https://drive.google.com/drive/folders/1fUgoOrOjCy03E7GI6l7QHUzKCIkG41bl?usp=sharing)
