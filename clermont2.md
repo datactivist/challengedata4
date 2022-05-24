@@ -84,7 +84,7 @@ Nous nous sommes tous activés à nettoyer les jeux de données. Ce travail cons
 A 14 heures, nous avons fait un point avec nos référents de Clermont Métropole. Nous avons pu les tenir au courant de l’évolution de notre travail, leur expliquer que nos jeux de données étaient en cours de nettoyage et les informer de la réception à venir des bilans correspondant aux 11 jeux de données à ouvrir. 
  
 
-
+## JOUR 4 – PUBLICATION
 
 **Résumé**
 
