@@ -47,7 +47,7 @@ Le choix de ces données est motivé par une volonté politique. En effet, la st
 
 [https://app.mindmup.com/map/_free/2021/11/7abb4a004c7211ec96c30b2ebdaeb084](https://app.mindmup.com/map/_free/2021/11/7abb4a004c7211ec96c30b2ebdaeb084)
 
-**Wanted Data List (lien du document) : **
+**Wanted Data List (lien du document) :**
 
 [https://docs.google.com/spreadsheets/d/1_RSwSX_iHbeV3OVenaIf1lhIZied0LtUx00wMb-LJ8E/edit#gid=942129362](https://docs.google.com/spreadsheets/d/1_RSwSX_iHbeV3OVenaIf1lhIZied0LtUx00wMb-LJ8E/edit#gid=942129362)
 
