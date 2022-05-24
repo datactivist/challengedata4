@@ -67,6 +67,6 @@ Célia, Jade, Louise et Tania ont ensuite participé à compléter les fiches su
 
 Enzo a conçu un modèle de publication que l’office du tourisme peut publier sur son instagram pour expliquer ce que sont les open data. Louise et Tania ont conçu un modèle de post facebook, également pour l’office du tourisme, afin d’expliquer comment utiliser les données. De plus, Enzo a réalisé le guide à publier sur le site internet de la communauté de commune de Maurienne Galibier expliquant ce que sont les open data et comment les utiliser, mais aussi pourquoi la collectivité aurait intérêt à s’investir dans ce domaine et inciter les personnes à s’y intéresser. 
 
-Nous avons également publié les fiches explicatives contentant les datavisualisations sur le site[data.gouv.fr](http://data.gouv.fr). 
+Nous avons également publié les fiches explicatives contentant les datavisualisations sur le site [data.gouv.fr](http://data.gouv.fr). 
 
 
