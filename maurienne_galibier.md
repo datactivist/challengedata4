@@ -57,7 +57,7 @@ Enzo a pris en charge la rédaction du plan de communication qui a été complé
 
 Jade et Louise ont créé un compte sur data.gouv.fr pour la collectivité et ont effectué une demande de certification. Nous avons ensuite envoyé un mail à M.T. pour lui demander son autorisation de transfert du rôle d’administrateur. Jade et Tania ont également publié les fiches descriptives et les jeux de données des taxes de séjour sur le site Data.gouv.fr. Avec Louise, elles ont aidé à compléter les fiches descriptives et Louise a ajouté la fiche pour le nouvel onglet APIDAE “Activité”. 
 
-**JOUR 5 – VALORISATION**
+## JOUR 5 – VALORISATION
 
 
 
