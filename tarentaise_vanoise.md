@@ -25,7 +25,7 @@ Le choix de ces données est motivé par une volonté politique. En effet, la st
 
 
 
-**Wishlist **
+**Wishlist**
 
 ![](https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/Tarentaise-Vanoise.png)
 
