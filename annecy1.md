@@ -78,7 +78,7 @@ Notre wanted database se concentre sur :
 Organigramme des personnes ressources pour la collecte des données :
     
 
-![](https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/annecy1_organigramme.PNG)
+![](https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/annecy1_organigramme.png)
 
 
 
