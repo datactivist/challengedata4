@@ -2,7 +2,7 @@
 
 par C. Chloe, MEYER	Wynona, P. Thomas, U. Lola, STEMMELIN	Valentine, T.-M. Adèle, TRELLU Salome
 
-![](https://github.com/datactivist/challengedata4/blob/main/images_cdb/Clermont2.jpg)
+![](https://github.com/datactivist/challengedata4/blob/main/images_cdb/Clermont1.jpg)
 
 
 ## INTRODUCTION
