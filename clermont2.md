@@ -164,16 +164,16 @@ A bientôt pour de nouvelles dataventures !!
     
     
 **Des cartes en ligne**
-    • Musées:
+* Musées:
 https://umap.openstreetmap.fr/fr/map/carte-sans-nom_685746#11/45.7656/3.1350 
 
-    • Patrimoine historique :
+* Patrimoine historique :
 https://umap.openstreetmap.fr/fr/map/carte-sans-nom_685710#11/45.8045/3.0400
 
-    • Architectures contemporaines remarquables 
+* Architectures contemporaines remarquables 
 https://umap.openstreetmap.fr/fr/map/liste-des-edifices-labellises-architecture-contemp_685545#11/45.7620/3.0054
 
-    • Jardin remarquables 
+* Jardin remarquables 
 https://umap.openstreetmap.fr/fr/map/carte-sans-nom_685774
 
  
