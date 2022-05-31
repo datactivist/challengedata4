@@ -14,6 +14,8 @@ Nous avons convenu d’un rendez-vous sur Google Meets afin d’établir un prem
 
 
 *Diagnostic*
+
+
 La collectivité de Saint-Jean-De-Luz n’avait pas pour habitude de publier des jeux de données, et souhaite à travers cette démarche enclencher une nouvelle dynamique de publication en _opendata_. Elle a, en ce sens, récemment fait appel à ANTIC pour publier ses deux premiers jeux de données, traduisant sa motivation. 
 
 De plus, lors de l’entretien, notre référent a évoqué les différents freins existants ralentissant la démarche d’ouverture des jeux de données, notamment les habitudes de travail des agents de la collectivité face aux nouvelles techniques d’information et de communication et de la digitalisation. 
@@ -29,7 +31,9 @@ Lien de la whishlist : [https://docs.google.com/spreadsheets/d/1qJvblRACTjhnkxCQ
 
 ## JOUR 2 – IDENTIFICATION
 
+
 *Matinée*
+
 
 Nous nous sommes lancés dans la recherche de données à partir de la wish list réalisée hier. Notre référent, Directeur du Service Informatique à la mairie de St Jean de Luz, l’a complété et modifié afin de nous fournir les contacts les plus à mêmes de nous renseigner. 
 
@@ -48,7 +52,9 @@ Suite à ces difficultés, nous avons pris l’initiative de contacter ANTIC. L�
 Selon eux, nous ne pourrons accéder à de nouvelles données, ils nous ont proposé d’effectuer une valorisation de données déjà publiées. Nous avons également pris l’initiative de contacter le Service des Sports, afin d’explorer des thématiques secondaires de la Wish List. L’interlocutrice a été coopérative mais n’a pas envoyé de jeu de données de qualité. Cela est dommage car nous avions pour idée de référencer le nombre de licenciés dans les différents clubs de sport de la commune. 
 
 
+
 *Après midi*
+
 
 
 Après un appel téléphonique avec notre référent, nous avons reçu plusieurs jeux de données. A ce stade, les jeux de données semblent plus ou moins exploitables car très éloignés des templates normés. Après avoir fait un état des lieux de la nature de ces données, nous avons donc fait un bilan avec notre référent en fin de journée afin d’ identifier quelles données étaient exploitables et établir notre wanted wishlist : nous avons décidé d’en présélectionner 3, dont 2 prioritaires : délibérations, liste des prénoms ; et 1 secondaire : subventions. Nous avons écarté plusieurs jeux de données qui étaient inexploitables. 
@@ -77,14 +83,19 @@ Nous nous sommes donc répartis le travail par petits groupes pour la matinée :
 Cette après midi, nous avons tous travaillé sur plusieurs tâches, pour s’aider les uns les autres. 
 
 
+
 *Publication des données et remplissage des fiches*
+
+
 
 Concernant les fiches descriptives sur les jeux de données, nous devons rédiger les métadonnées associées à nos jeux de données, pour renseigner les utilisateurs sur leur contenu et leur possible utilisation. 
 Ensuite, nous devrons publier ces données. Nous avons vu avec notre référent et les données seront publiées sur OpenData PaysBasque.  
 Après avoir eu l’accès, nous avons pu publier les données sans problème sur le site ! 
 
 
+
 *Stratégie OpenData et communication de la collectivité*
+
 
 Concernant la communication, nous nous sommes mis d’accord avec notre référent dans la collectivité, concernant la stratégie de communication que nous allions adopter. En effet, le but est de servir les besoins de la collectivité. Le besoin le plus urgent est une communication en interne  concernant l’utilité de l’opendata. La stratégie recherchée étant de décentraliser le traitement des données par service, en instaurant un automatisme au sein de la collectivité, de mise à jour des données aux standards nationaux. 
 
@@ -120,7 +131,9 @@ Puis nous nous sommes départagés les fiches descriptives de chaque graphique, 
 
 Nous avons eu un appel final à 15h avec M.Bourdoulous pour présenter nos graphiques et se mettre d'accord sur leur publication. Ce dernier est content d’avoir travaillé avec nous, et nous remercie d’avoir été si patients. Il reconnaît que notre travail n’a pas été facile et il est reconnaissant du travail que nous avons fourni. Il ne souhaite pas faire la présentation sur _Gather_, et nous souhaite bonne continuation. 
 
+
 **Annexes:**
+
 
 *Visualisations des thématiques des délibérations prises par la ville de saint jean de luz en 2019 et 2020* 
 
