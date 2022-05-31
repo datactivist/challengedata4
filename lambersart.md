@@ -5,82 +5,55 @@ par COUSIN M, DE RAVALIERE Whitney, GARCIA Mateo, GUIEU Capucine, SIMON Victor
 
 ## JOUR 1 – DIAGNOSTIC
 
+*Présentation de la collectivité*
+    
+Lambersart est une ville du département du Nord, intégrée dans la métropole européenne de Lille. Elle est composée de 27 415 habitants. L’équipe municipale est majoritairement composée d’élus “divers centre” depuis les élections de 2020. Ville assez fleurie, cette dernière est néophyte dans l’utilisation des données et l’opendata. Il y a 600 agents municipaux.
 
-    _Ce carnet de bord est destiné à écrire le récit de vos aventures ! Il doit être complété tout au long des étapes de ce patchwork._
+*Réunion de 14 heures*
+
+Entretien avec une personne en charge des usages numériques innovants. Le service numérique a commencé à s’intéresser à l'open data depuis quelques mois. Deux jeux de données ont été publiés sur le portail opendata de la MEL (nappes phréatiques et places PMR) avec de la datavisualisation.  Les motivations principales sont l’avenir de la donnée, la valorisation et le devenir de la donnée. Il y a un objectif  de rendre des données accessibles à court terme. Pour autant, la position de la ville encourage la collecte et le traitement des données mais reste prudente vis-à-vis de l’exploitation. L’optique de travail du service est de s’attaquer à des termes techniques avant de toucher au régalien. 
+
+Les élus sont considérés, par le service numérique, comme intéressés mais ayant des réserves sur la publication de données car l’opendata est mal compris. Notre interlocuteur explique que certains jeux de données, dans une dynamique de transparence et de réutilisation citoyenne en direct, semblent être importants pour les élus comme l’exemple de projet du contrôle des taux de CO2 en direct dans les classes d’école.  Pour autant, certains jeux sont considérés comme sensibles et/ou sans intérêt par ces derniers. Il n’y a pas de gestion des données centralisées; chaque service crée des données qui ne sont, pour la majeure partie, pas standardisées. L’usage de ces dernières ne sont pas vraiment concrètes car récoltées en vrac.
+
+Les attentes de l’interlocuteur sont sur des sujets plus ou moins politiques qui nécessitent donc un accord des services concernés. Par exemple, les données sur les thèmes “régaliens” comme le budget ou les subventions pourraient être exploitées sous réserve d’accord des responsables. L’aspect technique est privilégié.
+Nous avons fixé des dates de réunion: mardi à 16h30, vendredi 9h00. L’interlocuteur est très présent et impliqué.
+
+*Réception des jeux de données*
+
+Nous avons reçu un jeu de données sur les arbres. Malheureusement, ce dernier manque de nombreuses données ce qui le rend quasi-inexploitable. Nous avons reçu des jeux de données non demandés dans la wishlist qui montrent l'intérêt de l'interlocuteur pour les données techniques utiles au quotidien pour les citoyens. En effet, elles sont moins “politiques” et plus concrètes. Nous sommes dans l’attente des autres jeux dans la matinée de mardi. 
 
 
-<table>
-  <tr>
-   <td><strong>PARTIE</strong>
-   </td>
-   <td><strong>Rédacteur/rédactrice</strong>
-   </td>
-   <td><strong>Note</strong>
-   </td>
-   <td><strong>Observations</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>1. Diagnostic
-   </td>
-   <td>Victor
-   </td>
-   <td>3
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>2. Identification
-   </td>
-   <td>Capucine
-   </td>
-   <td>3
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>3. Mise en qualité
-   </td>
-   <td>Ines
-   </td>
-   <td>4
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>4. Publication
-   </td>
-   <td>Whitney  
-   </td>
-   <td>4
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>5. Valorisation
-   </td>
-   <td>Matéo
-   </td>
-   <td>4
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Conclusion
-   </td>
-   <td>Margaux
-   </td>
-   <td>4
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
+
+## JOUR 2 – IDENTIFICATION
+
+Nous avons débuté la journée en visionnant les vidéos tutos sur l’exploration à la recherche de données. Grâce à cela, nous avons réussi à mettre les bases de données reçues dans les templates. 
+
+*Réalisation de l’organigramme* 
+
+Envoi de mail à notre interlocuteur afin d’avoir le détail des sources des données ainsi que des directions, services concernés par rapport à nos données. Réponse de ce dernier nous confirmant qu’il était notre seul interlocuteur et qu’il centralise donc toutes les données. Nous avons donc la possibilité d’être en contact avec un seul et même interlocuteur durant notre semaine. 
+
+*Réception de nouveaux jeux de données de la part de notre interlocuteur*
+
+Lieux de stationnement, parking à vélo, défibrillateurs. Évaluation des données en fonction de ce qui a été envoyé en complétant avec des recherches internet (sites de la MEL, data.gouv, monmaire.fr). En l'occurrence, toutes les informations manquantes des jeux de données par rapport aux templates ont été trouvées suite à nos recherches (pour la liste des élus par exemple). 
+
+A ce stade, nous avons retenu trois jeux de données que l’on considère les plus judicieux d’ouvrir. Il s’agit de la liste des élus, des défibrillateurs ainsi que la base de commerces. Car ce sont les plus complets en termes d’informations disponibles. 
+Nous avons de nouveau sollicité notre interlocuteur par rapport aux jeux de données envoyés de sa part des parkings à vélos et des lieux de stationnement car trop d’informations manquaient. Il nous a répondu ne pas avoir de données complémentaires pour ceux-ci. Il nous semble donc compliqué d’exploiter ces jeux de données. 
+Nous avons aussi demandé à notre interlocuteur l’envoi des bases de données plus sensibles et  litigieuses qui sont les délibérations, le budget, les subventions et les marchés publics. 
+
+L'après-midi nous avons reçu de la part de notre interlocuteur les jeux de données des marchés publics et du budget. Il nous a dit que concernant les délibérations, les données ne sont pas exploitables. 
+
+Suite au point avec notre référent, il a été convenu de retenir quatre jeux de données à proposer à notre interlocuteur. Il s’agit de la liste des élus ; les défibrillateurs ; les marchés publics ; la base de commerces. Ces quatre jeux de données sont complémentaires dans leur argument de publication. En effet, certains ont une utilité pour la transparence de l’action publique tandis que d’autres bénéficient aux citoyens. Enfin, ils correspondent chacun à un niveau de difficulté différent. 
+
+Lors de notre entretien avec notre interlocuteur, ce dernier a validé notre proposition concernant l’ouverture des quatre jeux de données. Il nous a aussi confirmé la validation de la part du DGS de publier les jeux de données de la ville. Cependant, il a émis une réserve concernant la publication du jeux de données des marchés publics car la mise à jour date d’avril 2021 donc des modifications et vérifications seront sûrement à faire. Il a validé notre demande de publication sur MEL et sur datagouv. Pour finir, nous lui avons demandé des précisions quant au jeu de données de la base de commerces : il s’agit d’un recensement des commerces de la ville datant d’avril 2021 dans l’objectif d’une gestion politique. L’accès à ces données est lié au fait qu’elles ont été recensées sur un logiciel que la ville a cessé d’utiliser à partir d’avril 2021 donc les données ont été extraites. En conclusion de l’échange, notre interlocuteur est satisfait de l’avancée du projet et nous avons fixé un rendez-vous pour demain à 14h pour le suivi. 
+
+En fin de journée, nous avons commencé l'exploitation des données concernant la liste des élus. Les informations envoyées par notre interlocuteur ont dû être complétées par des recherches parallèles (notamment sur le site monmaire.fr) 
+
+ **Annexes:**
+ 
+ Wanted data list :
+
+![](https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/Wanteddatalist_Lambersart.png)
+ 
 
 
 
