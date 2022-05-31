@@ -1,7 +1,7 @@
 # Carnet de bord de l'ouverture des données de Lambesart (groupe 6)
 
 par COUSIN M, DE RAVALIERE Whitney, GARCIA Mateo, GUIEU Capucine, SIMON Victor
-![](https://github.com/datactivist/challengedata4/blob/main/images_cdb/Annecy1.jpg)
+![](https://github.com/datactivist/challengedata4/blob/main/images_cdb/Lambersart.jpg)
 
 ## JOUR 1 – DIAGNOSTIC
 
