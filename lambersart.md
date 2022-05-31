@@ -111,8 +111,11 @@ Nous avons ensuite appelé le collègue de Pierre dans l’intention d’obtenir
 
 *Liens vers nos données publiées*
 DAE : [https://opendata.lillemetropole.fr/backoffice/catalog/datasets/dae-de-la-ville-de-lambersart/#sources]
+
 Base de commerce : [https://opendata.lillemetropole.fr/backoffice/catalog/datasets/base-de-commerce-de-la-ville-de-lambersart/#sources]
+
 Liste des élus : [https://opendata.lillemetropole.fr/backoffice/catalog/datasets/liste-des-elus-de-la-ville-de-lambersart/#sources]
+
 Marchés publics : [https://opendata.lillemetropole.fr/backoffice/catalog/datasets/marches-publics-de-la-commune-de-lambersart/#sources]
 
 *Lien vers les fiches descriptives*
