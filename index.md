@@ -2,5 +2,4 @@
 
 ## Annecy, groupe 1 \(Commune\)
 
-[![Illustration réalisé par Anne-Cécile Calléjon](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/Annecy1.jpeg)](https://datactivist.coop/challengedata4/annecy1)
-
+[![Illustration réalisé par Anne-Cécile Calléjon](https://github.com/datactivist/challengedata4/blob/main/images_cdb/Annecy1.jpg)](https://datactivist.coop/challengedata4/annecy1)
