@@ -2,7 +2,7 @@
 
 par MAILLY Felix, MALEVERGNE Alienor, PAUTHIER Clementine, PEUGNIEZ Paul-Louis, ROLIN Faustine, VILLEROY DE GALHAU Blanche
 
-![](https://github.com/datactivist/challengedata4/blob/main/images_cdb/Annecy1.jpg)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/Annecy1.jpg)
 
 ## JOUR 1 – DIAGNOSTIC
 
