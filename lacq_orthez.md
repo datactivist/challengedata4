@@ -40,7 +40,7 @@ Le résultat du questionnaire nous surprend un peu. Malgré une certaine expéri
 Nous nous accordons pour déterminer une wishlist assez courte du fait de la volonté de la Communauté.
 
 
-![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/LO1.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/LO1.png)
 
 
 **Résumé :**
@@ -99,7 +99,7 @@ Nous arrivons, quasiment dans la foulée, à contacter un agent et nous obtenons
 Dans le même temps, nous séparons le travail en attendant la réponse finale de la communauté des communes sur la question des jeux de données des bibliothèques. Une partie du groupe s’occupe donc de travailler sur l’inclusion numérique tandis que les autres s’occupent de travailler sur l’organigramme. Connaissant nos objectifs généraux sur la question des bibliothèques nous arrivons à finaliser avant la pause l’organigramme. Nous mettons en commun en expliquant la démarche de la construction de l’organigramme. Après quelques modifications, nous validons l’organigramme que l’on souhaite par la suite présenter par la suite à nos référents dans l’après midi : 
 
 
-![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/LO2.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/LO2.png)
 
 
 Nous mettons également en commun les différentes recherches effectuées par l’autre partie du groupe. L’idée de faire un point ensemble nous semblait important pour pouvoir appréhender au mieux la réunion de l'après-midi ainsi que le travail de ces prochains jours. 
@@ -112,7 +112,7 @@ Ensuite l’idée est de mettre en commun afin que toutes les informations soien
 
 
     
-![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/LO3.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/LO3.png)
 
 La réunion est prévue à 15h. Comme pour la première réunion, nous décidons de séparer les tâches. Les tâches sont séparées de la manière suivante : 
 
@@ -241,7 +241,7 @@ A la fin de la journée, Guillaume a pris en charge l’envoi du mail de bilan a
 
 D’une manière générale le groupe est aussi soudé et motivé qu’au début, l’ambiance de travail est joyeuse!
 
-![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/LO4.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/LO4.png)
 
 
 **Url des jeux de données publiés : https://cc-lacqorthez-data64.opendatasoft.com/explore/?sort=modified&fbclid=IwAR37eAdA9r4_8Nimo7bXfMCH3KzK39euFiDGO3eqgAG1zrt8Q_SDr3wNTCY**
@@ -305,7 +305,7 @@ Notre tâche est complexe et nous comprenons rapidement qu’il ne va pas falloi
 
 Par la suite, Tristan et Audrey ont créé une nouvelle page sur le site open data de la commune, nos apprentis codeurs ont réussi avec brio cette tâche! Arthur a créé un Canva et chacun d’entre nous  a déposé la visualisation sur laquelle il travaillait. Nous avons ensuite dégusté des pizzas que Yann et Mathilde sont allés chercher. 
 
-![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/LO6.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/LO6.png)
 
 
 Après le déjeuner, Mathilde reprend le carnet de bord car Arthur, notre pro du visuel, devait réaliser un powerpoint de présentation de notre travail. Guillaume appelle dans le même temps un agent, en charge du site web de la CCLO car nous avions besoin de son autorisation et de son guidage pour rendre les données publiques. Ce dernier a validé la publication des jeux de données et la création de la nouvelle page du site Web. Yann, Guillaume et Mathilde bouclent ensuite les fiches de contexte des data visualisation pendant que Tristan et Audrey finissent leur travail sur le site. Nous sommes à quelques minutes de la fin....
@@ -364,13 +364,13 @@ Après le déjeuner, Mathilde reprend le carnet de bord car Arthur, notre pro du
 
 Nos datavisualisations :
 
-![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/LO7.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/LO7.png)
 
-![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/LO8.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/LO8.png)
 
-![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/LO9.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/LO9.png)
 
-![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/L010.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/L010.png)
 
 
 ## CONCLUSION
@@ -400,6 +400,6 @@ Notre plus belle réussite :
 
 Notre plus grande réussite a été de savoir travailler tous ensemble dans une optique d’intelligence collective. Nous avons réussi à surmonter ensemble les difficultés rencontrées. La cohésion de groupe a été très forte ce qui a permis de rester toute la semaine dans une attitude positive. 
 
-![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/LO11.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/LO11.png)
 
 _Une semaine rondement organisée ! _
