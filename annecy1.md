@@ -1,6 +1,7 @@
 # Carnet de bord de l'ouverture des données d'Annecy (groupe 1)
 
 par MAILLY Felix, MALEVERGNE Alienor, PAUTHIER Clementine, PEUGNIEZ Paul-Louis, ROLIN Faustine, VILLEROY DE GALHAU Blanche
+
 ![](https://github.com/datactivist/challengedata4/blob/main/images_cdb/Annecy1.jpg)
 
 ## JOUR 1 – DIAGNOSTIC
