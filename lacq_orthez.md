@@ -403,4 +403,4 @@ Notre plus grande réussite a été de savoir travailler tous ensemble dans une 
 
 ![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/LO11.png)
 
-_Une semaine rondement organisée ! _
+_Une semaine rondement organisée !_
