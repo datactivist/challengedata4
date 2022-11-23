@@ -2,7 +2,7 @@
 
 D.F, FONTAINE Lucie, G.Claire, T.L, Enora.M, NOËL Martin 
     
-![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/Bayonne.jpg)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/Bayonne.png)
 
 
 ## JOUR 1 – DIAGNOSTIC
@@ -258,13 +258,13 @@ A l’issue de cet entretien, il a été convenu que :
 * Le manque de coopération et le refus d'envoyer des templates de la part d'une agente ne permettra sans doute pas de travailler sur le jeu de données des “taxes de séjour”.
 
   
-![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Bayonne2.jpg)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Bayonne2.png)
 
 
 ## JOUR 3 – MISE EN QUALITE
 
 
-**Résumé : **
+**Résumé :**
 
 
 <table>
@@ -325,7 +325,7 @@ A la suite du brief matinal, notre équipe est montée s’installer sur la mezz
 
 F.D s’est excusé par message privé sur la conversation Messenger de notre groupe ainsi que officiellement par mail auprès de Julia et Allyson de ne pouvoir travailler en présentiel aujourd’hui. Des obligations lui demandent d’être présent en fin de journée à Choisy-au-Bac (Oise) à la suite de l’incendie du gymnase André-Mahé ayant eu lieu mardi 23 novembre 2021. Sa journée a ainsi eu lieu intégralement en télétravail. Il a été virtuellement présent toute la journée avec nous sur la plateforme _Gather_ et son travail a pu être constaté sur les Google sheets.
 
-![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Bayonne3.jpg)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Bayonne3.png)
     
 
 En raison d’un manque d’informations sur la taxe de séjour de la ville de Bayonne, notamment l’absence de données sur le montant de la taxe de séjour et l’absence de différenciation entre les nuitées facturées et les nuitées exonérées, il a été décidé de ne pas traiter ce jeu de données durant la semaine. En effet, mardi en fin de journée, nous nous étions laissés la possibilité de réaliser ce jeu de données si nous obtenions les informations manquantes. Toutefois, à la suite d’un échange par mail entre Lucile BOUVIER et Claire, les données demandées n’ont malheureusement pu nous être fournies : les documents reçus ne correspondaient pas aux informations nécessaires et Lucile BOUVIER est en congé depuis aujourd’hui.
@@ -334,7 +334,7 @@ En raison d’un manque d’informations sur la taxe de séjour de la ville de B
 En début de journée, nous avons reçu un mail de notre interlocutrice nous informant d’une erreur sur l’organigramme fourni la veille : Lucile BOUVIER est, en effet, rattachée à la Direction des finances et non à l’Office du tourisme. T.L a ainsi corrigé l’organigramme et Lucie FONTAINE s’est chargée de renvoyer un mail avec une photo png de l’organigramme corrigé ainsi que le lien Mindmup pour y accéder en ligne.
 
 
-![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Bayonne4.jpg)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Bayonne4.png)
 
 
 
@@ -366,7 +366,7 @@ Lucie FONTAINE a envoyé un mail récapitulatif à nos interlocutrices en fin de
 
 
 
-![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Bayonne5.jpg)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Bayonne5.png)
 
 ## JOUR 4 – PUBLICATION
 
@@ -391,7 +391,7 @@ _Fiches descriptives : [https://docs.google.com/presentation/d/1mOAniJ8qGI6MxyRz
 
 _Plan de communication : [https://docs.google.com/document/d/1l1mbNkVszMTzs7wwNgFS0eevRn0HG5vl/edit?pli=1&fbclid=IwAR1jetIvgGrtlGVKjnlvw2t9fXEKOwrbmDpqbXRSii_OwcLMincAENg-CxA#](https://docs.google.com/document/d/1l1mbNkVszMTzs7wwNgFS0eevRn0HG5vl/edit?pli=1&fbclid=IwAR1jetIvgGrtlGVKjnlvw2t9fXEKOwrbmDpqbXRSii_OwcLMincAENg-CxA#) _
 
-**Résumé : **
+**Résumé :**
 
 
 <table>
@@ -445,7 +445,7 @@ _Plan de communication : [https://docs.google.com/document/d/1l1mbNkVszMTzs7wwNg
   </tr>
 </table>
 
-![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Bayonne6.jpg)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Bayonne6.png)
 
 
 Après le briefing du jour, le groupe s’est rapidement mis au travail en regardant la documentation autour d’un petit déjeuner apporté par l'un de nous. Suite à la lecture des vidéos, le travail a été réparti de la manière suivante :
@@ -481,7 +481,7 @@ Lucie a repéré une erreur sur les coordonnées géographiques dans le tableau 
 Les visuels “défibrillateurs” et “arbres” sont réalisés pour 12 heures par Claire et T.L. De plus, le billet d’information a été produit par T.L. F.D a rédigé le mail devant informer en interne les agents et les élus de la collectivité de l’ouverture des données sur les attributs des arbres et la localisation des défibrillateurs. L’ensemble a été ajouté dans un dossier dédié sur le drive et les liens URL sont présents dans le plan de communication.
 
 
-![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Bayonne7.jpg)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Bayonne7.png)
    
 Après la pause déjeuner, l’équipe a réalisé le point hebdomadaire avec nos interlocutrices à 14h30. L’objectif de cet appel sur Gather était d’échanger sur la publication des données, vérifier les informations des fiches descriptives et connaître leurs demandes en matière de communication et de production de datavisualisations. 
 
@@ -508,38 +508,32 @@ Enora a rédigé le mail quotidien récapitulant les activités et les livrables
 
 * _Graphique de la répartition des défibrillateurs (URL & visualisation) : [https://docs.google.com/spreadsheets/d/17akHn5uryRGf-cA7bKYkySZn8o11Ubjk/edit#gid=1876586133](https://docs.google.com/spreadsheets/d/17akHn5uryRGf-cA7bKYkySZn8o11Ubjk/edit#gid=1876586133) _
 
-![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Bayonne8.jpg)
-
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Bayonne8.png)
 
 * _Graphique des dix arbres les plus présents dans la ville de Bayonne (URL & visualisation) : [https://docs.google.com/spreadsheets/d/1PxWznDfBSu8L75cCxAVNMsYM7m2hgSkfjtL_wTkZVuI/edit#gid=1242201102](https://docs.google.com/spreadsheets/d/1PxWznDfBSu8L75cCxAVNMsYM7m2hgSkfjtL_wTkZVuI/edit#gid=1242201102) _
 
-![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Bayonne9.jpg)
-
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Bayonne9.png)
 
 * _Affiche représentant l’arbre représentatif de Bayonne :_
 
- ![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Bayonne10.jpg)
-
+ ![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Bayonne10.png)
 
 * _carte de la disposition des défibrillateurs dans la ville : _
 
 _[https://l.facebook.com/l.php?u=https%3A%2F%2Fumap.openstreetmap.fr%2Ffr%2Fmap%2Fdefibrillateurs-de-la-ville-de-bayonne_685700%3Ffbclid%3DIwAR0sbPv3ZRG2Ma2AqaAOOgpLzvwfhKDjGsGjWs0a8Liw5jmMu6AURDgXcD0%2314%2F43.4917%2F-1.4711&h=AT0M67-zllUZWiB7AlhbATrTkBNYE-xgAYHKIVshMBckcGsbbAqHH9BURRmaQpfrF0YBT7n786VsjSQEPtFUHt30wIhubC0UFBhRYQ9J4zWYHrhtbd1BEhDeftxEmA06KSGO4fy6zZopo-KuI7cj7A](https://l.facebook.com/l.php?u=https%3A%2F%2Fumap.openstreetmap.fr%2Ffr%2Fmap%2Fdefibrillateurs-de-la-ville-de-bayonne_685700%3Ffbclid%3DIwAR0sbPv3ZRG2Ma2AqaAOOgpLzvwfhKDjGsGjWs0a8Liw5jmMu6AURDgXcD0%2314%2F43.4917%2F-1.4711&h=AT0M67-zllUZWiB7AlhbATrTkBNYE-xgAYHKIVshMBckcGsbbAqHH9BURRmaQpfrF0YBT7n786VsjSQEPtFUHt30wIhubC0UFBhRYQ9J4zWYHrhtbd1BEhDeftxEmA06KSGO4fy6zZopo-KuI7cj7A) _
 
-![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Bayonne11.jpg)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Bayonne11.png)
 
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Bayonne12.png)
 
-![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Bayonne12.jpg)
-
-
-
-![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Bayonne13.jpg)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Bayonne13.png)
 
 
 * _Vidéos de représentation de la mise en conformité des données concernant les défibrillateurs et les arbres : [https://drive.google.com/drive/folders/1WuuOWWYQHEnp6CnRkuA1K75Sto9XMJP0?fbclid=IwAR0bk5XfVZKbqVG_UXkNf_hv_h77p7ExQxRANKX2XIQzogdu8YU239SkdZk](https://drive.google.com/drive/folders/1WuuOWWYQHEnp6CnRkuA1K75Sto9XMJP0?fbclid=IwAR0bk5XfVZKbqVG_UXkNf_hv_h77p7ExQxRANKX2XIQzogdu8YU239SkdZk) _
 
 _[https://drive.google.com/drive/folders/1WuuOWWYQHEnp6CnRkuA1K75Sto9XMJP0?fbclid=IwAR0bk5XfVZKbqVG_UXkNf_hv_h77p7ExQxRANKX2XIQzogdu8YU239SkdZk](https://drive.google.com/drive/folders/1WuuOWWYQHEnp6CnRkuA1K75Sto9XMJP0?fbclid=IwAR0bk5XfVZKbqVG_UXkNf_hv_h77p7ExQxRANKX2XIQzogdu8YU239SkdZk) _
 
-![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Bayonne14.jpg)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Bayonne14.png)
 
 
 **Résumé :**
@@ -654,7 +648,7 @@ Enora s’est chargé d’envoyer le dernier mail à tous nos interlocuteurs, c�
 En guise de fin du challenge, les organisateurs avaient prévu un cocktail en présence de tous les acteurs de cette semaine. Un bon moyen de décompresser après une semaine intense et formatrice. 
 
 
-![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Bayonne15.jpg)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Bayonne15.png)
 
 
 ## CONCLUSION
