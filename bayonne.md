@@ -2,7 +2,7 @@
 
 D.F, FONTAINE Lucie, G.Claire, T.L, Enora.M, NOËL Martin 
     
-![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/Bayonne.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/Bayonne.jpg)
 
 
 ## JOUR 1 – DIAGNOSTIC
