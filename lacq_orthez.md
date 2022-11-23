@@ -8,6 +8,7 @@ par BALOCHE	Tristan, D'ARMAGNAC	Mathilde, KARAMANOUKIAN	Audrey, LERAY Yann, MORA
 
 Notre équipe travaille auprès de la Communauté de Communes de Lacq-Orthez, dans le département des Pyrénées-Atlantiques en Région Nouvelle-Aquitaine. Cette collectivité, créée en 2014, comprend 61 communes pour un total de 53 184 habitants (2018) et une superficie de 73 habitants/km².
 
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/LO1.png)
 
 Après une réunion avec l’ensemble de la promotion, nous faisons un état des lieux des tâches qui nous attendent aujourd’hui. Notre volonté première était de prendre rapidement en main les outils pour pouvoir maîtriser un environnement qui ne nous est pas familier. Nous prenons attache avec notre référente pour nous présenter et confirmer notre rendez-vous dans l’après-midi à 15 heures.
 
@@ -40,7 +41,7 @@ Le résultat du questionnaire nous surprend un peu. Malgré une certaine expéri
 Nous nous accordons pour déterminer une wishlist assez courte du fait de la volonté de la Communauté.
 
 
-![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/LO1.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/LO2.png)
 
 
 **Résumé :**
@@ -99,7 +100,7 @@ Nous arrivons, quasiment dans la foulée, à contacter un agent et nous obtenons
 Dans le même temps, nous séparons le travail en attendant la réponse finale de la communauté des communes sur la question des jeux de données des bibliothèques. Une partie du groupe s’occupe donc de travailler sur l’inclusion numérique tandis que les autres s’occupent de travailler sur l’organigramme. Connaissant nos objectifs généraux sur la question des bibliothèques nous arrivons à finaliser avant la pause l’organigramme. Nous mettons en commun en expliquant la démarche de la construction de l’organigramme. Après quelques modifications, nous validons l’organigramme que l’on souhaite par la suite présenter par la suite à nos référents dans l’après midi : 
 
 
-![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/LO2.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/LO3.png)
 
 
 Nous mettons également en commun les différentes recherches effectuées par l’autre partie du groupe. L’idée de faire un point ensemble nous semblait important pour pouvoir appréhender au mieux la réunion de l'après-midi ainsi que le travail de ces prochains jours. 
@@ -112,7 +113,7 @@ Ensuite l’idée est de mettre en commun afin que toutes les informations soien
 
 
     
-![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/LO3.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/LO4.png)
 
 La réunion est prévue à 15h. Comme pour la première réunion, nous décidons de séparer les tâches. Les tâches sont séparées de la manière suivante : 
 
@@ -241,7 +242,7 @@ A la fin de la journée, Guillaume a pris en charge l’envoi du mail de bilan a
 
 D’une manière générale le groupe est aussi soudé et motivé qu’au début, l’ambiance de travail est joyeuse!
 
-![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/LO4.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/LO5.png)
 
 
 **Url des jeux de données publiés : [https://cc-lacqorthez-data64.opendatasoft.com/explore/?sort=modified&fbclid=IwAR37eAdA9r4_8Nimo7bXfMCH3KzK39euFiDGO3eqgAG1zrt8Q_SDr3wNTCY](https://cc-lacqorthez-data64.opendatasoft.com/explore/?sort=modified&fbclid=IwAR37eAdA9r4_8Nimo7bXfMCH3KzK39euFiDGO3eqgAG1zrt8Q_SDr3wNTCY)**
