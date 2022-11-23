@@ -1,6 +1,7 @@
 # Carnet de bord de l'ouverture des données de Marseillan
 
 par Jonathan C., Lisa CRUELLS, Adam GOURVEST, Yasmina KORVAL, Adonis LEROYER et Alexandre SELLES
+![](https://github.com/datactivist/challengedata4/blob/main/images_cdb/Marseillan.jpg)
 
 ## JOUR 1 – DIAGNOSTIC
 
