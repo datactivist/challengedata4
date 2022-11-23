@@ -371,7 +371,7 @@ Nos datavisualisations :
 
 ![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/LO9.png)
 
-![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/L010.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/LO10.png)
 
 
 ## CONCLUSION
