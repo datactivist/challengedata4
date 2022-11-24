@@ -1,6 +1,6 @@
 # Carnet de bord de l'ouverture des données de Marseille
 
-par BEULZ Noé, FENIGER	Claire, FICARA Cyprien, LESTANG Juliette, MOSS	Pierre, SLAOUTI	Lyna, WATTEZ-BOUQUET Paul-Emile
+par B.N, FENIGER	Claire, F.C, L.J, M.Pierre, S.Lyna, W-B.Paul-Emile
 
 ![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/Marseille.jpg)
 
@@ -8,7 +8,7 @@ par BEULZ Noé, FENIGER	Claire, FICARA Cyprien, LESTANG Juliette, MOSS	Pierre, S
 **Introduction - “Des bateaux j’en ai pris beaucoup…”**
 
 
-Au moment de quitter le port, nous partons avec un équipage soudé. Nous nous connaissons déjà très bien et l’état d’esprit est bon. Le ton est malicieux, des blagues fusent. Nous sommes 7, venant en majorité de la spécialité droit et action publique (Noé, Juliette, Paul-Emile, Pierre et Cyprien). Lyna et Claire, respectivement en spécialité Économie-Finance et Culture-Communication, apportent un regard différent qui rend notre approche pluridisciplinaire. Quant au Challenge, entre les retours contrastés des anciens élèves et le flou sur le contenu pratique, nous sommes dans l'expectative. Malgré tout, nous sommes contents d’aider une collectivité plutôt qu’une entreprise privée et de nous lancer dans un travail bien plus concret que nos cours classiques. 
+Au moment de quitter le port, nous partons avec un équipage soudé. Nous nous connaissons déjà très bien et l’état d’esprit est bon. Le ton est malicieux, des blagues fusent. Nous sommes 7, venant en majorité de la spécialité droit et action publique (N.B, J.L, Paul-Emile, Pierre et C.F). Lyna et Claire, respectivement en spécialité Économie-Finance et Culture-Communication, apportent un regard différent qui rend notre approche pluridisciplinaire. Quant au Challenge, entre les retours contrastés des anciens élèves et le flou sur le contenu pratique, nous sommes dans l'expectative. Malgré tout, nous sommes contents d’aider une collectivité plutôt qu’une entreprise privée et de nous lancer dans un travail bien plus concret que nos cours classiques. 
 
 
 A l’annonce de notre ville partenaire, nous sommes étonnés. C’est la deuxième ville de France et sa réputation la précède. Nous sommes étonnés d’aider une collectivité si importante qui devrait avoir les capacités d’exploiter elle-même ses données. Mais, il est de notoriété publique que la ville des Bouches-du-Rhône souffre dans de nombreux domaines d’un manque de moyens, comme en témoigne le plan d’aide spéciale débloqué récemment par le gouvernement. De plus, la récente bascule politique de l'exécutif Marseillais, nous apparaît comme une potentielle opportunité. En effet, le Printemps Marseillais semble vouloir prioriser la transparence, l’écologie et le social: de nombreux domaines dans lequel l’open data peut être utile.
@@ -20,24 +20,24 @@ A l’annonce de notre ville partenaire, nous sommes étonnés. C’est la deuxi
 
 
 
-La ville de Marseille est une très grande ville et lorsque nous nous attelons au diagnostic vers 9h30, après la réunion, nous avons un peu peur de la quantité de données qui risque de se trouver face à nous. Après un bref temps de prise en main de Gather, du Canva ainsi que des différentes bases de données sur la ville de Marseille, N.B. contacte par téléphone Mme Chabalier, chef du projet data de Marseille afin de prévoir un rendez vous l’après-midi à 15h. La prise de contact dès le premier appel est plutôt facile notamment grâce  à l’attention de Mme Chabalier, ce qui nous rassure un peu sur la semaine à venir!
+La ville de Marseille est une très grande ville et lorsque nous nous attelons au diagnostic vers 9h30, après la réunion, nous avons un peu peur de la quantité de données qui risque de se trouver face à nous. Après un bref temps de prise en main de Gather, du Canva ainsi que des différentes bases de données sur la ville de Marseille, N.B. contacte par téléphone notre interlocutrice, chef du projet data de Marseille afin de prévoir un rendez vous l’après-midi à 15h. La prise de contact dès le premier appel est plutôt facile notamment grâce  à l’attention de notre interlocutrice, ce qui nous rassure un peu sur la semaine à venir!
 
 
 Jusqu’à la fin de la matinée nous cherchons à nous approprier les outils à notre disposition tels que le Canva de présentation, les données de data.gouv, celles de la ville de Marseille, les différentes manières dont les données sont traitées en général afin de mieux comprendre ce en quoi peut de consister notre semaine. La très faible quantité de ces données est frappante. Pour en prendre la mesure nous comparons avec d’autres villes : Paris met à disposition 315 jeux de données, la métropole de Lille 496 quand la ville de Marseille n’en propose que 41. Ce ratio d’un facteur 10 est vraiment conséquent, d’autant plus que nous remarquons que certains de ces 41 jeux de données semblent lacunaires ou du moins gagneraient à être plus complets (nous reviendrons dessus). 
 
 
-L’intervention de notre référent Allyson en début d’après midi confirme les grandes idées que nous avions dégagées le matin : le retard de la ville de Marseille dans l’ouverture de ces données est conséquent, tant quantitativement (le nombre de base de données ouvertes) que qualitativement (le contenu de certaines de ces bases de données). Il nous a aussi aiguillés sur les bases de données qui pourraient attirer notre attention. En attendant le rendez vous avec Mme Cabalier nous nous sommes répartis le travail de “défrichage” de celles-ci :
+L’intervention de notre référent Allyson en début d’après midi confirme les grandes idées que nous avions dégagées le matin : le retard de la ville de Marseille dans l’ouverture de ces données est conséquent, tant quantitativement (le nombre de base de données ouvertes) que qualitativement (le contenu de certaines de ces bases de données). Il nous a aussi aiguillés sur les bases de données qui pourraient attirer notre attention. En attendant le rendez vous avec notre interlocutrice nous nous sommes répartis le travail de “défrichage” de celles-ci :
 
 * J.L. et P.M. se penchent sur les bases de données sur les bases nautiques et les plages : celles-ci étaient accessibles sur data.gouv mais aussi sur le site de Marseille. 
 * CF1 se charge des données relatives aux espaces sportifs en accès libre. 
 * L.S et P-E.W-B étudient les données relatives aux marchés de la ville. Des anomalies sont remarquées. Une possible ouverture de ces données est envisagée. 
 * CF2 rédige l’introduction de notre carnet de bord
-* N.B. prépare l’appel prévu avec Mme Chabalier et essaye de comprendre les questions 
+* N.B. prépare l’appel prévu avec notre interlocutrice et essaye de comprendre les questions 
 
 Nous nous sommes rendu compte que dans certains cas, les données sur un même sujet étaient disponibles sur plusieurs plateformes mais en ne contenant pas exactement les mêmes catégories de données, il y a un manque d’harmonisation.
 
 
-A 15h nous avons (non sans mal) pu commencer notre réunion avec Mme Chabalier et Mme Bodin Jamgotchian. N.B. leur présente le questionnaire, P.M. remplit les réponses et le reste du groupe intervient selon les besoins (et ce qu’ils avaient vu précédemment). Le questionnaire place Marseille au palier 4 en terme de maturité open data. C’est un niveau assez élevé, mais le questionnaire est prévu pour des collectivités de toute taille : le niveau est élevé, mais pas autant que nous pourrions l’attendre de la deuxième ville du pays. 
+A 15h nous avons (non sans mal) pu commencer notre réunion avec nos interlocutrices. N.B. leur présente le questionnaire, P.M. remplit les réponses et le reste du groupe intervient selon les besoins (et ce qu’ils avaient vu précédemment). Le questionnaire place Marseille au palier 4 en terme de maturité open data. C’est un niveau assez élevé, mais le questionnaire est prévu pour des collectivités de toute taille : le niveau est élevé, mais pas autant que nous pourrions l’attendre de la deuxième ville du pays. 
 
 
 Nos interlocutrices de la ville de Marseille nous donnent deux domaines dans lesquels elles nous attendent : 
@@ -45,7 +45,7 @@ Nos interlocutrices de la ville de Marseille nous donnent deux domaines dans les
 * Le premier est celui de l'État Civil : ce qui touche aux naissances, mariages et décès. Une attention particulière est demandée quant aux prénoms des nouveaux nés chaque année. 
 * Le second porte sur les bibliothèques : les types d’abonnements, le nombre d’emprunts ou encore les titres les plus empruntés par exemple. 
 
-D’un côté nous nous concentrons donc sur les deux directions données par nos interlocutrices. Principalement, De l’autre, nous nous gardons en fonction de critères comme la quantité, l’accessibilité ou la facilité de traitement des données sur ces domaines la possibilité de proposer à Mme Chabalier de traiter certains des cas que nous avons vus plus tôt dans la journée. 
+D’un côté nous nous concentrons donc sur les deux directions données par nos interlocutrices. Principalement, De l’autre, nous nous gardons en fonction de critères comme la quantité, l’accessibilité ou la facilité de traitement des données sur ces domaines la possibilité de proposer à notre interlocutrice de traiter certains des cas que nous avons vus plus tôt dans la journée. 
 
 
 Avec l’appel et la demande relativement précise de la ville de Marseille la wishlist est relativement simple à formuler :
@@ -371,7 +371,7 @@ Nous avons ensuite ajouté les colonnes “COMMUNE_NOM” ; “CODE_INSEE”; �
 
 
 
-Le travail du jour se constitue de la manière suivante : la restitution des jeux de données à la Collectivité de Marseille et à nos référentes Julie Chabalier et Nicole Bodin. Dès le matin, nous regardons le mail que nous avons reçu et nous ajustons nos travaux. 
+Le travail du jour se constitue de la manière suivante : la restitution des jeux de données à la Collectivité de Marseille et à nos référentes. Dès le matin, nous regardons le mail que nous avons reçu et nous ajustons nos travaux. 
 
 
 Ainsi, L.S. supprime les années 2015 des jeux de données concernés par les doublons car nous remarquons un pic anormal. Elle accompagne cette suppression d’une description explicative de ce phénomène. P.M., C.F.1 & J.L. s’occupent de faire passer les jeux de données du format “xls” en format "csv", comme demandée par la ville de Marseille. C.F.2, P-E.W.-B. et N.B. s’occupent de récolter les données dans le cadre des Fiches jeu de données, pour les métadonnées. Nous nous organisons comme cela jusqu’à 10h30, l’heure de l’appel. Tous les fichiers ont été renommés selon la nomenclature choisie par la ville de Marseille : MARSEILLE_TOP_PRENOMS_2010.csv. 
@@ -380,7 +380,7 @@ Ainsi, L.S. supprime les années 2015 des jeux de données concernés par les do
 L’appel en question s’est bien passé. Des précisions ont été apportées et nous leur transmettons un jeu de données car elles feront elles-mêmes la publication sur datasud, puis sur le site de la ville de Marseille. Premier problème : nous avons des points-virgules à la place de simple virgule. P.M. trouve une solution et lui renvoie le jeu de données modifié. Malheureusement, cela ne marche toujours pas. Une erreur interne se lit sur son écran. Malgré tout, elle nous montre comment elles vont effectuer la transposition du jeu de données sur le portail prévu à cet effet.
 
 
-Réunion finie. Nous nous répartissons les tâches à faire. J.L., C.F.2, L.S., P.-E.W.-B. travaillent sur les fiches de jeu de données en concert, pour que cela aille vite. P.M. et C.F.1 s’occupent de transcrire tous les fichiers erronés dans le bon format “csv” en UHT-8, à travers une manipulation donnée par Julie Chabalier. 
+Réunion finie. Nous nous répartissons les tâches à faire. J.L., C.F.2, L.S., P.-E.W.-B. travaillent sur les fiches de jeu de données en concert, pour que cela aille vite. P.M. et C.F.1 s’occupent de transcrire tous les fichiers erronés dans le bon format “csv” en UHT-8, à travers une manipulation donnée par notre interlocutrice. 
 
 
 ![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Marseille6.png)     
@@ -447,9 +447,9 @@ La journée se termine assez tôt. Nos interlocuteurs de la ville de Marseille n
 ## JOUR 5 – VALORISATION: “Terre en vue!”
 
 
-Le bateau du groupe 13 s’approche fébrilement de la terre promise. Hier, nous avions envoyé un mail à Julie Chabalier, avec tous nos jeux de données finalisés.  Puisque nous ne pouvions pas les publier nous-mêmes sur DataSud, elle devait s’en charger. Cependant, au matin du jour 5, nous n’avions toujours pas de réponse à notre mail. Cela ne nous a pas empêchés d’avancer sur notre projet, et d’amorcer la phase de valorisation de notre challenge. Ainsi, ce jour-là, toute l’équipe s’est attelée à créer des visuels à partir des jeux de données sur lesquels elle a travaillé pendant toute la semaine de Data Challenge. Les débuts de l’équipe sont hésitants, chacun essayant un site conseillé par l’équipe de Datactivist et d’autres sites trouvés sur Internet. **Canva** nous étant très familier, il a rapidement démontré ses limites en matière d’originalité et de fonctionnalités disponibles…Dans la foulée,  Allyson nous a présenté des modèles de graphiques dynamiques et bien plus attrayants, créés grâce à l’application **Flourish Studio.io** ! 
+Le bateau du groupe 13 s’approche fébrilement de la terre promise. Hier, nous avions envoyé un mail à notre interlocutrice, avec tous nos jeux de données finalisés.  Puisque nous ne pouvions pas les publier nous-mêmes sur DataSud, elle devait s’en charger. Cependant, au matin du jour 5, nous n’avions toujours pas de réponse à notre mail. Cela ne nous a pas empêchés d’avancer sur notre projet, et d’amorcer la phase de valorisation de notre challenge. Ainsi, ce jour-là, toute l’équipe s’est attelée à créer des visuels à partir des jeux de données sur lesquels elle a travaillé pendant toute la semaine de Data Challenge. Les débuts de l’équipe sont hésitants, chacun essayant un site conseillé par l’équipe de Datactivist et d’autres sites trouvés sur Internet. **Canva** nous étant très familier, il a rapidement démontré ses limites en matière d’originalité et de fonctionnalités disponibles…Dans la foulée,  Allyson nous a présenté des modèles de graphiques dynamiques et bien plus attrayants, créés grâce à l’application **Flourish Studio.io** ! 
 
-À partir de 11h, sans aucun signal de sa part, nous décidons de contacter Madame Chabalier pour savoir où en sont nos données. Elle nous informe qu’elle a dû effectuer quelques modifications avant de publier nos jeux de données, dans la mesure où nous avions omis les années dans quelques jeux de données. Les jeux de données sont à retrouver sur ces pages : 
+À partir de 11h, sans aucun signal de sa part, nous décidons de contacter notre interlocutrice pour savoir où en sont nos données. Elle nous informe qu’elle a dû effectuer quelques modifications avant de publier nos jeux de données, dans la mesure où nous avions omis les années dans quelques jeux de données. Les jeux de données sont à retrouver sur ces pages : 
 
 [https://trouver.datasud.fr/dataset/marseille-palmares-des-prenoms](https://trouver.datasud.fr/dataset/marseille-palmares-des-prenoms)
 
@@ -540,7 +540,7 @@ Ensuite, il nous fallait rédiger les fiches de contextualisation des visualisat
   <tr>
    <td>Casse-tête 
    </td>
-   <td>Retour J.Chabalier : nous avons commis quelques impairs dans la réalisation de nos jeux de données. Cela provoque un peu de frustration au sein du groupe, parce que nous sommes conscients du temps que l’équipe de Marseille a passé à modifier ces documents. Cependant nous sommes aussi conscients que c’est un vrai métier, et que des choses pouvaient nous échapper malgré notre meilleure volonté! 
+   <td>Retour de notre interlocutrice : nous avons commis quelques impairs dans la réalisation de nos jeux de données. Cela provoque un peu de frustration au sein du groupe, parce que nous sommes conscients du temps que l’équipe de Marseille a passé à modifier ces documents. Cependant nous sommes aussi conscients que c’est un vrai métier, et que des choses pouvaient nous échapper malgré notre meilleure volonté! 
    </td>
   </tr>
   <tr>
@@ -561,7 +561,7 @@ Ensuite, il nous fallait rédiger les fiches de contextualisation des visualisat
 
 ## CONCLUSION
 
-Cette longue traversée fut périlleuse mais nous en sortons grandis et enrichis par cette expérience : nous avons compris les mécanismes et les enjeux de l’open Data avec la ville de Marseille. Madame Chabalier et Madame Jamgotchian, nos interlocutrices, nous ont guidés et orientés toute la semaine. 
+Cette longue traversée fut périlleuse mais nous en sortons grandis et enrichis par cette expérience : nous avons compris les mécanismes et les enjeux de l’open Data avec la ville de Marseille. Nos interlocutrices nous ont guidés et orientés toute la semaine. 
 
 Après avoir évalué le niveau de maturité de la ville et ses besoins avec elles, nous avons travaillé sur 5 jeux de données : « Répartition des prénoms chez les nouveaux nés », « Actes d'état civil par année », « 500 livres les plus empruntés », « Prêts par bibliothèque et par catégorie » et « Nombre d’abonnement par catégorie ». Nous avons proposé d’autres jeux de données mais ce n'était pas possible. 
 
