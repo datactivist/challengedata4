@@ -29,47 +29,6 @@ La priorité de cette région en terme de politiques numériques : **l’aménag
 Après la réunion d’une heure ce matin, nous nous sommes réunis dans une salle avec le groupe qui travaille sur la région Sud. Nous avons discuté avec notre référent de la collectivité et de son niveau d’avancement sur l’ouverture des données. On a donc appris que la région Sud avait déjà ouvert ses données depuis presque 10 ans. On s’est ensuite familiarisé avec la plateforme _gather_, sur laquelle se déroulait la rencontre avec nos deux référents. Après cela, nous avons préparé l’entretien qui devait se tenir à 14:30, en réfléchissant aux questions pertinentes à poser en vue des futures étapes et prenant connaissance du questionnaire qui allait aiguiller notre entretien. Une fois la préparation finalisée, nous sommes allés manger. Nous nous sommes retrouvés à 14h pour se répartir les rôles durant l’entretien : Maxime et Eva échangeaient avec eux, Margaux et Marie remplissaient le questionnaire, Juliette, Cécile et M-R.S prenaient des notes. L’entretien s’est tenu de 14h30 à 16h. Durant l’entretien, nous avons principalement posé les questions du questionnaire (nos interlocuteurs ont même approfondi les questions), et décidé avec les référents des prochaines étapes et des modalités de travail. Après cela, nous avons débriefé avec Guillaume de cet entretien et avons pris connaissance des documents que nos référents nous ont envoyés à savoir le jeu de données de la région sur les lieux de médiation numérique. Après cela nous avons obtenu le résultat du questionnaire « Airtable » où la région a obtenu le plus haut score de 4. Enfin, nous avons envoyé un mail récapitulatif de la réunion aux agents, ainsi que les étapes prévues pour la journée du mardi. Nous avons joint à ce mail le résultat du questionnaire et la Wishlist. 
 
 
-**Résumé :**
-
-
-<table>
-  <tr>
-   <td>Réussite ou casse-tête ?
-   </td>
-   <td>Explication / Citation
-   </td>
-  </tr>
-  <tr>
-   <td>Connexion à l’espace gather 
-   </td>
-   <td>Wifi défaillant
-<p>
-Plateforme n’a pas supporté l’affluence des élèves au début 
-   </td>
-  </tr>
-  <tr>
-   <td>Réunion avec les référents
-   </td>
-   <td>Moyens : pas de salle individuelle donc bruyant et problèmes de connexion
-<p>
-Interlocuteurs disponibles, à l’écoute qui nous ont transmis rapidement les documents nécessaires pour travailler 
-   </td>
-  </tr>
-  <tr>
-   <td>Organisation efficace 
-   </td>
-   <td>Répartitions des tâches
-   </td>
-  </tr>
-  <tr>
-   <td>Suivi 
-   </td>
-   <td>Formateur pédagogue et réactif 
-   </td>
-  </tr>
-</table>
-
-
 ![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/RS1.png)
 
 
