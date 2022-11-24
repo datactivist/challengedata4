@@ -159,10 +159,10 @@ Etat civil
 
 Bibliothèque
 
-* **Documents les plus empruntés 2016-2020 : **Le jeu de données demande un gros effort de nettoyage et de standardisation pour correspondre au template. Il sera impossible de compléter les données manquantes de l’année 2018 puisque ces dernières n’existent pas. 
-* **Nombre de prêts par bibliothèque par catégorie d'abonnement 2016-2020 : **Le jeu de données demande surtout un travail de compilation et de standardisation. Le problème étant qu’aucun template n’existe et que nous devons réfléchir au meilleur format pour traiter les données. 
-* **Nombre d'abonnement par bibliothèque au 31 déc (2016-2020) : **Meme enjeu qu’au-dessus. Le travail de nettoyage est cependant moins important simplement car il y a moins de données à traiter. 
-* **Archives des bibliothèques 2005-2016: **Ce jeu de donnée est celui qui va nous demander le plus de travail notamment car nous voulons etre cohérent dans notre traitement de ces données et des plus récentes. Ainsi, un gros travail de nettoyage, de compilation et de standardisation sera à fournir. Il est probable que nous divisions ce jeu de donnée en plusieurs jeux pour s’approcher le plus possible des formats de données plus récentes.
+* **Documents les plus empruntés 2016-2020 :** Le jeu de données demande un gros effort de nettoyage et de standardisation pour correspondre au template. Il sera impossible de compléter les données manquantes de l’année 2018 puisque ces dernières n’existent pas. 
+* **Nombre de prêts par bibliothèque par catégorie d'abonnement 2016-2020 :** Le jeu de données demande surtout un travail de compilation et de standardisation. Le problème étant qu’aucun template n’existe et que nous devons réfléchir au meilleur format pour traiter les données. 
+* **Nombre d'abonnement par bibliothèque au 31 déc (2016-2020) :** Meme enjeu qu’au-dessus. Le travail de nettoyage est cependant moins important simplement car il y a moins de données à traiter. 
+* **Archives des bibliothèques 2005-2016:** Ce jeu de donnée est celui qui va nous demander le plus de travail notamment car nous voulons etre cohérent dans notre traitement de ces données et des plus récentes. Ainsi, un gros travail de nettoyage, de compilation et de standardisation sera à fournir. Il est probable que nous divisions ce jeu de donnée en plusieurs jeux pour s’approcher le plus possible des formats de données plus récentes.
 
 **Organigramme :**
 
@@ -266,11 +266,11 @@ Création des 6 colonnes suivantes : “COMMUNE_NOM” ; “CODE_INSEE” ; “E
 
 Cette méthode permet d’avoir les 198 prénoms masculins et féminins (99 pour chaque sexe) les plus donnés aux nouveaux-nés sur une année donnée, classés du plus courant au moins courant.
 
-* **Actes d'état civil par année **
+* **Actes d'état civil par année**
 
 Trier les données selon l’année. Créer une fiche pour une année donnée. Y recopier les entrées du tableau du document source. Ne rentrer dans le tableau recopié que les données propres à l’année choisie. 
 
-* **500 livres les plus empruntés : **
+* **500 livres les plus empruntés :**
 - **<span style="text-decoration:underline;">Création des diverses colonnes : </span>**
 
 - <span style="text-decoration:underline;">Pour remplacer la colonne avec les « catégories documents » L1 / L2 / C1 / DT </span>
@@ -301,7 +301,7 @@ DONNÉES > « SCINDER LE TEXTE EN COLONNES » > Séparateur « PERSONNALISER à 
 - **<span style="text-decoration:underline;">Nettoyage des lettres</span>** : quelques malformations des accents se traduisent par des caractères similaires à celui-là : Ã© (trad : É). Pour cela : ctrl+ F => remplir « Ã© » dans la barre de recherche puis cliquer sur les 3 points à droite de la loupe. Remplacer «  Ã© » par ça «  É » et cliquer sur « Remplacer tout ». 
 
 
-* **Prêts par bibliothèque et par catégorie **
+* **Prêts par bibliothèque et par catégorie**
 
 Pour chaque bibliothèque, le nombre de prêts est divisé en 3 catégories : “Adulte”, “Enfant-jeune” et “Collectivités”, répartis en fonction des mois de l’année en question. Afin de les rendre lisibles par les machines, nous avons créé 3 colonnes correspondant aux 3 catégories en fonction des mois de l’année. Pour obtenir une présentation en colonne à partir d’une présentation en colonne nous avons utilisé la fonction “Transposer”. 
 
@@ -427,14 +427,8 @@ https://public.flourish.studio/visualisation/7942600/
 
  Graphique sur l<span style="text-decoration:underline;">es supports des 500 documents les plus empruntés</span>, de 2016 à 2020, créé grâce à Flourish Studio par J.L. 
 
- <span style="text-decoration:underline;">Lien</span>  : &lt;div class="flourish-embed flourish-chart" data-src="visualisation/7942724">&lt;script src="[https://public.flourish.studio/resources/embed.js](https://public.flourish.studio/resources/embed.js)">&lt;/script>&lt;/div>
-
 
 ![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Marseille10.png)     
-
-
-&lt;div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/7943089">&lt;script src="https://public.flourish.studio/resources/embed.js">&lt;/script>&lt;/div>
-
 
 
 * P-E.WB et L.S. ont réalisé la même démarche pour le jeu de données “ PRÉNOMS”.  La tâche s’est avérée plus laborieuse et rigoureuse que prévu puisqu’ils ont dû traiter chaque prénom un par un, afin de pouvoir établir un graphique qui rend compte de l’évolution de l’utilisation des prénoms au fil des années. Cela prend finalement la forme d’un diagramme à bâtons (bar charts) dynamiques.  Autrement dit, le graphique évolue comme une vidéo en fonction des années. 
