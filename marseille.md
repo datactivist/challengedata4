@@ -147,64 +147,6 @@ Après l’appel, nous sommes retournés regarder les documents des archives de 
 
 Concernant l’organigramme, une partie a été rédigée après avoir obtenu les informations de nos interlocutrices. Celles concernant l’État civil étant manquantes, nous attendons les informations.
 
-**Résumé :**
-
-
-<table>
-  <tr>
-   <td>Réussite ou casse-tête ? 
-   </td>
-   <td>Explication / Citation
-   </td>
-  </tr>
-  <tr>
-   <td>Attente des données - casse-tete
-   </td>
-   <td>Nous attendons que notre interlocutrice à Marseille nous envoie les jeux de données. Nous ne pouvons pas faire grand chose avant de les récupérer, à part nous familiariser avec les étapes à suivre aujourd’hui. 
-   </td>
-  </tr>
-  <tr>
-   <td>Organigramme des données - casse-tete
-   </td>
-   <td>Aucun organigramme des directions de la mairie n’est disponible en ligne. Nous avons donc demandé à notre interlocutrice marseillaise de nous les transmettre 
-   </td>
-  </tr>
-  <tr>
-   <td>jeux de données bibliothèques - réussite et casse-tete 
-   </td>
-   <td>Nous avons reçu 3 jeux de données concernant les bibliothèques. Le premier concerne les emprunts. En comparant le document reçu avec le template, nous pouvons évaluer la charge de travail à fournir. Il semble que nous allons devoir beaucoup nettoyer les données et les formater pour se conformer au template. Les deux autres jeux de données concernent les abonnements par bibliothèques et catégories d’abonnement. Les données sont déjà formatées. Nous ne sommes pas sûrs de pouvoir y apporter quoi que ce soit. 
-   </td>
-  </tr>
-  <tr>
-   <td>casse-tete
-   </td>
-   <td>nous n’avions pas vu le zip avec les archives des bibliothèques de 2005 à 2015
-   </td>
-  </tr>
-  <tr>
-   <td>jeux de donnés sur les abonnés et prets 
-   </td>
-   <td>Les jeux de données ne correspondent à aucun standard mais ne sont pas non plus conforme à un format opendata. Il faut donc nettoyer le document. 
-<p>
-depuis 2005 → question sur les catégories d’abonnés faut-il utilisés les categories des archives ou des données récentes 
-   </td>
-  </tr>
-  <tr>
-   <td>jeux de donnée états civil 
-   </td>
-   <td>récupérés. peu de travail à fournir, seulement un peu de compilation et de formatage. Nous avons pris de l’avance sur la mise en qualité de ces données. 
-   </td>
-  </tr>
-  <tr>
-   <td>les équipements sportifs 
-   </td>
-   <td>casse-tete, refus de publier de la part de la mairie centrale 
-   </td>
-  </tr>
-</table>
-
-
-
 **Wanted data-list :**
 
 
