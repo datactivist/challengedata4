@@ -596,6 +596,8 @@ Les 5 jeux de données ouverts ont deux thématiques:
 
 Les données ainsi publiées sont désormais visibles par le grand public mais elles pourraient surtout être exploitées par les services concernés pour améliorer leur offre et par des développeurs extérieurs pour d’autres applications.
 
-![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Marseille15.png)     
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Marseille15.png)    
+
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Marseille16.png)     
 
 C’EST PAS LA CAPITALE, C’EST MARSEILLE BB 
