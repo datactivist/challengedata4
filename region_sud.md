@@ -69,11 +69,11 @@ Interlocuteurs disponibles, à l’écoute qui nous ont transmis rapidement les 
   </tr>
 </table>
 
+
 ![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/RS1.png)
 
+
 ## JOUR 2 – IDENTIFICATION
-
-
 
 * Organigramme MindMup : [https://app.mindmup.com/map/_free/2021/11/f591c7b04d1011eca1db952aba129bdc](https://app.mindmup.com/map/_free/2021/11/f591c7b04d1011eca1db952aba129bdc) 
 
