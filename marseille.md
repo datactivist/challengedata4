@@ -1,4 +1,4 @@
-# Carnet de bord de l'ouverture des données de Marseille  (groupe 1)
+# Carnet de bord de l'ouverture des données de Marseille
 
 par BEULZ Noé, FENIGER	Claire, FICARA Cyprien, LESTANG Juliette, MOSS	Pierre, SLAOUTI	Lyna, WATTEZ-BOUQUET Paul-Emile
 
