@@ -100,7 +100,7 @@ Cette journée a pour objectif la standardisation et le nettoyage des données d
 Notre journée débute avec la préparation de l’interview que nous allons mener avec l’adjoint au maire de la ville d’Annecy, monsieur Aurélien Modurier, chargé de la Transition Numérique. Cet entretien se fait sur demande de Léonard G., qui a souhaité que l’on enregistre l’appel. Nous avons prévu de le questionner à propos des ambitions de l’équipe municipale en matière d’open data. Nous souhaitons plus particulièrement connaître les secteurs dans lesquels les enjeux de l’open data leur semblent les plus importants, et nous comptons également questionner notre interlocuteur quant à l’apport aux citoyens de l’open data, ainsi que les objectifs visés pour les prochaines années en termes d’open data. 
 
 
-**Le compte rendu de la réunion avec Aurélien Modurier est le suivant :**
+**Le compte rendu de la réunion avec Aurélien M. est le suivant :**
 
 * Il définit l’open data comme la mise à disposition au public de données générées au sein des services publics. Il nous explique ce que signifie le terme “d’open data par défaut”, qui est le fait de mettre les données à disposition en ligne sans attendre de sollicitation, de les actualiser de manière régulière, sur une plateforme dédiée. Il explique notamment l’importance des données sur les transports publics, la qualité de l’air, qui doivent être accessibles. Tout citoyen a le droit d’accéder à ces données. En fait, ces dernières doivent être  accessibles, afin de remplir un objectif de transparence.
 
