@@ -50,44 +50,6 @@ Nous avons ensuite commencé à remplir la colonne (ou champ) “En ligne” car
 Au cours de l’appel, nous avons aussi débattu avec notre référente de l’uniformisation du jeu de données selon le standard proposé par datactivist. Elle s’est rapidement laissée convaincre par l’idée car cela implique que la région sud serait la première collectivité à posséder une base de données basée sur celle recommandée par l’Etat. Cela représente aussi une cohérence certaine avec leur projet qui est d’établir une base de données ouverte et participative d’ici à Janvier. Nous étions ravis de cette nouvelle qui a donné à notre travail une nouvelle dynamique et un objectif concret et motivant! 
 
 
-**Résumé :**
-
-
-<table>
-  <tr>
-   <td>Réussite ou casse-tête ? 
-   </td>
-   <td>Explication / Citation
-   </td>
-  </tr>
-  <tr>
-   <td>réussite
-   </td>
-   <td>comparaison de notre jeu de donnée et du template de Datactivist et uniformisation : ajout des catégories manquantes au jeu de données original 
-   </td>
-  </tr>
-  <tr>
-   <td>casse-tête
-   </td>
-   <td>mauvaise interprétation de la colonne “en ligne” : nous avons rempli en pensant qu’il s’agissait de dire si les lieux disposaient d’un site web mais il s’agissait de savoir si la formation proposée était dispensée en ligne
-   </td>
-  </tr>
-  <tr>
-   <td>réussite 
-   </td>
-   <td>réalisation de l’organigramme représentant le fil de la donnée à partir des différents organigrammes que nous avons trouvé en ligne
-   </td>
-  </tr>
-  <tr>
-   <td>réussite mais difficile
-   </td>
-   <td>recherche et vérification des labels 
-   </td>
-  </tr>
-</table>
-
-
-
 
 ## JOUR 3 – MISE EN QUALITÉ
 
@@ -102,52 +64,7 @@ Tout au long de cette journée éprouvante, nous avons certes fait des choses r�
 
 
 Vers 15h, rendez-vous avec notre référente : nous avons obtenu des informations concernant les labels, les organismes à appeler ainsi que sur les normes et le processus de publication (le site de la région, le moissonnage etc…). L’uniformisation continue alors. La particularité de nos données a rendu nécessaire l’aide des professionnels pour des manipulations qui nous dépassent. Nous sommes progressivement partis à partir de 17h30, fier.e.s de nos avancements. 
-
-**Résumé :**
-
-
-<table>
-  <tr>
-   <td>Réussite ou casse-tête ? 
-   </td>
-   <td>Explication / Citation
-   </td>
-  </tr>
-  <tr>
-   <td>Réussite
-   </td>
-   <td>Gain de fluidité et donc d’efficacité
-   </td>
-  </tr>
-  <tr>
-   <td>Réussite
-   </td>
-   <td>Avancement sur les labels plus rapides que prévues
-   </td>
-  </tr>
-  <tr>
-   <td>Casse-tête
-   </td>
-   <td>Des informations fausses (ex: adresse, telle que le 7186 rue Grande), incorrectes (ex: les noms des communauté de communes, telle que “La.”), incohérentes (ex: structure porteuse, telle que marcel pagnol) ou peu claires.
-   </td>
-  </tr>
-  <tr>
-   <td>Casse-tête
-   </td>
-   <td>Lassitude, car actions répétitives et rigoureuses
-   </td>
-  </tr>
-  <tr>
-   <td>Casse-tête
-   </td>
-   <td>Problèmes de connexion wi-fi vraiment handicapants
-   </td>
-  </tr>
-</table>
-
-
-
-        
+       
 
 
 ## JOUR 4 – PUBLICATION
@@ -178,49 +95,6 @@ Une fois l’appel terminé, nous avons créé le Google Sheet final intitulé �
 
 
 [cuWJtiy39qziouM/edit#gid=451821885](https://docs.google.com/spreadsheets/d/1G5ezdqTgYfsJKZ3r0cuWJtiy39qziouM/edit#gid=451821885)), que nous avons de nouveau uniformisé et nettoyé. Une fois cela terminé, nous le lui avons envoyé.
-
-**Résumé :**
-
-
-<table>
-  <tr>
-   <td>Réussite ou casse-tête ? 
-   </td>
-   <td>Explication / Citation
-   </td>
-  </tr>
-  <tr>
-   <td>Casse tête 
-   </td>
-   <td>Supprimer les doublons
-   </td>
-  </tr>
-  <tr>
-   <td>Réussite 
-   </td>
-   <td>Notre référente était satisfaite de notre travail et était motivée pour mettre en valeur ces données par des infographies
-   </td>
-  </tr>
-  <tr>
-   <td>Casse tête 
-   </td>
-   <td>Les travaux de collecte de data sont assez longs et fastidieux, que ce soit pour trouver les statuts “nature juridique” et “en ligne” des lieux, ou même de les appeler pour connaître leur label et leur 
-   </td>
-  </tr>
-  <tr>
-   <td>Réussite
-   </td>
-   <td>Bonne entente du groupe, nous avons pris un bon petit-déjeuner
-   </td>
-  </tr>
-  <tr>
-   <td>Casse tête
-   </td>
-   <td>Plusieurs problèmes chronophages rencontrés avec le Google sheet : colonnes décalées, url impossibles à remplir au bon format...
-   </td>
-  </tr>
-</table>
-
 
 **<span style="text-decoration:underline;">FICHE DESCRIPTIVE DU JEU DE DONNÉES</span>**
 
@@ -266,30 +140,6 @@ Liens URL des documents travaillés aujourd’hui :
 	* Carte Umap (OpenStreetMap) : [https://umap.openstreetmap.fr/fr/map/lieux-dinclusion-numerique-region-sud_685612#12/43.5579/5.3582](https://umap.openstreetmap.fr/fr/map/lieux-dinclusion-numerique-region-sud_685612#12/43.5579/5.3582)
 	* Répartition par département des lieux d’inclusion numérique dans la région Sud (Flourish) : [https://app.flourish.studio/visualisation/7945484/](https://app.flourish.studio/visualisation/7945484/) 
 	* Statut juridique des lieux d’inclusion numérique de la région Sud (Flourish) : [https://app.flourish.studio/visualisation/7945238/](https://app.flourish.studio/visualisation/7945238/) 
-
-**Résumé :**
-
-
-<table>
-  <tr>
-   <td>Réussite ou casse-tête ? 
-   </td>
-   <td>Explication / Citation
-   </td>
-  </tr>
-  <tr>
-   <td>Casse-tête
-   </td>
-   <td>Corriger les localisations (latitudes et longitudes manquantes ou incorrectes)
-   </td>
-  </tr>
-  <tr>
-   <td>Réussite
-   </td>
-   <td>La carte UMAP finale et les datavisualisations
-   </td>
-  </tr>
-</table>
 
 
 **<span style="text-decoration:underline;">DATAVISUALISATIONS</span>**
