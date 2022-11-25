@@ -2,7 +2,7 @@
 
 par Flavie C, Romane Loze, Chloe Moreau, Elsa M, Nina Pautre, Mathieu et Felix Sanchez
 
-![](https://github.com/datactivist/challengedata4/raw/main/images_cdb/Mayenne2.jpg)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/Mayenne2.jpg)
 
 **INTRODUCTION**
 
@@ -39,7 +39,7 @@ D’autre part, un ensemble de jeux de données concernant la vie politique du d
 Notre groupe travaillera donc sur la wishlist suivante ([https://docs.google.com/spreadsheets/d/1POlYoXngJYgxLQMDN8xhN2jvCmTzU_r9p-wxto3jWpY/edit](https://docs.google.com/spreadsheets/d/1POlYoXngJYgxLQMDN8xhN2jvCmTzU_r9p-wxto3jWpY/edit)) : 
 
 
-![](https://github.com/datactivist/challengedata4/raw/main/images_cdb/contenu/mayenne2_01.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/mayenne2_01.png)
 
 
 
@@ -57,7 +57,7 @@ Lors de cette deuxième journée, nous avons rassemblé et évalué les données
 
 Notre référente nous a transmis tout un dossier avec différentes données :  la liste des maires, des conseils départementaux, des conseillers régionaux, des directeurs des EPCI, des présidents des EPCI.  Nous avons d’abord entrepris de convertir tous ces dossiers en CSV et de les mettre en commun dans le groupe. Par la suite, nous nous sommes réparti différentes missions : Elsa et Flavie devaient rechercher les données que notre référente ne nous avait pas transmises mais qui étaient dans la WishList (les délibérations du conseil départemental et les subventions du conseil départemental). Nina, Chloé et Félix étaient chargés de vérifier la conformité des documents transmis par notre référente aux templates de Datactivist et enfin Mathieu  se chargeait de construire la MindMap.
 
-![](https://github.com/datactivist/challengedata4/raw/main/images_cdb/contenu/mayenne2_02.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/mayenne2_02.png)
 
 Sur Internet, nous avons trouvé différentes données qui nous semblaient pertinentes : sur le site Data.gouv nous avons trouvé allouées au département pour les années 2018,2019, 2020. Sur le site “open data soft” nous avons trouvé la liste des résultats des élections présidentielles pour chaque commune de la Mayenne. Enfin sur le site web “Géo Mayenne” nous avons pu trouver le découpage administratif du département.  A partir de ces éléments nous avons pu établir la MindMap :
 
@@ -79,7 +79,7 @@ Par la suite, nous avons commencé à analyser les données que nous allions eff
 
 - La liste des subventions pour les années 2018, 2019 et 2020
 
-![](https://github.com/datactivist/challengedata4/raw/main/images_cdb/contenu/mayenne2_03.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/mayenne2_03.png)
 
 
 [https://docs.google.com/spreadsheets/d/1POlYoXngJYgxLQMDN8xhN2jvCmTzU_r9p-wxto3jWpY/edit?fbclid=IwAR2CjOPhKqKHWJGSqnqv1FjZAx9LFjjq1YfqlG2ObAKsAGAjOLfcU1E0VkI#gid=942129362](https://docs.google.com/spreadsheets/d/1POlYoXngJYgxLQMDN8xhN2jvCmTzU_r9p-wxto3jWpY/edit?fbclid=IwAR2CjOPhKqKHWJGSqnqv1FjZAx9LFjjq1YfqlG2ObAKsAGAjOLfcU1E0VkI#gid=942129362) 
@@ -94,7 +94,7 @@ La troisième journée est consacrée à la mise en qualité des données récol
 
 Le premier d’entre eux est un gros fichier compilant les données des élus mayennais à savoir les élus municipaux, départementaux, et communautaires provenant du répertoire national des élus que nous avons filtré pour qu’ils correspondent à la Mayenne. Ces données étaient déjà à la forme réglementaire nationale donc nous n’avons pas eu à les remettre en conformité. Nous nous sommes toutefois posé la question de savoir s’il était nécessaire de laisser les professions des élus (élu local, départemental, régional, ou parlementaire) selon la norme actuelle trouvée en ligne sur le RNE ou s’il fallait respecter les normes du template Datactivit...  : 
 
-![](https://github.com/datactivist/challengedata4/raw/main/images_cdb/contenu/mayenne2_04.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/mayenne2_04.png)
 
 
 Un autre jeu représente les responsables parlementaires mayennais, il s’agit d’un fichier PDF dont nous avons rentré manuellement les données sur un tableur du fait du faible nombre de données. Nous avons également un autre jeu de données compilant les listes des directeurs des EPCI, qui ne sont également pas élus (nous ne les avons donc pas compilées dans notre fichier global sur les élus). 
@@ -117,14 +117,14 @@ Après envoi de ces bases de données à notre référente, elles ont toutes ét
 
 Le bilan de mise en qualité : [https://docs.google.com/document/d/1-MxuPlQf9Rux0X8_uFaBNOq1cM3khez7/edit](https://docs.google.com/document/d/1-MxuPlQf9Rux0X8_uFaBNOq1cM3khez7/edit)
 
-![](https://github.com/datactivist/challengedata4/raw/main/images_cdb/contenu/mayenne2_05.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/mayenne2_05.png)
 
 
 ## JOUR 4 – PUBLICATION
 
 
 
-![](https://github.com/datactivist/challengedata4/raw/main/images_cdb/contenu/mayenne2_06.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/mayenne2_06.png)
 
 
 
@@ -152,7 +152,7 @@ Lors du point quotidien avec notre interlocutrice, nous avons pu vérifier chacu
 * Parlementaires
 * Directeurs des EPCI
 
-![](https://github.com/datactivist/challengedata4/raw/main/images_cdb/contenu/mayenne2_07.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/mayenne2_07.png)
 
 
 ## JOUR 5 – VALORISATION
@@ -178,11 +178,11 @@ Pour toutes ces infographies nous avons repris la charte graphique de la Mayenne
 
 Dans un premier temps, nous les avons produits directement sur les fichiers de données .csv. Afin de les rendre plus lisibles et plus accessibles, nous avons décidé de les présenter sous forme de diaporama sur Canva. La manipulation des couleurs était ainsi plus facile et dynamique. 
 
-![](https://github.com/datactivist/challengedata4/raw/main/images_cdb/contenu/mayenne2_08.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/mayenne2_08.png)
 
 _Avant, sur le fichier de données_
 
-![](https://github.com/datactivist/challengedata4/raw/main/images_cdb/contenu/mayenne2_09.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/mayenne2_09.png)
 
 _Après, sur Canva_
 

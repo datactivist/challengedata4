@@ -1,7 +1,7 @@
 # Carnet de bord de l'ouverture des données de Lambesart (groupe 6)
 
 par COUSIN M, DE RAVALIERE Whitney, GARCIA Mateo, GUIEU Capucine, SIMON Victor
-![](https://github.com/datactivist/challengedata4/blob/main/images_cdb/Lambersart.jpg)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/Lambersart.jpg)
 
 ## JOUR 1 – DIAGNOSTIC
 
@@ -52,7 +52,7 @@ En fin de journée, nous avons commencé l'exploitation des données concernant 
  
  Wanted data list :
 
-![](https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/Wanteddatalist_Lambersart.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Wanteddatalist_Lambersart.png)
  
 
 ## JOUR 3 – MISE EN QUALITE

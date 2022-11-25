@@ -2,7 +2,7 @@
 
 Par AUFFRAY	Ines, B.Lucile, BOUTENEIGRE	Thomas, MERCIER	Léa et ZWERTVAEGHER Simon
 
-![](https://github.com/datactivist/challengedata4/blob/main/images_cdb/Epinal.jpg)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/Epinal.jpg)
     
 ## JOUR 1 – DIAGNOSTIC
 
@@ -53,12 +53,12 @@ De plus, certains sites comme celui du gouvernement contenaient des données non
 
 Ci joint, l’organigramme des données.
 
-![](https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/Screenshot%202022-05-24%20at%2014.05.30.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Screenshot%202022-05-24%20at%2014.05.30.png)
 
 
 Ci dessous, la wanted list ainsi que l’évaluation de l’état des données:
 
-![](https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/Screenshot%202022-05-24%20at%2014.06.10.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Screenshot%202022-05-24%20at%2014.06.10.png)
 
 
 ## JOUR 3 – MISE EN QUALITE
@@ -153,7 +153,7 @@ Ensuite sur les applis rawgraphs et flourish nous avons procédé à la réalisa
 Pour cela, concernant les effectifs scolaires, nous avons pour objectif de réaliser un “stacked bar chart”. Cette datavisualisation se présente sous la forme d’un diagramme représentant les effectifs scolaires par classes pour chaque école de la commune. 
 
 <p align="center">
-  <img src="https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/Epinal-1.png" />
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Epinal-1.png" />
 </p>
 
 
@@ -161,13 +161,13 @@ Pour cela, concernant les effectifs scolaires, nous avons pour objectif de réal
 Pour le jeu de données de la liste des élus nous avons utilisé le modèle “pie chart”. Tout d’abord, nous avons fait un diagramme circulaire pour représenter la proportion de femmes au sein du conseil municipal.
 
 <p align="center">
-  <img src="https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/Epinal-2.png" />
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Epinal-2.png" />
 </p>
 
 De plus, nous faisons une datavisualisation des CSP des élus à partir du modèle “pie chart”.
 
 <p align="center">
-  <img src="https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/Epinal-3.png" />
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Epinal-3.png" />
 </p>
 
 

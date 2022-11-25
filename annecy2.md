@@ -2,7 +2,7 @@
 
 B. Kenza, BONNELLE Elise, BOYER Chloe, BRENAC	Vianney, COLLIER	Amelia, D.S.P.	Aliette
     
-![](https://github.com/datactivist/challengedata4/blob/main/images_cdb/Annecy2.jpg)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/Annecy2.jpg)
 
 ## JOUR 1 – DIAGNOSTIC
 
@@ -71,7 +71,7 @@ Enfin, il nous a annoncé qu’il aimerait que l’on fasse une roadmap de ce qu
 **L’organigramme des données**
 
 
-![](https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/annecy2_organigramme.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/annecy2_organigramme.png)
    
    
 **Wanted data list**

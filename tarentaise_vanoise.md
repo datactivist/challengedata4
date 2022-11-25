@@ -1,7 +1,7 @@
 # Carnet de bord de l'ouverture des données de l'Assemblée du Pays Tarentaise Vanoise 
 
 par B.E., BASSO	Nicolas, LEROY	Margo, LINIERE	Maxence, MORIN-MERILLON	Eleonore, SERVAES	Mathilde
-![](https://github.com/datactivist/challengedata4/blob/main/images_cdb/Tarentaise%20Vanoise.jpg)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/Tarentaise%20Vanoise.jpg)
 
 ## JOUR 1 – DIAGNOSTIC
 
@@ -30,7 +30,7 @@ Le choix de ces données est motivé par une volonté politique. En effet, la st
 **Wishlist**
 
 <p align="center">
-  <img src="https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/Tarentaise-Vanoise.png" />
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Tarentaise-Vanoise.png" />
 </p>
 
 
@@ -44,7 +44,7 @@ Le choix de ces données est motivé par une volonté politique. En effet, la st
 **Évaluation des données** : Nos données ne sont pas sous la forme souhaitée c’est-à-dire Excel ou CSV. Les données sont déjà sous forme de data visualisation, ce qui n’était pas la forme souhaitée. Au lieu d’utiliser les templates de nos datactivists, nous allons reprendre les données des fichiers valorisés que nous avons et faire nos propres valorisations. En ce sens, le bilan que nous pouvons faire sur les données que nous avons récoltées est qu’il s'agit d’un travail d’ouverture difficile car les données se présentent sous la forme de graphiques et autres datavisualisations dans des fichiers pdf (voir wanted data list). 
 
 <p align="center">
-  <img src="https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/Tarentaise-Vanoise%202.png" />
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Tarentaise-Vanoise%202.png" />
 </p>
 
 
@@ -106,17 +106,17 @@ Objectifs :
 
 Mise en forme de la fiche descriptive des données. Réalisation d’un plan de communication à l’intention de l’APTV et des autres collectivités qui pourraient reprendre les recherches que nous avons initiées. Début de valorisation graphique mais impossibilité de publication en raison de freins internes. Impossibilité de contact avec Etalab. Alerte sur les réseaux sociaux de nouveaux acteurs qui pourraient être intéressés par notre démarche. 
 
-![](https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/Tarentaise-Vanoise%203.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Tarentaise-Vanoise%203.png)
 
 
 Envoie d’un mail d’information aux collectivités ayant répondu et participé à notre travail de collecte de données pour les informer de la tenue de la réunion de restitution de nos travaux le Vendredi 26 Novembre 2021 à 17h.
 
-![](https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/Tarentaise-Vanoise%204.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Tarentaise-Vanoise%204.png)
 
 ## JOUR 5 – VALORISATION
 
 <p align="center">
-  <img src="https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/Tarentaise-Vanoise%205.png" />
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Tarentaise-Vanoise%205.png" />
 </p>
 
 
@@ -125,7 +125,7 @@ Cette visualisation nous permet tout d’abord de comprendre que les différente
 Le choix d’un graphique en courbe pour représenter ces données nous permet aussi de voir l’évolution du tourisme au sein de chaque station avec une grande tendance commune qui en ressort : le taux de remplissage augmente jusqu’à la semaine 27 et chute ensuite pour les trois stations.
 
 <p align="center">
-  <img src="https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/Tarentaise-Vanoise%206.png" />
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Tarentaise-Vanoise%206.png" />
 </p>
 
 
@@ -134,7 +134,7 @@ Cette visualisation nous permet donc de nous pointer une baisse du taux de conve
 Le choix d’un graphique en courbe pour représenter ces données nous permet ainsi de visualiser cette anomalie qui aurait pu passer inaperçue sans une valorisation de ces dernières.
 
 <p align="center">
-  <img src="https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/Tarentaise-Vanoise%207.png" />
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Tarentaise-Vanoise%207.png" />
 </p>
 
 Cette visualisation nous permet de voir qu’à Sainte-Foy le taux de conversion et le taux de remplissage évoluent en parallèle. Cette représentation  graphique est utile dans la mesure où elle répond à la précédente où une atypie était visible. 
@@ -142,7 +142,7 @@ Cette visualisation nous permet de voir qu’à Sainte-Foy le taux de conversion
 Le choix d’un graphique en courbe pour représenter ces données nous permet donc de voir que les taux évoluent de la même manière sur l’ensemble de la période.
 
 <p align="center">
-  <img src="https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/Tarentaise-Vanoise%208.png" />
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Tarentaise-Vanoise%208.png" />
 </p>
 
 
@@ -151,7 +151,7 @@ Nous avons fait le choix de construire cette visualisation pour mettre en exergu
 Le choix d’un histogramme pour représenter ces données nous permet donc de voir que la part d’étranger est bien plus importante en hiver qu’en été comme vous pourrez le voir ensuite.
 
 <p align="center">
-  <img src="https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/Tarentaise-Vanoise%209.png" />
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Tarentaise-Vanoise%209.png" />
 </p>
 
 

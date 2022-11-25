@@ -3,7 +3,7 @@
 par Audrey Moisan, Amandine Martin, Lou-Anne Goussu, Léo Peyroche, Clémence Hubert et Sefana Roulon
 
 <p align="center">
-  <img src="https://github.com/datactivist/challengedata4/blob/423bed7df4fdbe45d21b8f243af6e53f9d09f7a1/images_cdb/Saint%20Marcelin1.jpg" />
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/Saint%20Marcelin1.jpg" />
 </p>
 
 ## INTRODUCTION
@@ -14,7 +14,7 @@ Notre objectif au cours de ce Challenge Data sera de rendre accessible à la col
 
 Carte du finage de la commune de Saint-Marcellin, issue des données de IGN : 
 <p align="center">
-  <img src="https://github.com/datactivist/challengedata4/blob/99ec1bb23bc0c5cb39edae7fcccf5c240f8847d1/images_cdb/contenu/Saint-Marcellin-1-1.png" />
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Saint-Marcellin-1-1.png" />
 </p>
 
 
@@ -54,13 +54,13 @@ Ainsi, la première journée de ce challenge data a été très intéressante et
 
 **Aperçu de l’évaluation diagnostic de la ville de Saint-Marcellin :** https://airtable.com/shr4hkTi6y6mwMqQ9/tblCK1HM7nfkjbFpi
 <p align="center">
-  <img src="https://github.com/datactivist/challengedata4/blob/99ec1bb23bc0c5cb39edae7fcccf5c240f8847d1/images_cdb/contenu/Saint-Marcellin-1-2.png" />
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Saint-Marcellin-1-2.png" />
 </p>
 
 
 **Aperçu de la wishlist de la ville de Saint-Marcellin :**
 <p align="center">
-  <img src="https://github.com/datactivist/challengedata4/blob/99ec1bb23bc0c5cb39edae7fcccf5c240f8847d1/images_cdb/contenu/Saint-Marcellin-1-3.png" />
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Saint-Marcellin-1-3.png" />
 </p>
 
 ## JOUR 2 – IDENTIFICATION
@@ -74,7 +74,7 @@ Pour ce qui est de la thématique des transports, nous avons de grosses difficul
 
 **La Wanted data list :**
 <p align="center">
-  <img src="https://github.com/datactivist/challengedata4/blob/99ec1bb23bc0c5cb39edae7fcccf5c240f8847d1/images_cdb/contenu/Saint-Marcellin-1-4.png" />
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Saint-Marcellin-1-4.png" />
 </p>
 
 Dans le même sens, l’échange que nous avons eu avec Monsieur Volovik très tôt dans la journée présuppose que nous n’avons pas pu vérifier avec lui. Nous lui avons cependant transmis l’information ce soir et nous  verrons avec lui demain matin. Cette wanted data list est donc aussi sujette à modification dans le cours de la semaine. 
@@ -94,12 +94,12 @@ Nous avons pu voir aujourd’hui une véritable nécessité pour Saint-Marcellin
 
 Notre groupe au travail :
 <p align="center">
-  <img src="https://github.com/datactivist/challengedata4/blob/99ec1bb23bc0c5cb39edae7fcccf5c240f8847d1/images_cdb/contenu/Saint-Marcellin-1-5.png" />
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Saint-Marcellin-1-5.png" />
 </p>
 
 Notre groupe en échange avec Mr V., notre partenaire de Saint-Marcellin :
 <p align="center">
-  <img src="https://github.com/datactivist/challengedata4/blob/99ec1bb23bc0c5cb39edae7fcccf5c240f8847d1/images_cdb/contenu/Saint-Marcellin-1-6.png" />
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Saint-Marcellin-1-6.png" />
 </p>
 
 ## JOUR 3 – MISE EN QUALITÉ
@@ -108,7 +108,7 @@ Le troisième jour de notre challenge data débute. Aujourd’hui, il s’agit p
 
 Réunion de briefing à 9h : 
 <p align="center">
-  <img src="https://github.com/datactivist/challengedata4/blob/99ec1bb23bc0c5cb39edae7fcccf5c240f8847d1/images_cdb/contenu/Saint-Marcellin-1-7.png" />
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Saint-Marcellin-1-7.png" />
 </p>
 
 
@@ -119,7 +119,7 @@ Dans la nuit de mardi à mercredi, Monsieur Zimmermann, un important contributeu
 Lou-Anne et Audrey ont, quant à elles, travaillé sur les écoles primaires et maternelles. Les données fournies par la mairie étant en format PDF, il a donc fallu les rentrer manuellement. Les principales données concernant l’effectif, le niveau, le type d’école (privée, publique) et le nom de l’établissement. Là aussi, l’entrée des données dans le google sheet a pris du temps. 
 
 <p align="center">
-  <img src="https://github.com/datactivist/challengedata4/blob/99ec1bb23bc0c5cb39edae7fcccf5c240f8847d1/images_cdb/contenu/Saint-Marcellin-1-8.png" />
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Saint-Marcellin-1-8.png" />
 </p>
 
 E. a poursuivi la compilation des données sur les emplacements de stationnements pour vélo, afin d’avoir des données les plus complètes possible. Ainsi, il a croisé les données d’open street map et une carte fournie par la mairie de Saint-Marcellin.   
@@ -133,7 +133,7 @@ La journée s’est terminée avec la prise de contact avec Monsieur V.. Nous lu
 Quatrième jour : les données ont été nettoyées et standardisées, comme demandé. Désormais, notre prochaine étape est la publication des jeux de données, ainsi que des fiches descriptives. Chacun a rempli, pour son jeu respectif, une fiche qui précisait la source des données récoltées, leur type, et la licence sous laquelle seraient placées les informations publiées (ODBL pour les données provenant d’OpenStreetMap ou enrichies avec des données d’OpenStreetMap). En parallèle, nous avons créé le compte data.gouv.fr pour la commune, ainsi qu’un profil supplémentaire pour chaque membre du groupe. Malgré quelques problèmes de connexion internet qui ralentissaient notre travail, nous fûmes capables de compléter nos inscriptions et les fiches demandées.
 
 <p align="center">
-  <img src="https://github.com/datactivist/challengedata4/blob/99ec1bb23bc0c5cb39edae7fcccf5c240f8847d1/images_cdb/contenu/Saint-Marcellin-1-9.png" />
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Saint-Marcellin-1-9.png" />
 </p>
 
 La prochaine étape consiste à publier sur data.gouv.fr, au nom de la collectivité, les jeux de données regroupés. La matinée fut productive et efficace, avec un total de sept jeux de données complets et prêts à être publiés. Une fois toutes les étapes franchies, nous avons pu publier tous nos jeux de données sur la plateforme data.gouv.fr, sur la page de Saint-Marcellin fraîchement créée par nos soins (notamment Léo). 
@@ -143,7 +143,7 @@ La publication a été rapide et bien organisée (à l’exception d’une petit
 Dans l’après-midi, nous nous sommes répartis les tâches entre les deux groupes pour constituer le plan de communication pour l’open data. Le second groupe se chargeait des réseaux sociaux (notamment Facebook) et de la communication interne ; en parallèle, nous préparions la communication destinée aux élus, ainsi que celle qui sera publiée sur le site internet. Ensemble, nous avons pu préparer un plan de communication efficace, qui servira aux administrations de Saint-Marcellin pour mettre en avant les données fournies.
 
 <p align="center">
-  <img src="https://github.com/datactivist/challengedata4/blob/99ec1bb23bc0c5cb39edae7fcccf5c240f8847d1/images_cdb/contenu/Saint-Marcellin-1-10.png" />
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Saint-Marcellin-1-10.png" />
 </p>
 
 Suite à ce travail, nous avons en fin d’après-midi présenté le document rédigé à M.  Volovik (ci-contre), qui nous a donné des retours sur ce dernier. Nous en avons aussi profité pour présenter le fonctionnement de data.gouv.fr, et lui expliquer comment exploiter ou créer de nouveaux jeux de données. En lui donnant ces outils pour comprendre et recontextualiser les données, M. Volovik pourra guider la future production ou publication de l’open data. 
@@ -153,13 +153,13 @@ La production d’infographie pour le site internet (présente sur ce carnet de 
 **Illustration pour la communication de la data, sur le site de Saint-Marcellin :**
 
 <p align="center">
-  <img src="https://github.com/datactivist/challengedata4/blob/99ec1bb23bc0c5cb39edae7fcccf5c240f8847d1/images_cdb/contenu/Saint-Marcellin-1-11.png" />
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Saint-Marcellin-1-11.png" />
 </p>
 
 ## JOUR 5 – VALORISATION
 
 <p align="center">
-  <img src="https://github.com/datactivist/challengedata4/blob/99ec1bb23bc0c5cb39edae7fcccf5c240f8847d1/images_cdb/contenu/Saint-Marcellin-1-12.png" />
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Saint-Marcellin-1-12.png" />
 </p>
 
 Nous avons repris les groupes de travail affiliés à chacun des jeux de données et avons cherché ensemble les visualisations les plus adaptées pour représenter nos données.
@@ -182,43 +182,43 @@ Léo et Clémence ont construit une carte avec toutes les places de stationnemen
 
 **1. Vélo : Les parkings vélo**
 <p align="center">
-  <img src="https://github.com/datactivist/challengedata4/blob/99ec1bb23bc0c5cb39edae7fcccf5c240f8847d1/images_cdb/contenu/Saint-Marcellin-1-13.png" />
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Saint-Marcellin-1-13.png" />
 </p>
 Lien d’accès : http://u.osmfr.org/m/685498/
 
 <br/>**2. Aménagements cyclables**
 <p align="center">
-  <img src="https://github.com/datactivist/challengedata4/blob/99ec1bb23bc0c5cb39edae7fcccf5c240f8847d1/images_cdb/contenu/Saint-Marcellin-1-14.png" />
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Saint-Marcellin-1-14.png" />
 </p>
 Lien d’accès :  http://u.osmfr.org/m/685538/
 
 <br/>**3. Les lieux de stationnements**
 <p align="center">
-  <img src="https://github.com/datactivist/challengedata4/blob/99ec1bb23bc0c5cb39edae7fcccf5c240f8847d1/images_cdb/contenu/Saint-Marcellin-1-15.png" />
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Saint-Marcellin-1-15.png" />
 </p>
 Lien d’accès : http://u.osmfr.org/m/685497/
 
 <br/>**4. Les effectifs scolaires et crèches**
 <p align="center">
-  <img src="https://github.com/datactivist/challengedata4/blob/99ec1bb23bc0c5cb39edae7fcccf5c240f8847d1/images_cdb/contenu/Saint-Marcellin-1-16.png" />
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Saint-Marcellin-1-16.png" />
 </p>
 Lien d'accès : http://u.osmfr.org/m/685649/
 
 <br/>**5. Les lieux d’inclusion numérique**
 <p align="center">
-  <img src="https://github.com/datactivist/challengedata4/blob/99ec1bb23bc0c5cb39edae7fcccf5c240f8847d1/images_cdb/contenu/Saint-Marcellin-1-17.png" />
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Saint-Marcellin-1-17.png" />
 </p>
 Lien d’accès : http://u.osmfr.org/m/685505/
 
 <br/>**6. Les lieux de covoiturage**
 <p align="center">
-  <img src="https://github.com/datactivist/challengedata4/blob/99ec1bb23bc0c5cb39edae7fcccf5c240f8847d1/images_cdb/contenu/Saint-Marcellin-1-18.png" />
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Saint-Marcellin-1-18.png" />
 </p>
 Lien d’accès : http://u.osmfr.org/m/685507/
 
 <br/>**7. Carte des déplacements à Saint-Marcellin**
 <p align="center">
-  <img src="https://github.com/datactivist/challengedata4/blob/99ec1bb23bc0c5cb39edae7fcccf5c240f8847d1/images_cdb/contenu/Saint-Marcellin-1-19.png" />
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Saint-Marcellin-1-19.png" />
 </p>
 Lien d’accès : http://u.osmfr.org/m/685737/
 
@@ -238,7 +238,7 @@ Pour clôturer ce carnet de bord, voici notre plus gros casse-tête et notre plu
 * Notre plus belle réussite : avoir réussi à ouvrir sept jeux de données en partant de quasi rien, et surtout avoir su instaurer un réel esprit de cohésion, de solidarité et de coopération au sein de notre groupe
 
 <p align="center">
-  <img src="https://github.com/datactivist/challengedata4/blob/99ec1bb23bc0c5cb39edae7fcccf5c240f8847d1/images_cdb/contenu/Saint-Marcellin-1-20.png" />
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Saint-Marcellin-1-20.png" />
 </p>
 
 **Un grand merci de la part de toute l’équipe !**

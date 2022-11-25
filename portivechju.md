@@ -3,7 +3,7 @@
 par Clementine BERTHET, Victor DISSAUX, Theo GOURLET, Clara LE DIVENACH, Elisa R. et Chiara ZILOCCHI
 
 <p align="center">
-  <img src="https://github.com/datactivist/challengedata4/blob/7f2bb1fc6b2cf3038f0191aecdb4f438077568d3/images_cdb/Porto-Vecchio.jpg" />
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/Porto-Vecchio.jpg" />
 </p>
 
 ## JOUR 1 – DIAGNOSTIC
@@ -24,10 +24,10 @@ Cet entretien téléphonique a duré près de 40 minutes. G. P. a tenté de nous
 
 Afin de terminer cette journée très riche, nous avons transmis la wishlist (ci-dessous) à G. P..
 
-<!--- ![](https://github.com/datactivist/challengedata4/blob/c0d9baf21d915bb694294d3cd865aa02c5914208/images_cdb/contenu/PTU.png) --> 
+<!--- ![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/PTU.png) --> 
 
 <p align="center">
-  <img src="https://github.com/datactivist/challengedata4/blob/c0d9baf21d915bb694294d3cd865aa02c5914208/images_cdb/contenu/PTU.png" />
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/PTU.png" />
 </p>
 
 ## JOUR 2 – IDENTIFICATION
@@ -42,7 +42,7 @@ Enfin, après avoir analysé les données, nous avons constitué notre wanted da
 **Wanted data list :**
 
 <p align="center">
-  <img src="https://github.com/datactivist/challengedata4/blob/72120e3480706934688de9af3b36e7b02f4de98f/images_cdb/contenu/PTU2.png" />
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/PTU2.png" />
 </p>
 
 **Organigramme de la collectivité :**
@@ -96,7 +96,7 @@ Lien: [https://www.data.gouv.fr/fr/organizations/cita-di-portivechju/#organizati
 
 
 <p align="center">
-  <img src="https://github.com/datactivist/challengedata4/blob/d7b3a873c051de8b6d5b67bc45222a1487691a17/images_cdb/contenu/PTU4.png" />
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/PTU4.png" />
 </p>
 
 ## CONCLUSION

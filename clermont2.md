@@ -2,7 +2,7 @@
 
 par B.	B., BUCH	Mariam, FALL Anta, MEHAZEM	Mohamed-Nejib, THIERION DE MONCLIN Christille, WALLET Paul-Henri, Z. Aïssa
 
-![](https://github.com/datactivist/challengedata4/blob/main/images_cdb/Clermont2.jpg)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/Clermont2.jpg)
 
 
 ## Introduction 
@@ -55,7 +55,7 @@ Certaines données de localisation géographique du patrimoine géologique ont �
 
 Certains éléments nous ont manqué, et nous avons donc attendu l’aide de notre référente Magalie afin d’avoir quelques éclaircissements. 
 
-![](https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/clermont2_organigramme.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/clermont2_organigramme.png)
 
 
 Wishlist et wanted data list :
@@ -109,7 +109,7 @@ Nous avons réalisé le plan de communication pour le partage des données.
 **jeux de données publiés**
 
 <p align="center">
-  <img src="https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/clermont2_donnees_publiees.PNG" />
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/clermont2_donnees_publiees.PNG" />
 </p>
 
 
@@ -140,20 +140,20 @@ A bientôt pour de nouvelles dataventures !!
   
 
 <p align="center">
- <img src="https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/clermont2_ACR.png" width="400">
- <img src="https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/clermont2_Heure_ouverture_musees_par_an.png" width="400">
- <img src="https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/clermont2_Heures%20d_ouverture%20musees.png" width="400">
- <img src="https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/clermont2__Patrimoine%20g%C3%A9ologique.png" width="400">
- <img src="https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/clermont2__Patrimoine%20monuments%20par%20si%C3%A8cle.png" width="400">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/clermont2_ACR.png" width="400">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/clermont2_Heure_ouverture_musees_par_an.png" width="400">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/clermont2_Heures%20d_ouverture%20musees.png" width="400">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/clermont2__Patrimoine%20g%C3%A9ologique.png" width="400">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/clermont2__Patrimoine%20monuments%20par%20si%C3%A8cle.png" width="400">
 </p>
 
 
 <p align="center">
- <img src="https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/clermont2_ENS.png" width="400">
- <img src="https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/clermont2_EPG%20.png" width="400">
- <img src="https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/clermont2_natura_2000.png" width="400">
- <img src="https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/clermont2_ZNIEFF1.png" width="400">
- <img src="https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/clermont2_ZNIEFF2.png" width="400">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/clermont2_ENS.png" width="400">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/clermont2_EPG%20.png" width="400">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/clermont2_natura_2000.png" width="400">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/clermont2_ZNIEFF1.png" width="400">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/clermont2_ZNIEFF2.png" width="400">
 </p>
     
     
@@ -196,6 +196,6 @@ Au nom du groupe 12, nous vous remercions pour cette expérience et vous souhait
 
 
 <p align="center">
-  <img src="https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/clermont1_groupe.png" />
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/clermont1_groupe.png" />
 </p>
 

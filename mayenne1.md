@@ -2,13 +2,13 @@
 
 par Hamza Achouri, Pauline Cadorin, Thomas H, Lisa Loyer, Camille Paul, Célia Roig et Anais Vilar-Sancho
 
-![](https://github.com/datactivist/challengedata4/raw/main/images_cdb/Mayenne1.jpg)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/Mayenne1.jpg)
 
 **INTRODUCTION**
 
 Le groupe 15 s’est vu attribuer, de même que le groupe 16, l’ouverture de données du département de la Mayenne. La Mayenne est située au Nord-Ouest de la France, entre la Sarthe et l’Ille-et-Vilaine, et possède le code postal 53000. Son chef-lieu et ville de préfecture est Laval. Au sein du département de la Mayenne, 1 570 agents exercent plus de 170 métiers. Les mayennais sont représentés par 34 conseillers départementaux, dont le président est Olivier Richefou.
 
-![](https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/mayenne1_1.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/mayenne1_1.png)
 
 
 Les départements possèdent de nombreuses compétences sur leur territoire, telles que :
@@ -30,7 +30,7 @@ Les départements possèdent de nombreuses compétences sur leur territoire, tel
 
 ## JOUR 1 – DIAGNOSTIC
 
-![](https://github.com/datactivist/challengedata4/raw/main/images_cdb/contenu/mayenne1_2.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/mayenne1_2.png)
 
 
 Notre **première journée du #Challengedata** s’ouvre aujourd’hui ! 
@@ -100,7 +100,7 @@ La journée 2 de cette semaine du Data Challenge consistait à **l’identificat
 La première étape de cette journée était la recherche de données nous permettant de réaliser les jeux de données attendus par la collectivité. Or, notre interlocutrice Madame H très motivée et engagée dans l’ouverture de ces données, nous a permis de gagner beaucoup de temps sur cette étape. En effet, à la fin de la première journée, elle nous avait déjà envoyé un dossier contenant 7 Excels avec des données concernant l’enseignement et un Word explicatif des données de chacun des tableaux de données. La réactivité et la motivation de notre interlocutrice nous a vraiment permis de gagner en efficacité et en temps, nous n’avons donc pas manqué de la remercier à chaque appel ou échange par mail. 
 
 
-![](https://github.com/datactivist/challengedata4/raw/main/images_cdb/contenu/mayenne1_3.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/mayenne1_3.png)
 
 _Excels envoyés par Madame H_
 
@@ -131,7 +131,7 @@ Toute la fin de matinée était donc consacrée à l’évaluation et le début 
 En début d’après-midi nous avons donc réalisé **l’appel avec Madame H**. Elle a répondu à toutes nos questions et nous a envoyé par mail à la suite de l’appel les données manquantes de certains jeux de données. Sa réactivité a de nouveau été d’une aide précieuse. 
 
 
-![](https://github.com/datactivist/challengedata4/raw/main/images_cdb/contenu/mayenne1_4.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/mayenne1_4.png)
 
 
 _Réunion zoom avec notre interlocutrice principale : Madame H_
@@ -189,7 +189,7 @@ Les jeux que nous nous engageons à ouvrir sont au nombre de cinq et sont : l’
 **Organigramme récapitulatif** :
 
 
-![](https://github.com/datactivist/challengedata4/raw/main/images_cdb/contenu/mayenne1_5.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/mayenne1_5.png)
 
 
 - **Base 1** : [http://urlr.me/Xnsv4](http://urlr.me/Xnsv4)
@@ -197,7 +197,7 @@ Les jeux que nous nous engageons à ouvrir sont au nombre de cinq et sont : l’
 **Wanted Data List** :
 
 
-![](https://github.com/datactivist/challengedata4/raw/main/images_cdb/contenu/mayenne1_6.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/mayenne1_6.png)
 
 
 L’intégralité du document est disponible sur le lien drive suivant : 
@@ -209,7 +209,7 @@ L’intégralité du document est disponible sur le lien drive suivant :
 
 
 
-![](https://github.com/datactivist/challengedata4/raw/main/images_cdb/contenu/mayenne1_7.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/mayenne1_7.png)
 
 
 Comme les jours précédents, notre troisième journée du #ChallengeData a commencé par le briefing général commun à toute la promotion. Julia Dumont nous a expliqué le déroulé et les étapes à réaliser pour la mise en qualité des données. Nous nous sommes rapidement rendu compte que nous avions déjà bien avancé la veille sur les étapes de compilation et de complétion des données manquantes par rapport aux standards et aux attentes de la collectivité.
@@ -259,7 +259,7 @@ Ainsi les autres membres du groupe ont pu s’avancer sur le travail et notammen
 
 Nous avons aussi avancé sur la charte graphique et les éléments de communication. Madame H nous a beaucoup facilité le travail car celle-ci nous a fourni notamment d’anciens flyers, des codes couleurs correspondant au département de la Mayenne ainsi que le logo du département. Nous pouvons donc reprendre ces éléments et les adapter à la communication interne dont nous sommes en charge. 
 
-![](https://github.com/datactivist/challengedata4/raw/main/images_cdb/contenu/mayenne1_8.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/mayenne1_8.png)
 
 Voici les membres du groupe en train de compléter les fiches descriptives ou s’avançant sur la datavisualisation et valorisation de demain. Lisa a droite a eu la brillante idée d’enregistrer sur le dictaphone de son téléphone tous les éléments évoqués par Madame H lors de la réunion Zoom, ainsi, elle peut réécouter les précisions et données qu’elle n’a pas eu le temps de noter en « direct ». 
 
@@ -271,7 +271,7 @@ Préalablement nous nous sommes chargés de convertir tous les documents Excel e
 
 Nous nous attaquons donc à la publication des données sur la plateforme partagée par notre référente Madame H. La plateforme en question s’intitule OpenDataSoft et est une plateforme semi-ouverte, c’est-à-dire qu’elle n’est pas accessible au grand public à l’heure actuelle. 
 
-![](https://github.com/datactivist/challengedata4/raw/main/images_cdb/contenu/mayenne1_9.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/mayenne1_9.png)
 
 Nous avons eu quelques soucis de publication mais des problèmes mineurs. Nous avons pris environ 1h30-2h à publier tous les jeux de données en veillant à remplir convenablement la partie « informations ».
 
@@ -281,13 +281,13 @@ Ainsi nous avons pu laissé libre cours à notre imagination afin de partager à
 
 Voici quelques **exemples des éléments créés pour le support de communication interne**. Cela ne représente qu’un premier jet, plusieurs modifications pourront être modifiées demain par exemple.
 
-![](https://github.com/datactivist/challengedata4/raw/main/images_cdb/contenu/mayenne1_10.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/mayenne1_10.png)
 
 
 
 ## JOUR 5 – VALORISATION
 
-![](https://github.com/datactivist/challengedata4/raw/main/images_cdb/contenu/mayenne1_11.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/mayenne1_11.png)
 
 
 La journée a commencé par la réunion de 9h. Ensuite, on s’est réunis à la bibliothèque pour s’occuper de la _datavisualisation_. Pour ce-dernier, on s’est divisé la tâche collectivement en fonction des 6 différents points que l’on souhaitait aborder pour la collectivité. On se conseillait plus collectivement sur quels outils étaient les plus adéquats pour les cartographies, les conceptions graphiques de celles-ci second la charte que Mme H nous a envoyé ainsi que la contextualisation. On a ensuite transféré les datavisualisations que l’on a faites directement sur Canva pour avoir un rendu de meilleure qualité à envoyer à Mme H, toujours en respectant la charte graphique qu’elle nous a communiqué.
@@ -316,35 +316,35 @@ Enfin, on a présenté notre travail à Mme H sur la plateforme Gather
 
 **Les datavisualisations réalisées** : 
 
-![](https://github.com/datactivist/challengedata4/raw/main/images_cdb/contenu/mayenne1_12.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/mayenne1_12.png)
 
-![](https://github.com/datactivist/challengedata4/raw/main/images_cdb/contenu/mayenne1_13.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/mayenne1_13.png)
 
-![](https://github.com/datactivist/challengedata4/raw/main/images_cdb/contenu/mayenne1_14.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/mayenne1_14.png)
 
-![](https://github.com/datactivist/challengedata4/raw/main/images_cdb/contenu/mayenne1_15.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/mayenne1_15.png)
 
-![](https://github.com/datactivist/challengedata4/raw/main/images_cdb/contenu/mayenne1_16.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/mayenne1_16.png)
 
-![](https://github.com/datactivist/challengedata4/raw/main/images_cdb/contenu/mayenne1_17.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/mayenne1_17.png)
 
-![](https://github.com/datactivist/challengedata4/raw/main/images_cdb/contenu/mayenne1_18.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/mayenne1_18.png)
 
-![](https://github.com/datactivist/challengedata4/raw/main/images_cdb/contenu/mayenne1_19.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/mayenne1_19.png)
 
-![](https://github.com/datactivist/challengedata4/raw/main/images_cdb/contenu/mayenne1_20.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/mayenne1_20.png)
 
-![](https://github.com/datactivist/challengedata4/raw/main/images_cdb/contenu/mayenne1_21.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/mayenne1_21.png)
 
-![](https://github.com/datactivist/challengedata4/raw/main/images_cdb/contenu/mayenne1_22.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/mayenne1_22.png)
 
-![](https://github.com/datactivist/challengedata4/raw/main/images_cdb/contenu/mayenne1_23.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/mayenne1_23.png)
 
 
 
 **CONCLUSION**
 
-![](https://github.com/datactivist/challengedata4/raw/main/images_cdb/contenu/mayenne1_24.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/mayenne1_24.png)
 
 
 Au terme de cette belle aventure du #ChallengeData, notre groupe a réussi à ouvrir 6 jeux de données : _Effectifs scolaires des collèges, Projection 2020-2027 sur les effectifs par collège, Liste des principaux et gestionnaires des collèges et conseillers départementaux, Enseignement supérieur, Actions engagées par les établissements (financées par le département)._ Nous avons pu valoriser chacune de ces données, et réaliser pour la restitution un diaporama illustré présentant nos travaux de la semaine.

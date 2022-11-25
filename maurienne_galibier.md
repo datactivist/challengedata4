@@ -2,7 +2,7 @@
 
 Par CALIN Jade, G.F., LE CAM Louise, LENAY Celia, TAN Tania et VILLET Enzo
 
-![](https://github.com/datactivist/challengedata4/blob/main/images_cdb/Maurienne%20Galibier.jpg)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/Maurienne%20Galibier.jpg)
 
 ## JOUR 1 – DIAGNOSTIC
 

@@ -2,7 +2,7 @@
 
 par C. Chloe, MEYER	Wynona, P. Thomas, U. Lola, STEMMELIN	Valentine, T.-M. Adèle, TRELLU Salome
 
-![](https://github.com/datactivist/challengedata4/blob/main/images_cdb/Clermont1.jpg)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/Clermont1.jpg)
 
 
 ## INTRODUCTION
@@ -53,7 +53,7 @@ Dès le début de l’après-midi, nous avons pu nous concentrer sur les** reche
 
 Au cours de la journée, nous avons également créé un **organigramme** de nos données. Cet exercice s’est révélé plus compliqué que nous le pensions car nous disposons d’un nombre de jeux de données très important. En effet, il a été particulièrement difficile de retrouver les directions et les services de chaque commune en charge de l’agenda événementiel et des randonnées. Finalement, nous sommes parvenus à établir un organigramme satisfaisant malgré quelques difficultés. En parallèle, un autre groupe de travail s’est occupé de faire l’**évaluation des données**. Cette étape était relativement simple à réaliser.
 
-![](https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/clemront1_organigramme.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/clemront1_organigramme.png)
 
 Enfin, nous avons fini notre deuxième journée de _Challenge Data_ par la **seconde réunion** prévue avec notre interlocutrice de la collectivité. Cette dernière nous a malheureusement indiqué que le service SIG (Système d’Information Géographique) de la collectivité n’était pas en mesure de nous envoyer davantage de documentation. Nous devrons donc nous appuyer exclusivement sur les informations disponibles sur les différents sites Internet. Notre référente de Clermont Auvergne Métropole a obtenu l’accord de la mairie de Ceyrat pour ouvrir les données des chemins de randonnées de l'association "Ceyrando". Nous avons ainsi décidé, en accord notre interlocutrice de la collectivité, que nous traiterons l'ensemble des jeux de données de chemins de randonnée, pédestres et vélos confondus (un jeu de données par producteur, soit trois jeux au total). Enfin, au cours de cette réunion, nous avons discuté plus amplement de notre **_Wanted Data List_** : nous nous sommes donc accordés pour ouvrir exclusivement les trois jeux de données des chemins de randonnées demandés par la métropole. Si nous avons le temps par la suite, nous essayerons d'ouvrir également les données des agendas événementiels des communes de la métropole. 
 
@@ -120,5 +120,5 @@ Tout au long de cette semaine, notre sens du travail en équipe s’est renforc�
 
 **Notre casse-tête principal** a sûrement eu lieu au cours de la deuxième journée, lorsque nous avons dû recenser toutes les informations disponibles sur les différents sites Internet des producteurs dans des tableurs. En effet, dans nos parcours étudiants respectifs, nous avions assez peu utilisé l’outil Excel. La découverte de ce logiciel et du travail sur un document type de traitement des jeux de données “agenda” ou “randonnées”, à plusieurs, a constitué une difficulté pour notre groupe, durant le deuxième jour notamment. Grâce à l’identification de cette difficulté, nous avons réussi à nous organiser, à se répartir sectoriellement le travail pour  continuer notre mission de la meilleure façon possible. A l’inverse, **notre plus belle réussite** a été la présentation finale car, pour la première fois de la semaine, nous avons pu rencontrer (virtuellement, malheureusement) l’ensemble des acteurs faisant partie du projet. Nous avons pu leur présenter l’ensemble des travaux réalisés cette semaine : cela nous a permis, tout en les remerciant pour cette mission enrichissante, de mettre en perspective l’utilité concrète de nos réalisations pour la collectivité, et nous en sommes particulièrement fiers. Dans son ensemble, **cette semaine a été extrêmement bénéfique pour chacun d’entre nous **: nous prendrons plaisir à partager autour de nous cette belle réussite personnelle, collective et professionnelle.
 
-![](https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/clermont1_groupe.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/clermont1_groupe.png)
 

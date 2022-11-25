@@ -2,7 +2,7 @@
 
 par Jonathan C., Lisa CRUELLS, Adam GOURVEST, Yasmina KORVAL, Adonis LEROYER et Alexandre SELLES
 
-![](https://github.com/datactivist/challengedata4/blob/main/images_cdb/Marseillan.jpg)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/Marseillan.jpg)
 
 ## JOUR 1 – DIAGNOSTIC
 
@@ -34,7 +34,7 @@ par Jonathan C., Lisa CRUELLS, Adam GOURVEST, Yasmina KORVAL, Adonis LEROYER et 
 </table>
 
 <p align="center">
-  <img src="https://github.com/datactivist/challengedata4/blob/c0d9baf21d915bb694294d3cd865aa02c5914208/images_cdb/contenu/PTU.png" />
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/PTU.png" />
 </p>
 
 ## JOUR 2 – IDENTIFICATION
@@ -111,7 +111,7 @@ En début d’après-midi nous avons tous créé notre compte sur data.gouv afin
 Lien vers la vidéo : ![https://drive.google.com/file/d/1OcZVrBpyQccxJXpHep1VDCODZD74b4mI/view?usp=sharing](https://drive.google.com/file/d/1OcZVrBpyQccxJXpHep1VDCODZD74b4mI/view?usp=sharing) **
 
 <p align="center">
-  <img src="https://github.com/datactivist/challengedata4/blob/3c29dc20704641f4f8cf373b2d9db031c6a0d6fd/images_cdb/contenu/Marseillan3.png" />
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Marseillan3.png" />
 </p>
 
 ## JOUR 5 – VALORISATION
@@ -127,24 +127,24 @@ Une fois que nous avons eu l’aval du directeur général des services M. Gueyl
 La réalisation n’a pas été facile car nous n’avons pas les compétences suffisantes pour la réalisation de graphique sur Google Sheets d’où le casse tête du jour. 
 
 <p align="center">
-  <img src="https://github.com/datactivist/challengedata4/blob/3c29dc20704641f4f8cf373b2d9db031c6a0d6fd/images_cdb/contenu/Marseillan4.png" />
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Marseillan4.png" />
 </p>
 
 * Le graphique sur la liste des élus à pour but de montrer que malgré le fait qu’il y a plus de femme au total mais elle sont moins nombreuse à cumuler trois mandat.
 
 <p align="center">
-  <img src="https://github.com/datactivist/challengedata4/blob/3c29dc20704641f4f8cf373b2d9db031c6a0d6fd/images_cdb/contenu/Marseillan5.png" />
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Marseillan5.png" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/datactivist/challengedata4/blob/3c29dc20704641f4f8cf373b2d9db031c6a0d6fd/images_cdb/contenu/Marseillan6.png" />
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Marseillan6.png" />
 </p>
 
 
 * Ce graphique met en avant le vote des citoyens de marseillan aux élections présidentielles de 2017 durant le premier tour.  
 
 <p align="center">
-  <img src="https://github.com/datactivist/challengedata4/blob/3c29dc20704641f4f8cf373b2d9db031c6a0d6fd/images_cdb/contenu/Marseillan7.png" />
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Marseillan7.png" />
 </p>
 
 * Ce tableau et cet histogramme récapitulent l'ensemble des actes civils produits sur la Commune de Marseillan depuis 2016. Il y a les naissances, les décès, les mariages, les PACS et les transcriptions des actes de décès dans les registres de la Commune. Ces deux éléments peuvent aider à établir des statistiques sur l'accroissement naturel de la commune ; et ainsi aider les collectivités territoriales à adapter leurs actions en faveur des habitants. 
@@ -153,7 +153,7 @@ Ce fut une journée productive, bien que challengeante en ce qui concerne la ré
 
 
 <p align="center">
-  <img src="https://github.com/datactivist/challengedata4/blob/3c29dc20704641f4f8cf373b2d9db031c6a0d6fd/images_cdb/contenu/Marseillan8.png" />
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/Marseillan8.png" />
 </p>
 
 

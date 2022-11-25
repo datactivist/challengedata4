@@ -79,7 +79,7 @@ Notre wanted database se concentre sur :
 Organigramme des personnes ressources pour la collecte des données :
     
 
-![](https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/annecy1_organigramme.png)
+![]( https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/annecy1_organigramme.png)
 
 
 
@@ -87,7 +87,7 @@ Organigramme des personnes ressources pour la collecte des données :
 
 Wanted data list :
 
-![](https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/annecy1_wanteddatalist.png)
+![]( https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/annecy1_wanteddatalist.png)
     
 
 
@@ -195,25 +195,25 @@ Enfin, il était très gratifiant de voir se concrétiser les résultats de nos 
 
 -**Lieux d'inclusion numérique du territoire** carte sur le lien suivant -> [http://u.osmfr.org/m/685513/](http://u.osmfr.org/m/685513/)
 <p align="center">
- <img src="https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/annecy1_dataviz1.png" width="400">
+ <img src=" https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/annecy1_dataviz1.png" width="400">
 </p>
 
 -**Monuments historiques de la ville d’Annecy** carte sur le lien suivant -> [http://u.osmfr.org/m/685550/](http://u.osmfr.org/m/685550/)
 
 -**Résultats des élections municipales de 2020 pour la ville d’Annecy**
 <p align="center">
- <img src="https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/annecy1_dataviz2.png" width="500">
- <img src="https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/annecy1_dataviz3.png" width="400">
- <img src="https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/annecy1_dataviz4.png" width="400">
+ <img src=" https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/annecy1_dataviz2.png" width="500">
+ <img src=" https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/annecy1_dataviz3.png" width="400">
+ <img src=" https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/annecy1_dataviz4.png" width="400">
 </p>
 
 
 -**Résultats des élections présidentielles de 2017 à Annecy**
            
 <p align="center">
- <img src="https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/annecy1_dataviz5.png" width="400">
- <img src="https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/annecy1_dataviz6.png" width="400">
- <img src="https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/annecy1_dataviz7.png" width="400">
+ <img src=" https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/annecy1_dataviz5.png" width="400">
+ <img src=" https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/annecy1_dataviz6.png" width="400">
+ <img src=" https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/annecy1_dataviz7.png" width="400">
 </p>     
 
 

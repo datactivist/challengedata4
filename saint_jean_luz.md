@@ -1,7 +1,7 @@
 # Carnet de bord de l'ouverture des données de Saint Jean de Luz (groupe 17)
 
 par P. Maxence, LASSUS Iris, LEFROY Paul, NGNOGUE Lena, VALLAEYS Ebbane, VIALA Flavie
-![](https://github.com/datactivist/challengedata4/blob/main/images_cdb/Saint%20Jean%20de%20Luz.jpg)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/Saint%20Jean%20de%20Luz.jpg)
 
 
 ## JOUR 1 – INTRODUCTION et DIAGNOSTIC
@@ -75,7 +75,7 @@ Enfin, nous avons dû chercher les SIRET d’une centaine d’associations, ce q
 
 Ce matin, nous avons commencé par passer les 3 jeux de données, délibérations, liste des prénoms et subventions, au validateur. Les jeux ont été validés avec respectivement 88%, 100% et 99,4%. 
 
-![](https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/SJDL_Validateur_pr%C3%A9noms.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/SJDL_Validateur_pr%C3%A9noms.png)
 
 Nos missions pour cette journée sont de remplir les fiches descriptives et de publier les données, mais aussi de travailler à une stratégie opendata de la collectivité, ainsi qu’une stratégie de communication autour de la publication.  
 Nous nous sommes donc répartis le travail par petits groupes pour la matinée : certains s’occupent de remplir les fiches descriptives (Killian, Maxence, Paul), pendant que d’autres créent le compte de la collectivité pour la publication (Ebbane), et enfin les derniers commencent le diaporama de présentation de la stratégie OpenData de la collectivité. 
@@ -138,10 +138,10 @@ Nous avons eu un appel final à 15h avec M.Bourdoulous pour présenter nos graph
 *Visualisations des thématiques des délibérations prises par la ville de saint jean de luz en 2019 et 2020* 
 
 En nombre réel : 
-![](https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/SJDL_dataviz1.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/SJDL_dataviz1.png)
 
 En pourcentage : 
-![](https://github.com/datactivist/challengedata4/blob/main/images_cdb/contenu/SJDL_dataviz_2.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata4/main/images_cdb/contenu/SJDL_dataviz_2.png)
 
 *Délibérations*
 [https://saint-jean-de-luz-opendatapaysbasque.opendatasoft.com/explore/embed/dataset/subventions-de-la-commune-de-saint-jean-de-luz-2020/analyze/?dataChart=eyJxdWVyaWVzIjpbeyJjaGFydHMiOlt7InR5cGUiOiJjb2x1bW4iLCJmdW5jIjoiQVZHIiwieUF4aXMiOiJtb250YW50Iiwic2NpZW50aWZpY0Rpc3BsYXkiOnRydWUsImNvbG9yIjoiI2QwMGUxYyJ9XSwieEF4aXMiOiJzZWN0ZXVyIiwibWF4cG9pbnRzIjoiIiwidGltZXNjYWxlIjoiIiwic29ydCI6InNlcmllMS0xIiwic2VyaWVzQnJlYWtkb3duVGltZXNjYWxlIjoiIiwiY29uZmlnIjp7ImRhdGFzZXQiOiJzdWJ2ZW50aW9ucy1kZS1sYS1jb21tdW5lLWRlLXNhaW50LWplYW4tZGUtbHV6LTIwMjAiLCJvcHRpb25zIjp7fX19XSwiZGlzcGxheUxlZ2VuZCI6dHJ1ZSwiYWxpZ25Nb250aCI6dHJ1ZSwidGltZXNjYWxlIjoiIn0%3D](https://saint-jean-de-luz-opendatapaysbasque.opendatasoft.com/explore/embed/dataset/subventions-de-la-commune-de-saint-jean-de-luz-2020/analyze/?dataChart=eyJxdWVyaWVzIjpbeyJjaGFydHMiOlt7InR5cGUiOiJjb2x1bW4iLCJmdW5jIjoiQVZHIiwieUF4aXMiOiJtb250YW50Iiwic2NpZW50aWZpY0Rpc3BsYXkiOnRydWUsImNvbG9yIjoiI2QwMGUxYyJ9XSwieEF4aXMiOiJzZWN0ZXVyIiwibWF4cG9pbnRzIjoiIiwidGltZXNjYWxlIjoiIiwic29ydCI6InNlcmllMS0xIiwic2VyaWVzQnJlYWtkb3duVGltZXNjYWxlIjoiIiwiY29uZmlnIjp7ImRhdGFzZXQiOiJzdWJ2ZW50aW9ucy1kZS1sYS1jb21tdW5lLWRlLXNhaW50LWplYW4tZGUtbHV6LTIwMjAiLCJvcHRpb25zIjp7fX19XSwiZGlzcGxheUxlZ2VuZCI6dHJ1ZSwiYWxpZ25Nb250aCI6dHJ1ZSwidGltZXNjYWxlIjoiIn0%3D)
