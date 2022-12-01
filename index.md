@@ -92,7 +92,8 @@
 
 ## Région Sud \(Région\)
 
-[![Illustration réalisé par Anne-Cécile Calléjon](https://github.com/datactivist/challengedata4/raw/main/images_cdb/Annecy2.jpg)](https://datactivist.coop/challengedata4/annecy2)
+[![Illustration réalisé par Anne-Cécile Calléjon](https://github.com/datactivist/challengedata4/raw/main/images_cdb/
+Region_sud.jpg)](https://datactivist.coop/challengedata4/region_sud)
 
 
 ## Saint Jean de Luz \(Commune\)
