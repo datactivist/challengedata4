@@ -155,7 +155,7 @@ Etat civil
 
 
 * **Actes d'État civil:** Le jeu de données étant très complet et quasiment identique au Template, le travail de formatage sera très léger.
-* **Prénoms des nouveaux nés: **De la même façon les données correspondent déjà au Template, nous allons seulement compiler les deux jeux (prénoms féminins et masculins).
+* **Prénoms des nouveaux nés:** De la même façon les données correspondent déjà au Template, nous allons seulement compiler les deux jeux (prénoms féminins et masculins).
 
 Bibliothèque
 
