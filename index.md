@@ -11,6 +11,11 @@
 [![Illustration réalisé par Anne-Cécile Calléjon](https://github.com/datactivist/challengedata4/raw/main/images_cdb/Annecy2.jpg)](https://datactivist.coop/challengedata4/annecy2)
 
 
+## Assemblée du Pays Tarentaise Vanoise \(Syndicat\)
+
+[![Illustration réalisé par Anne-Cécile Calléjon](https://github.com/datactivist/challengedata4/raw/main/images_cdb/Tarentaise%20Vanoise.jpg)](https://datactivist.coop/challengedata4/tarentaise_vanoise)
+
+
 ## Bayonne \(Commune\)
 
 [![Illustration réalisé par Anne-Cécile Calléjon](https://github.com/datactivist/challengedata4/raw/main/images_cdb/Bayonne.jpg)](https://datactivist.coop/challengedata4/bayonne)
@@ -32,7 +37,7 @@
 
 ## Entre Juine et Renarde \(Communauté de communes\)
 
-[![Illustration réalisé par Anne-Cécile Calléjon](https://github.com/datactivist/challengedata4/raw/main/images_cdb/Juine%et%Renarde.jpg)](https://datactivist.coop/challengedata4/juine_renarde)
+[![Illustration réalisé par Anne-Cécile Calléjon](https://github.com/datactivist/challengedata4/raw/main/images_cdb/Juine%20et%20Renarde.jpg)](https://datactivist.coop/challengedata4/juine_renarde)
 
 
 ## Lacq Orthez \(Communauté de communes\)
@@ -47,12 +52,12 @@
 
 ## Saint Marcellin, groupe 1 \(Commune\)
 
-[![Illustration réalisé par Anne-Cécile Calléjon](https://github.com/datactivist/challengedata4/raw/main/images_cdb/Saint%Marcelin1.jpg)](https://datactivist.coop/challengedata4/marcellin1)
+[![Illustration réalisé par Anne-Cécile Calléjon](https://github.com/datactivist/challengedata4/raw/main/images_cdb/Saint%20Marcelin1.jpg)](https://datactivist.coop/challengedata4/marcellin1)
 
 
 ## Saint Marcellin, groupe 2 \(Commune\)
 
-[![Illustration réalisé par Anne-Cécile Calléjon](https://github.com/datactivist/challengedata4/raw/main/images_cdb/Saint%Marcelin2.jpg)](https://datactivist.coop/challengedata4/marcellin2)
+[![Illustration réalisé par Anne-Cécile Calléjon](https://github.com/datactivist/challengedata4/raw/main/images_cdb/Saint%20Marcelin2.jpg)](https://datactivist.coop/challengedata4/marcellin2)
 
 
 ## Marseillan \(Commune\)
@@ -67,7 +72,7 @@
 
 ## Maurienne Galibier \(Commune\)
 
-[![Illustration réalisé par Anne-Cécile Calléjon](https://github.com/datactivist/challengedata4/raw/main/images_cdb/Maurienne%Galibier.jpg)](https://datactivist.coop/challengedata4/maurienne_galibier)
+[![Illustration réalisé par Anne-Cécile Calléjon](https://github.com/datactivist/challengedata4/raw/main/images_cdb/Maurienne%20Galibier.jpg)](https://datactivist.coop/challengedata4/maurienne_galibier)
 
 
 ## Mayenne, groupe 1 \(Conseil départemental\)
@@ -85,17 +90,11 @@
 [![Illustration réalisé par Anne-Cécile Calléjon](https://github.com/datactivist/challengedata4/raw/main/images_cdb/Porto-Vecchio.jpg)](https://datactivist.coop/challengedata4/portivechju)
 
 
-## Sud \(Région\)
+## Région Sud \(Région\)
 
 [![Illustration réalisé par Anne-Cécile Calléjon](https://github.com/datactivist/challengedata4/raw/main/images_cdb/Annecy2.jpg)](https://datactivist.coop/challengedata4/annecy2)
 
 
-## Annecy \(Commune\)
+## Saint Jean de Luz \(Commune\)
 
-[![Illustration réalisé par Anne-Cécile Calléjon](https://github.com/datactivist/challengedata4/raw/main/images_cdb/Annecy2.jpg)](https://datactivist.coop/challengedata4/annecy2)
-
-
-## Annecy \(Commune\)
-
-[![Illustration réalisé par Anne-Cécile Calléjon](https://github.com/datactivist/challengedata4/raw/main/images_cdb/Annecy2.jpg)](https://datactivist.coop/challengedata4/annecy2)
-
+[![Illustration réalisé par Anne-Cécile Calléjon](https://github.com/datactivist/challengedata4/raw/main/images_cdb/Saint%20Jean%20de%20Luz.jpg)](https://datactivist.coop/challengedata4/saint_jean_luz)
