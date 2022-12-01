@@ -121,7 +121,7 @@ Fiche descriptive : [https://docs.google.com/presentation/d/1_a0xyTEGPqmV0OFBjn2
 Fiche descriptive : (https://docs.google.com/presentation/d/1jygGobUzn1dMylbQOGoecrynxak0QEEf/edit?usp=sharing&ouid=100020836738626066350&rtpof=true&sd=true) 
 
 
-**JOUR 5 – VALORISATION**
+## JOUR 5 – VALORISATION
 
 Ce matin nous avons commencé par nous demander comment nous pouvions réaliser une datavisualisation efficace et attractive, donner du sens à nos données, et en tirer des informations utiles. Nous nous sommes partagés les jeux de données afin de les mettre en valeur le plus efficacement possible. 
 
