@@ -106,7 +106,7 @@ _Excels envoyés par Madame H_
 
 Dès le début de cette journée 2, ayant déjà les données à disponibilité, nous avons décidé de nous séparer en groupes distincts toujours dans un souci d’efficacité. La première équipe, composée de Célia, Lisa et Thomas, s’est penché sur la réalisation de l’organigramme des données transmises par le département de la Mayenne. La deuxième équipe avec Anaïs, Camille, Pauline et Hamza s’est concentrée sur l’évaluation des jeux de données.
 
-Concernant la** réalisation de l’organigramme,** le problème fut que notre unique source était Madame H du département de la Mayenne. Or, même si c’est elle qui les a rassemblées, elles proviennent de différentes sources. Cependant, rapidement, un membre de l’équipe s’est aperçu que dans le Word explicatif figuraient d’autres sources comme Mme P. de la direction de l’enseignement. Ainsi, la communication au sein de l’équipe nous a vraiment permis d’avancer sur ce point et de réaliser l’organigramme (cf. fin du Carnet de Bord de la journée 2) que nous avons voulu le plus complet possible. 
+Concernant la **réalisation de l’organigramme,** le problème fut que notre unique source était Madame H du département de la Mayenne. Or, même si c’est elle qui les a rassemblées, elles proviennent de différentes sources. Cependant, rapidement, un membre de l’équipe s’est aperçu que dans le Word explicatif figuraient d’autres sources comme Mme P. de la direction de l’enseignement. Ainsi, la communication au sein de l’équipe nous a vraiment permis d’avancer sur ce point et de réaliser l’organigramme (cf. fin du Carnet de Bord de la journée 2) que nous avons voulu le plus complet possible. 
 
 Ensuite, concernant **l’évaluation des données**, l’équipe a également pu travailler très efficacement. Avant toute chose, Camille a renommé chacun des fichiers pour les placer dans le Google Drive Mayenne. Ensuite, chaque membre de la deuxième équipe a sélectionné l’un des Excels reçu pour évaluer le travail nécessaire pour son ouverture en jeu de données mais également commencé préalablement la mise en qualité pour prendre de l’avance sur le travail plutôt long qui nous attendait pour la journée suivante. 
 
@@ -249,7 +249,7 @@ Le bilan de mise en qualité : [https://docs.google.com/document/d/15Q39lLiIdMZy
 En fin de journée, nous avons apporté notre aide à l’équipe qui travaille avec la commune de Saint-Marcellin qui était en difficulté. Chacun d’entre nous a complété quelques lignes de leur base des données des commerces de la ville. 
 
 
- ## JOUR 4 – PUBLICATION
+## JOUR 4 – PUBLICATION
 
 Après la réunion habituelle à 9h, l’heure est à la publication. Dans un premier temps nous avons contacté notre responsable de la collectivité territoriale afin de remplir convenablement les fiches descriptives de chaque jeux de données. Nous avons vu Madame H via zoom comme nous avons l’habitude de le faire. Cette étape nous a pris plus d’une heure car beaucoup d’informations étaient à ajouter dans les fiches.
 
