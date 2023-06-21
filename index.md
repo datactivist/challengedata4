@@ -70,7 +70,7 @@
 [![Illustration réalisé par Anne-Cécile Calléjon](https://github.com/datactivist/challengedata4/raw/main/images_cdb/Marseille.jpg)](https://datactivist.coop/challengedata4/marseille)
 
 
-## Maurienne Galibier \(Commune\)
+## Maurienne Galibier \(Communauté de communes\)
 
 [![Illustration réalisé par Anne-Cécile Calléjon](https://github.com/datactivist/challengedata4/raw/main/images_cdb/Maurienne%20Galibier.jpg)](https://datactivist.coop/challengedata4/maurienne_galibier)
 
